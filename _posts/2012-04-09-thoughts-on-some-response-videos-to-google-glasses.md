@@ -1,0 +1,22 @@
+---
+id: 428
+title: Thoughts on some response videos to Google Glasses
+date: 2012-04-09T10:50:12+00:00
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=191
+permalink: /2012/04/09/thoughts-on-some-response-videos-to-google-glasses/
+---
+Almost immediately after posting their [video on the Glasses project](https://plus.google.com/u/0/111626127367496192147/posts), creative folks around the world began posting knock-off videos, expressing their thoughts on the projects through pictures rather than words.  Because of my [rather negative](http://ael.gatech.edu/blair/2012/04/05/185/ "Oh no, Google, why that video?") comments on the video, I&#8217;ve had a few people send me links to them.  I wanted to reply to a few here, since I think both of these videos (and ones like them) miss the point.
+
+First, there are a number of the &#8220;oh, you covered my vision and now I bump into things&#8221; videos.  The one below was the first I saw, and also pokes fun at the seemingly perfect and appropriate contextual speech recognition capabilities in the original video.  The later is valid observation, and would hopefully be handled via a physical switch, like on Siri or Android&#8217;s speech recognition (or have more &#8220;confirm?&#8221; multi-step interaction).  But, the first problem, blocking the user&#8217;s field of view, is a side-effect of my major issue with the Google video, namely their unwise presentation of the heads-up virtual content as covering the full field of view of the wearer of the display (in contrast to the hardware images, which show the display as tiny, located up to the side).  The virtual content shown in the video is actually a pretty nice design for a small, peripheral heads-up display, but is terrible for an immersive AR display.  I do think people should reflect on both the &#8220;automated natural interaction&#8221; presented in the video, and re-think their view of the video overlay if it was really out of their focal view.
+
+<span class="vvqbox vvqyoutube" style="width:425px;height:344px;"><span id="vvq-428-youtube-1"><a href="http://www.youtube.com/watch?v=t3TAOYXT840"><img src="http://img.youtube.com/vi/t3TAOYXT840/0.jpg" alt="YouTube Preview Image" /></a></span></span> 
+
+The second group of videos are on the theme of &#8220;google is really just going to use this to put ads everywhere&#8221;.  The one below is also the first one of these I saw, and while it&#8217;s cute for a laugh, I think these videos miss the point.  While I can believe some folks deep inside Google would love to monetize your view of the world this, it&#8217;s pretty clear that an obnoxious cluttering of automatic ads (or even a less obnoxious one) would kill such a product.  The Glasses are a novelty, and would be pretty easy to take off and sell on eBay if they subjected their users to an intruisive barrage of ads.  My suspicion, actually, is that the Glasses would run apps (much like other Android devices) and individual app manufacturers would choose their monetization strategy as the desire (much as they do now).  There would be more options available to them, obviously, but just as ad-supported internet access (you all remember those days, right?) was an abysmal failure, so would an ad-supported wearable display.
+
+<span class="vvqbox vvqyoutube" style="width:425px;height:344px;"><span id="vvq-428-youtube-2"><a href="http://www.youtube.com/watch?v=_mRF0rBXIeg"><img src="http://img.youtube.com/vi/_mRF0rBXIeg/0.jpg" alt="YouTube Preview Image" /></a></span></span> 
+
+Despite all of these issues, I&#8217;m still pretty excited about what these glasses represent.  If Google can truly figure out how to make a usable, always-connected, stand-alone wearable heads-up display, for approximately the price of a phone or a tablet, we&#8217;ll finally have a sandbox in which to see if there truly is a use for always-available access to information.  It&#8217;s not an ideal device, but it looks pretty good.  The array of sensors and capabilities seems like a nice balance, and if they can crack the &#8220;display quality&#8221; issues (the Big If[tm]), it&#8217;ll be interesting to see where it goes.
+
+Too bad the video wasn&#8217;t better.
