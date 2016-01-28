@@ -4,18 +4,9 @@ title: 'Preparing for UIST 2014 &#8230; decade-old technology rises from the dea
 date: 2014-09-23T21:43:24+00:00
 author: blair
 layout: post
+comments: true
 guid: http://blairmacintyre.me/?p=737
 permalink: /2014/09/23/preparing-for-uist-2014/
-wpzoom_portfolio_overview:
-  - 
-wpzoom_portfolio_client:
-  - 
-wpzoom_portfolio_services:
-  - 
-wpzoom_post_template:
-  - 
-wpzoom_slideshow_url:
-  - 
 ---
 In a few weeks, my colleague Maribeth Gandy and I will be presenting a paper at [UIST 2014](http://www.acm.org/uist/uist2014/) (ACM&#8217;s User Interface Software and Technology conference), reflecting back on what we learned from our [DART](http://ael.gatech.edu/dart/) system (The Designer&#8217;s Augmented Reality Toolkit, the first paper on DART was published at UIST 2004!).
 
