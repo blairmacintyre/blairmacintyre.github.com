@@ -1,6 +1,6 @@
 ---
 id: 6
-title: About
+title: about
 date: 2008-09-11T16:28:04+00:00
 author: blair
 layout: page

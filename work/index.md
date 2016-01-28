@@ -1,6 +1,6 @@
 ---
 id: 201
-title: Work
+title: work
 date: 2013-09-14T13:51:49+00:00
 author: blair
 layout: page

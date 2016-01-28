@@ -5,14 +5,19 @@ email: blair@macmynatt.com
 description: > # this means to ignore newlines until "baseurl:"
   Professor, Designer, Husband, Father
 baseurl: ""
-url: "https://test.blairmacintyre.me"
+url: "https://blairmacintyre.me"
+disqusURL: "http://blairmacintyre.me"
 twitter_username: blairmacintyre
 github_username:  blairmacintyre
+
+permalink:    /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
 
 highlighter: pygments
+
+gems: [jekyll-paginate]
 
 # Pagination
 paginate: 15

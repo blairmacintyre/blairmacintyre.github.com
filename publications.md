@@ -1,6 +1,6 @@
 ---
 id: 208
-title: Publications
+title: publications
 date: 2013-09-14T13:54:51+00:00
 author: blair
 layout: page

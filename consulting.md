@@ -1,6 +1,6 @@
 ---
 id: 750
-title: Consulting
+title: consulting
 date: 2015-02-01T17:36:59+00:00
 author: blair
 layout: page
