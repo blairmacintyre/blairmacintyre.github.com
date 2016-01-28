@@ -1,3 +1,41 @@
-url: http://blairmacintyre.me
+# Site settings
 name: Blair MacIntyre
-description: Professor, Designer, Husband, Father
+title: Blair MacIntyre
+email: blair@macmynatt.com
+description: > # this means to ignore newlines until "baseurl:"
+  Professor, Designer, Husband, Father
+baseurl: /
+url: http://test.blairmacintyre.me
+twitter_username: blairmacintyre
+github_username:  blairmacintyre
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/page:num/"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  articles:
+    output: true
+    permalink: /articles/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "articles"
+    values:
+      comments: true
