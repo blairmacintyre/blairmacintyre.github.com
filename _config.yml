@@ -4,8 +4,8 @@ title: Blair MacIntyre
 email: blair@macmynatt.com
 description: > # this means to ignore newlines until "baseurl:"
   Professor, Designer, Husband, Father
-baseurl: /
-url: http://test.blairmacintyre.me
+baseurl: ""
+url: "https://test.blairmacintyre.me"
 twitter_username: blairmacintyre
 github_username:  blairmacintyre
 
