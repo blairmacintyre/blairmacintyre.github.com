@@ -6,6 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    Estimated {% capture readtime %}{{ content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read time
   </header>
 
   <article class="post-content">
