@@ -1,11 +1,35 @@
-<footer class="site-footer">
+<footer>
+  <hr class="slender">
 
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Copyright &#169; 2016 Blair MacIntyre. All Rights Reserved.</p>
-  </div>
-
+<table>
+<thead><tr><td colspan="8"><center>Causes and Organizations I support</center></td></tr><tr></thead>
+<tbody><td align="center" valign="center"><a href="http://eff.org"><img src="/assets/uploads/2014/05/2014-members-circle.png" height="50"></a></td><td align="center"><a href="http://open-stand.org"><img src="/assets/uploads/2014/04/128x128-black1.png" height="50"></a></td><td align="center"><a href="http://thecostofknowledge.com"><img src="/assets/uploads/2014/04/The_Cost_of_Knowledge_logo.png" height="50"></a></td>
+<td align="center"  valign="center"><a href="http://www.npr.org"><img src="/assets/uploads/2014/04/9287015-large.jpg" height="40"></a></td>
+<td align="center"><a href="http://mediamatters.org"><img src="/assets/uploads/2014/04/1513899_10151814630831167_889221688_n.jpg" height="50"></a></td>
+<td align="center"><a href="http://moveon.org"><img src="/assets/uploads/2014/04/999932_10151803304760493_1329224423_n.png" height="50"></a></td>
+<td align="center"><a href="http://plannedparenthood.org"><img src="/assets/uploads/2014/04/66175_608899342459447_527621530_a.png" height="50"></a></td>
+<td align="center"><a href="http://aclu.org"><img src="/assets/uploads/2014/04/ACLU-logo.jpg" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+</div>  
 </footer>
+<footer>
+<br>
+<br>
 
+  <ul class="footer-links">
+    <li><a href="mailto:blair@cc.gatech.edu"><span class="icon-mail"></span></a></li>    
+    {% for entry in site.data.social %}
+      <li>
+        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+      </li>
+    {% endfor %}  
+  </ul>
+<div class="credits">
+<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
+</div>
+</footer>
              <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));

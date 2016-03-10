@@ -1,0 +1,47 @@
+---
+layout: full-width
+title: Blog
+nav_exclude: 1
+---
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-hand-o-left"></i></a>
+  {% endif %}
+  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next"><i class="fa fa-hand-o-right"></i></a>
+  {% endif %}
+</div>
+
+<!-- <h1 class="content-listing-header sans">Blog Posts, page {{paginator.page}}</h1>-->
+<ul class="content-listing ">
+    {% for post in paginator.posts %}
+
+      <li class="listing">
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+ 
+        {% if post.description %}
+        <div>{{ post.description }}</div> 
+        {% endif %}        
+        {% if post.excerpt %}
+        <div>{{ post.excerpt }}</div> 
+        {% endif %}        
+        </li>  
+
+    {% endfor %}
+</ul>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-hand-o-left"></i></a>
+  {% endif %}
+  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next"><i class="fa fa-hand-o-right"></i></a>
+  {% endif %}
+</div>

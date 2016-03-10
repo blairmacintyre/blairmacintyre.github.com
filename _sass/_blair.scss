@@ -1,0 +1,30 @@
+/** Variables **********************************************/
+$base-line-height:              1.5em;
+$horizontal-spacing-unit:       50px;
+$vertical-spacing-unit:         40px;
+$nav-height:                    56px;
+
+/* portfolio tinkering */
+$img_spacing: 5px; 
+$img_height: 275px;
+$light-text-color: #666;
+
+.alignright {
+    float: right;
+}
+
+
+/**
+ * Clearfix
+ *
+%clearfix {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+*/
+

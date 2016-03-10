@@ -1,10 +1,11 @@
 ---
-layout: page
-title: portfolio
+layout: full-width
+title: Portfolio
+headmenu: Portfolio
 permalink: /portfolio/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.portfolio reversed %}
 
 {% if project.redirect %}
 <div class="project">
@@ -16,9 +17,8 @@ permalink: /portfolio/
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
+            <p class="thumbnailTitle">{{ project.title }}</p>
+            <p class="thumbnailSubtitle">{{ project.subtitle }}</p>
         </span>
         </a>
     </div>
@@ -34,9 +34,8 @@ permalink: /portfolio/
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
+            <p class="thumbnailTitle">{{ project.title }}</p>
+            <p class="thumbnailSubtitle">{{ project.subtitle }}</p>
         </span>
         </a>
     </div>
