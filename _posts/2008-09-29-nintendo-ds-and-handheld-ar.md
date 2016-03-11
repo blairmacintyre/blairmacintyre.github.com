@@ -6,11 +6,14 @@ author: blair
 layout: post
 guid: http://www.augmentedenvironments.org/blair/?p=32
 permalink: /2008/09/29/nintendo-ds-and-handheld-ar/
-podPressPostSpecific:
-  - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
-dsq_thread_id:
-  - 4525158572
+categories:
+- commercial
+- games
+tags:
+- handheld ar
+- nintendo
 ---
+
 Over on [Wired](http://blog.wired.com/games/2008/09/nikkei-new-nint.html) there is an article about a new Nintendo DS possibly having a camera and other support for creating AR games. Ori also [comments](http://gamesalfresco.com/2008/09/28/nintendo-ds-wants-to-augmented-your-reality/) on this.
 
 I am also really excited by this; anything that pushes handheld AR will be a good thing for those of us currently engaged in it (and it’ll give my students more job opportunities!).  There is the practical issue of creating “good handheld AR games” that are practical for mass marketing and consumption. The DS/PSP/Gizmondo aren’t powerful enough to do “real computer vision” (like the PS3 could do), and so some sort of physical props (e.g., cards with markers on them) will be needed. As soon as your start requiring props, that makes the games less portable … a conundrum to be sure.

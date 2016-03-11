@@ -1,15 +1,23 @@
 ---
-layout: page
+layout: full-width
 permalink: /articles/
-title: articles
+title: Articles
+headmenu: Articles
 description: Longer articles than might be appropriate for the blog.
 ---
 
-<ul class="post-list">
+<!--
+<ul class="content-listing">
 {% for article in site.articles reversed %}
-    <li>
-        <h2><a class="article-title" href="{{ article.url | prepend: article.baseurl }}">{{ article.title }}</a></h2>
-        <p class="post-meta">{{ article.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      </li>
-{% endfor %}
+      <li class="listing">
+        <hr class="slender">
+        <a href="{{ article.url | prepend: site.baseurl }}"><h3 class="contrast">{{ article.title }}</h3></a>
+        <br><span class="smaller">{{ article.date | date: "%B %-d, %Y" }}</span>  <br/>
+ 
+        {% if article.subtitle %}
+        <div>{{ article.subtitle }}</div> 
+        {% endif %}        
+        </li>  
+    {% endfor %}
 </ul>
+-->

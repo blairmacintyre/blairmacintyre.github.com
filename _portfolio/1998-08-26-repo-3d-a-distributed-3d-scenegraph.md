@@ -1,21 +1,12 @@
 ---
 id: 516
-title: 'Repo-3D:  A Distributed 3D Scenegraph'
+title: Repo-3D
+subtitle: A Distributed 3D Scenegraph based on Language-level Distributed Objects 
+img: /assets/uploads/2013/09/spaceframe2-444x350.jpg
 date: 1998-08-26T11:40:35+00:00
 author: blair
 layout: portfolio
-guid: 'http://www.blairmacintyre.me/?post_type=portfolio&#038;p=516'
 permalink: /project/repo-3d-a-distributed-3d-scenegraph/
-wpzoom_slider:
-  - 'a:0:{}'
-wpzoom_portfolio_overview:
-  - 
-wpzoom_portfolio_client:
-  - 
-wpzoom_portfolio_services:
-  - 
-wpzoom_post_template:
-  - 
-wpzoom_slideshow_url:
-  - 
 ---
+
+Repo!

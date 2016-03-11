@@ -4,6 +4,7 @@ title: 'ARf: an AR Virtual Pet'
 date: 2008-11-01T14:11:33+00:00
 author: blair
 layout: portfolio
+img: /assets/uploads/2008/11/arf_still.jpg
 guid: 'http://www.blairmacintyre.me/?post_type=portfolio&#038;p=557'
 permalink: /project/arf-an-ar-virtual-pet/
 wpzoom_slider:
