@@ -1,9 +1,0 @@
----
-layout: default
----
-<h1>{{ page.title }}</h1>
-{% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
-<p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
-About a {% capture readtime %}{{ content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read
-
-{{ content }}
