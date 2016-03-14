@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>HomeKit, Google, Facebook, Privacy and the Internet of Things</title>
+  <meta name="description" content="While there is much that can be said about privacy, security, policy and the Internet of Things (in fact, I’m going to be co-teaching a graduate class at Geo...">
+
+  <link rel="stylesheet" href="/css/tufte.css">
+  <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png">
+  <link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/assets/favicons/manifest.json'">
+  <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5'">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  
+  <!--  <link rel="stylesheet" href="/css/main.css">   -->
+    <link rel="canonical" href="https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="alternate" type="application/rss+xml" title="Blair MacIntyre" href="https://blairmacintyre.me/feed.xml" />
+    
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/"><img class="badge" src="/assets/images/blair8bit-68x75.png" alt="Blair"></a>
+    
+        <a href="/">Home</a>
+    
+	
+		
+  	
+		
+		    
+		      <a href="/articles/">Articles</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/consulting/">Consulting</a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/portfolio/">Portfolio</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/work/">work</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/publications/">Publications</a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+    
+        <a href="/blog/">Blog</a>
+    
+	</nav>
+</header>
+    <article class="group">
+      <h1>Homekit, google, facebook, privacy and the internet of things</h1>
+
+<p class="post-meta">June 20, 2014</p>
+    About a 5 min. read
+
+
+<p>While there is much that can be said about privacy, security, policy and the Internet of Things (in fact, I’m going to be co-teaching a graduate class at Georgia Tech on this very topic next spring), here I want to focus on one thing:  the invasion of your home and my hope Apple and their partners take privacy seriously.</p>
+
+<p>Internet connected devices that feed continuous information to cloud services are a big deal, in terms of privacy.  Right now, there are little isolated clouds that have access to bits of our information (think Fitbit or Jawbone Up, Loseit or Runkeeper, Cell-tower location, Amazon purchases, and so on).  But these are converging, and very soon will be able to be leveraged to infer unprecedented information about us, information we didn’t even imagine could be collected.  Apple’s HealthKit and Google Fit are going to start consolidating some of this, but most people still feel like that is something they would opt into (or not).</p>
+
+<p>The devices we install in our home are different, because they are not linked to our phone, are not opt-in, and soon it won’t be possible to buy a fridge or thermostat that isn’t “smart”;  our water and electricity usage will soon be monitored as well for billing and to provide “better service.” Researchers at Georgia Tech and the University of Washington (Abowd and Patel, in particular) have already demonstrated this simple information can be used to create an accurate picture of usage of anything that uses water or electricity in the home.   And this, in turn, gives a surprising picture of life in the home.</p>
+
+<p>I will make no secret of the fact that my initial reaction to Google buying Nest last year was to search for a decent alternative to our 3 Nest’s (haven’t found one yet, but the <a href="http://www.lyric.honeywell.com">Lyric</a>  looks interesting).  When Facebook bought Moves, I deleted my Moves account and data.  While I use Facebook to keep in touch with relatives and some close friends, I generally do not link other services to it.  I make use of my share of Google services, of course. I use the web and am happy for Google to index the hell out of it;  I’m happy that a search for “Blair MacIntyre” on google.com yields pages and pages of links pointing at my pages, research, interviews, talks and so on.</p>
+
+<p>But I am not happy about giving Google access to this sort of always-on, always-collecting, deeply-personal information about my family and me.  I won’t use Android and I don’t use Chromecast, for similar reasons.  Some say “it’s no big deal, there’s no way to stop this information being collected, it’s not like anything bad can happen”, but I disagree.</p>
+
+<p>Simple put, I’m not willing to hand access to all aspects of my life to companies whose entire business model is based on building an increasingly accurate model of me, and monetizing it.  I’m not naive enough to think Apple is virtuous, but their business is not (yet) centered around monetizing a model of me (rather, it’s centered around locking me into their ecosystem and monetizing me in a much more direct way, though purchase of products and services).   It’s in Apple’s interest for me to trust them, for their ecosystem to be easy to use and tightly integrated, and that is actually reason for hope.</p>
+
+<p>The problem, as I see it, is that all of these connected devices are sending data directly to cloud services.  While convenient (I can turn on the AC at home via the Nest app, yay!), this is a massive data privacy and security problem:  specifically, the data is out of your control as soon as it leaves the house.  What needs to happen is for these Internet of Devices to be connected to personal clouds, preferably in the home, where homeowners have direct and understandable control over what leaves their house.  Right now, this can’t happen because each device is tied to a company who wants to retain control (of you, of the devices, of the services).  But, as the industry matures and consolidates, there is the opportunity for ecosystems to develop that companies need to make their devices work with, rather than going it alone.</p>
+
+<p>And this is why I am hopeful about HomeKit.  Apple is all about low-friction user experiences, and can easily create an environment where companies are incentivized to tie into it’s services instead of developing their own.  There is no reason these services cannot include home gateways (perhaps a future Airport base station, or even a future Apple TV?) that give users the opportunity to control, aggregate, filter or discard their data, as they see fit.  Apple can decide to provide users with guarantees that their data is not shared, that it lives in their iCloud account, and that it will not be looked at without their permission, because Apple doesn’t need that kind of information for their core business:  in fact, their core business can leverage that stance as a reason you should buy into it.</p>
+
+<p>This is also, as you can imagine, why I am not at all excited about the corresponding Google or Facebook ecosystems.</p>
+
+
+<div class="postNav">
+  
+    <a class="prev" href="/2014/05/03/interesting-video-free-is-a-lie/"><i class="fa fa-hand-o-left"></i> Interesting Video:  Free is a Lie</a>
+  
+  
+    <a class="next" href="/2014/09/14/we-need-new-business-models-in-iod/">We Need New Business Models in IoD <i class="fa fa-hand-o-right"></i></a>
+  
+</div>
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    var disqus_config = function () {
+        /*var disqus_url = "http://domain.com/2014/06/20/homekit-and-the-internet-of-things/";
+        */
+        this.page.url = "http://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/";
+        /*this.page.identifier = '/2014/06/20/homekit-and-the-internet-of-things/'; 
+        */
+    };
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//blairmacintyre-me.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+    </article>
+    <span class="print-footer">HomeKit, Google, Facebook, Privacy and the Internet of Things - June 20, 2014 - Blair MacIntyre</span>
+    <footer>
+  <hr class="slender">
+
+<table>
+<thead><tr><td colspan="8"><center>Causes and Organizations I support</center></td></tr><tr></thead>
+<tbody><td align="center" valign="center"><a href="http://eff.org"><img src="/assets/uploads/2014/05/2014-members-circle.png" height="50"></a></td><td align="center"><a href="http://open-stand.org"><img src="/assets/uploads/2014/04/128x128-black1.png" height="50"></a></td><td align="center"><a href="http://thecostofknowledge.com"><img src="/assets/uploads/2014/04/The_Cost_of_Knowledge_logo.png" height="50"></a></td>
+<td align="center"  valign="center"><a href="http://www.npr.org"><img src="/assets/uploads/2014/04/9287015-large.jpg" height="40"></a></td>
+<td align="center"><a href="http://mediamatters.org"><img src="/assets/uploads/2014/04/1513899_10151814630831167_889221688_n.jpg" height="50"></a></td>
+<td align="center"><a href="http://moveon.org"><img src="/assets/uploads/2014/04/999932_10151803304760493_1329224423_n.png" height="50"></a></td>
+<td align="center"><a href="http://plannedparenthood.org"><img src="/assets/uploads/2014/04/66175_608899342459447_527621530_a.png" height="50"></a></td>
+<td align="center"><a href="http://aclu.org"><img src="/assets/uploads/2014/04/ACLU-logo.jpg" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+</div>  
+</footer>
+<footer>
+<br>
+<br>
+
+  <ul class="footer-links">
+    <li><a href="mailto:blair@cc.gatech.edu"><span class="icon-mail"></span></a></li>    
+    
+      <li>
+        <a href="//www.twitter.com/blairmacintyre"><span class="icon-twitter"></span></a>
+      </li>
+    
+      <li>
+        <a href="https://plus.google.com/+BlairMacIntyre"><span class="icon-googleplus"></span></a>
+      </li>
+    
+      <li>
+        <a href="//github.com/blairmacintyre"><span class="icon-github"></span></a>
+      </li>
+    
+      <li>
+        <a href="//www.flickr.com/photos/blairmacintyre"><span class="icon-flickr"></span></a>
+      </li>
+    
+      <li>
+        <a href="/feed"><span class="icon-feed"></span></a>
+      </li>
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2016 &nbsp;&nbsp;BLAIR MACINTYRE</span></br> <br>
+</div>
+</footer>
+             <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-44001333-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>

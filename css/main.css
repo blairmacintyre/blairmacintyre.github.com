@@ -1,0 +1,248 @@
+/* This file contains all the constants for colors and font styles */
+/** Variables **********************************************/
+/* portfolio tinkering */
+.alignright {
+  float: right; }
+
+/**
+ * Clearfix
+ *
+%clearfix {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+*/
+/****
+ * FIX TUFTE stuff
+ */
+header > nav a img {
+  height: 5rem;
+  position: relative;
+  max-width: 100%;
+  image-rendering: optimizeSpeed;
+  /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;
+  /* Firefox                        */
+  image-rendering: -o-crisp-edges;
+  /* Opera                          */
+  image-rendering: -webkit-optimize-contrast;
+  /* Chrome (and eventually Safari) */
+  image-rendering: pixelated;
+  /* Chrome */
+  image-rendering: optimize-contrast;
+  /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;
+  /* IE8+                           */ }
+
+body {
+  padding-left: 0%; }
+
+footer {
+  clear: left; }
+
+.post-meta {
+  color: #666;
+  font-style: italic;
+  margin-top: 0.1777777777777778rem;
+  margin-bottom: 2.1777777777777778rem;
+  font-size: 1.8rem;
+  display: block;
+  line-height: 1.08888888888889; }
+
+.subtitle {
+  font-style: italic;
+  margin-top: -1.1777777777777778rem;
+  margin-bottom: 2.1777777777777778rem;
+  font-size: 1.8rem;
+  display: block;
+  line-height: 1.08888888888889; }
+
+/**
+ * Pagination   **********************************************************
+ */
+.postNav {
+  font-style: italic;
+  font-weight: 300;
+  margin-top: 0.866666666666667rem;
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  line-height: 0.833333333333333;
+  display: block;
+  width: auto;
+  overflow: hidden;
+  color: #a00000; }
+
+.postNav a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0; }
+
+.postNav .next {
+  text-align: right; }
+
+.pagination {
+  display: block;
+  font-style: italic;
+  font-weight: 300;
+  margin-top: 0.866666666666667rem;
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  line-height: 0.833333333333333;
+  width: auto;
+  overflow: hidden;
+  color: #a00000;
+  text-align: center; }
+
+.paginationicon {
+  font-size: 50px; }
+
+/** 
+ * Portfolio grid **********************************************************
+*/
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table; }
+
+.clearfix:after {
+  clear: both; }
+
+.project {
+  width: 33.33%;
+  height: 250px;
+  float: left;
+  vertical-align: middle;
+  box-sizing: border-box;
+  padding: 10px; }
+
+.thumbnail {
+  width: 100%;
+  height: 230px;
+  overflow: hidden; }
+
+.thumbnail img {
+  width: auto;
+  height: 230px;
+  margin: auto;
+  float: left;
+  position: relative;
+  left: -75%;
+  top: 0%;
+  max-width: 1000px; }
+
+.thumbnail a {
+  float: left;
+  position: relative;
+  width: 100%;
+  height: 230px; }
+
+@media screen and (min-width: 600px) {
+  .thumbnail img {
+    left: -50%; } }
+@media screen and (min-width: 800px) {
+  .thumbnail img {
+    left: -25%; } }
+@media screen and (min-width: 900px) {
+  .thumbnail img {
+    left: -15%; } }
+@media screen and (min-width: 1000px) {
+  .thumbnail img {
+    left: -5%; } }
+@media screen and (min-width: 1100px) {
+  .thumbnail img {
+    left: 0%; } }
+@media screen and (min-width: 1200px) {
+  .thumbnail img {
+    left: 0%;
+    top: -5%;
+    width: 325px;
+    height: auto; } }
+@media screen and (min-width: 1300px) {
+  .thumbnail img {
+    left: 0%;
+    top: -10%;
+    width: 350px;
+    height: auto; } }
+@media screen and (min-width: 1400px) {
+  .thumbnail img {
+    left: 0%;
+    top: -15%;
+    width: 375px;
+    height: auto; } }
+@media screen and (min-width: 1500px) {
+  .thumbnail img {
+    left: 0%;
+    top: -20%;
+    width: 400px;
+    height: auto; } }
+.thumbnailTitle {
+  font-weight: 400;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.75rem;
+  line-height: 1.1;
+  font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  letter-spacing: .03em; }
+
+.thumbnailSubtitle {
+  font-weight: 100;
+  margin-top: 0.25rem;
+  margin-bottom: 0rem;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+  letter-spacing: .03em; }
+
+.thumbnail a span {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fffff8;
+  padding: 10px;
+  text-align: center; }
+
+.thumbnail a:hover span {
+  display: block; }
+
+.blankbox {
+  background: #a00000; }
+
+/** 
+ * Portfolio pages **********************************************************
+*/
+.img_row {
+  height: 275px;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: 5px; }
+
+.col {
+  width: 100%;
+  height: 100%;
+  float: left;
+  object-fit: cover;
+  box-sizing: border-box;
+  padding: 5px; }
+
+.right {
+  float: right; }
+
+.one {
+  width: 33.33%; }
+
+.two {
+  width: 66.66%; }
+
+.three {
+  width: 100%; }

@@ -1,31 +1,391 @@
----
-layout: null
-nav_exclude: 1
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Blair MacIntyre</title>
+    <description>Professor, Designer, Husband, Father
+</description>
+    <link>https://blairmacintyre.me/</link>
+    <atom:link href="https://blairmacintyre.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Mar 2016 16:01:27 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 16:01:27 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Preparing for UIST 2014 &amp;#8230; decade-old technology rises from the dead!</title>
+        <description>&lt;p&gt;In a few weeks, my colleague Maribeth Gandy and I will be presenting a paper at &lt;a href=&quot;http://www.acm.org/uist/uist2014/&quot;&gt;UIST 2014&lt;/a&gt; (ACM’s User Interface Software and Technology conference), reflecting back on what we learned from our &lt;a href=&quot;http://ael.gatech.edu/dart/&quot;&gt;DART&lt;/a&gt; system (The Designer’s Augmented Reality Toolkit, the first paper on DART was published at UIST 2004!).&lt;/p&gt;
+
+&lt;p&gt;Along with our paper, we want to demo some of the old work we did with DART, but 10 years is an eternity in computer time!  Fortunately, some of the old laptops and technology are still sitting on shelves, so today we fired a few of them up. Much to our surprise, one of the Toshiba laptops was actually hibernating, not shut down.  DART  was created as an extension to (then Macromedia, now Adobe) Director, the authoring environment for Shockwave content.  And, low and behold, Director was sitting there running!  Poking around, it appears we put this machine to sleep in 2007 or so;  it’s like waking a fairy tale creature (minus the kissing part).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-15.45.35.jpg&quot;&gt;&lt;img src=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-15.45.35-1024x1024.jpg&quot; alt=&quot;2014-09-23 15.45.35&quot; /&gt;&lt;/a&gt;If you look closely, you can see the cracks on the display (from us holding it up as a tablet;  this is one of those original convertible tablets from the early 2000’s, complete with Wacom Pen).  We’re very afraid to connect this to the internet;  it’s such an old unlatched version of Windows XP, god knows what will happen.&lt;/p&gt;
+
+&lt;p&gt;A few other windows were open, too:  a file browser, where the newest date was the CVS directory (CVS, so old-school!), 2-18-2005, 5:24pm.   And, a Microsoft Paint window, with a video frame from Four Angry Men open.  Good times!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-15.46.03.jpg&quot;&gt;&lt;img src=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-15.46.03-300x300.jpg&quot; alt=&quot;2014-09-23 15.46.03&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-15.45.52.jpg&quot;&gt;&lt;img src=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-15.45.52-300x300.jpg&quot; alt=&quot;2014-09-23 15.45.52&quot; /&gt;&lt;/a&gt; We’ve got a lot of work to do resurrecting this stuff, but it’s going to be a ton of fun, and I’m really looking forward to bringing it all to UIST!   Here’s the lab table as I left it today, covered with a pile of tech more than a decade old.  See if you can find the tiny Intersense trackers that cost us ~$10,000 each back then!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-17.12.25.jpg&quot;&gt;&lt;img src=&quot;http://blairmacintyre.me/wp-content/uploads/2014/09/2014-09-23-17.12.25-1024x1024.jpg&quot; alt=&quot;2014-09-23 17.12.25&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Just for old times sake, here’s a few videos related to DART.  First, the video from our UIST 2004 paper. [youtube]https://www.youtube.com/watch?v=l7xdIcRYfBE&amp;amp;list=UUkqXtx9nhZ7w4zfuQaR296g[/youtube]&lt;/p&gt;
+
+&lt;p&gt;And then, the video for Four Angry Men, probably the most elaborate AR experience we created back then.[youtube]https://www.youtube.com/watch?v=LmRd6XtVF0U&amp;amp;list=UUkqXtx9nhZ7w4zfuQaR296g[/youtube]&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Sep 2014 17:43:24 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</guid>
+        
+        <category>DART</category>
+        
+        <category>Four Angry Men</category>
+        
+        
+        <category>AEL</category>
+        
+        <category>demos</category>
+        
+        <category>Research</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Apple Claims the High Ground on Privacy</title>
+        <description>&lt;p&gt;Yesterday, &lt;a href=&quot;http://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/&quot;&gt;I blogged about an interview with Tim Cook&lt;/a&gt; where he made some great claims about Apple’s stance on privacy.  More keeps coming.  They are pushing everyone to two-factor authentication on iCloud, for example. Now, Apple posted a web page talking about how &lt;a href=&quot;http://www.apple.com/privacy/privacy-built-in/&quot;&gt;privacy is built into iOS and their services&lt;/a&gt;, which is chock full of wonderful things (and repleat with jabs at “their competitors”).&lt;/p&gt;
+
+&lt;p&gt;On iMessage/Facetime:&lt;/p&gt;
+
+&lt;blockquote&gt;So unlike other companies’ messaging services, Apple doesn’t scan your communications, and we wouldn’t be able to comply with a wiretap order even if we wanted to.&lt;/blockquote&gt;
+
+&lt;p&gt;On iCloud:&lt;/p&gt;
+
+&lt;blockquote&gt;Unlike our competitors, we never scan any of your iCloud data for advertising.&lt;/blockquote&gt;
+
+&lt;p&gt;On Maps:&lt;/p&gt;
+
+&lt;blockquote&gt;Other companies try to build a profile about you using a complete history of everywhere you’ve been, usually because they’re targeting you for advertisers. Since our business doesn’t depend on advertising, we have no interest in doing this — and we couldn’t even if we wanted to.&lt;/blockquote&gt;
+
+&lt;p&gt;On Mail:&lt;/p&gt;
+
+&lt;blockquote&gt;Some companies mine your email for personal information to serve you targeted ads. We don’t.&lt;/blockquote&gt;
+
+&lt;p&gt;On Spotlight Suggestions:&lt;/p&gt;
+
+&lt;blockquote&gt;Unlike our competitors, we don’t use a persistent personal identifier to tie your searches to you in order to build a profile based on your search history. We also place restrictions on our partners so they don’t create a long-term trail of identifiable searches by you or from your device.&lt;/blockquote&gt;
+
+&lt;p&gt;I gave a talk just this past Sunday on privacy and security in Internet of Things, Wearables and AR, and near the end suggested that a company with real products (Apple or Microsoft) could do exactly what Apple has done here:  take privacy seriously by &lt;strong&gt;not&lt;/strong&gt; mining our data, and make that stance clear.  At a time when privacy concerns are going to keep growing and growing, as more and more problems come up with wearable and internet-enabled devices, the company who convinces people that their data is safe and secure with them has a lot to gain.&lt;/p&gt;
+
+&lt;p&gt;And it looks like Apple just ate Microsoft’s lunch.  Again.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Sep 2014 05:14:00 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/18/apple-claims-the-high-ground-on-privacy/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/18/apple-claims-the-high-ground-on-privacy/</guid>
+        
+        <category>apple</category>
+        
+        <category>microsoft</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>You are not an iProduct</title>
+        <description>&lt;p&gt;I’ve been thinking lately about privacy and the relationship to the business strategies of various companies, and have become fond of saying that there are two companies:  ones that sell products and ones for whom you are the product.  Google and Facebook are the canonical examples of the later half (Google does sell some things, but largely does not, or does it at a massive loss).  Apple and Microsoft are canonical examples for the former.  There is a question, as The Googleplex continues to demonstrate the power of “free”, which direction Apple and Microsoft are going to go in the future.&lt;/p&gt;
+
+&lt;p&gt;I firmly believe that both companies have an enormous opportunity to sell services and technology if they can convince people they are not making you their product.&lt;/p&gt;
+
+&lt;p&gt;Just saw this quote from Tim Cook, that pretty clearly lays out where Apple stands:&lt;/p&gt;
+
+&lt;blockquote&gt;Our view is that when we design a new service we try not to collect data. So we&#39;re not reading your email. We&#39;re not reading your iMessage. If the government laid a subpoena on us to get your iMessages, we can&#39;t provide it. It&#39;s encrypted and we don&#39;t have a key.
+
+Our business is based on selling [products]. Our business is not based on having information about you. You are not our product.
+
+_([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-privacy/))_&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 10:57:03 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</guid>
+        
+        <category>apple</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>We Need New Business Models in IoD</title>
+        <description>&lt;p&gt;Today, I gave a talk at the Ubiquitous Computing conference’s &lt;a href=&quot;http://appanalysis.org/upside/&quot;&gt;Workshop on Usable Privacy &amp;amp; Security for wearable and domestic ubIquitous DEvices (UPSIDE)&lt;/a&gt;, modestly titled “&lt;em&gt;Augmented Reality + Internet of Devices + Big Data: The End of Privacy?&lt;/em&gt;” I’ll post something else about this talk soon, but one of the goals was&lt;/p&gt;
+
+&lt;blockquote&gt;to urge people to develop architectures for IoD + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.&lt;/blockquote&gt;
+
+&lt;p&gt;The problem with this goal, of course, is that some days it seems like the principle business model of tech companies right now is centered on the idea of giving things away and mining user data.  If we cut the cord to user data, what then of these services that folks have grown to love and expect to be free?&lt;/p&gt;
+
+&lt;p&gt;I think there is an opportunity to create new business models that reflect this expectation of “free,” but that actually result in direct revenue.  Looking to the games industry, the “free to play” model has succeeded because they have figured out how to generate income from players at those moments when the players see value — if I have more coins/eggs/whatever, I could do “something” in the game.  Designers of F2P games have figured out how to walk the line of making games that are (at least somewhat) fun to play for free, but where spending real money adds enough value that people will happily fork it over.  And they do fork it over, in often disturbing amounts.&lt;/p&gt;
+
+&lt;p&gt;This model won’t translate directly, of course. Many games leverage the same compulsions as casinos and other forms of gambling, withholding “fun” at just the moments it’s most tantalizing and then requiring players to spend “just a little bit” to keep playing.  It’s hard to imagine this model translating directly to a more mundane context, but the higher level point that people have demonstrated they will “paying a tiny amount at the moment when the user perceives real, tangible value” should translate.&lt;/p&gt;
+
+&lt;p&gt;To make this work, we’ll need a way to pay these small amounts.  In games, users buy “coins”, usually in bulk so they are easy to spend in the heat of the moment. (Those coins can typically also be “earned” in the game, giving users the illusion they could successfully play for free.)   Micro-transaction schemes haven’t worked well in the past, but if they can be smoothly integrated into an IoD context, there is enormous potential.  Given the appearance of systems to control these collections of devices (&lt;a href=&quot;https://developer.apple.com/homekit/&quot;&gt;HomeKit&lt;/a&gt;, &lt;a href=&quot;http://www.threadgroup.org&quot;&gt;Thread&lt;/a&gt; and &lt;a href=&quot;http://allseenalliance.org&quot;&gt;Allseen&lt;/a&gt;, to name a few), and the tie-in between these systems and existing payment infrastructures, the potential is certainly there.&lt;/p&gt;
+
+&lt;p&gt;(Aside:  IoD — Internet of Devices — is a term I like, in contrast to “Internet of Things,” and was coined in the paper “&lt;a href=&quot;https://smartech.gatech.edu/handle/1853/52020&quot;&gt;Defining the Internet of Devices: Privacy and Security Implications&lt;/a&gt;” by my colleagues at Georgia Tech.  Check it out.)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 16:55:15 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</guid>
+        
+        <category>business models</category>
+        
+        <category>free-to-play</category>
+        
+        <category>micro-payments</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>IoD</category>
+        
+      </item>
+    
+      <item>
+        <title>HomeKit, Google, Facebook, Privacy and the Internet of Things</title>
+        <description>&lt;p&gt;While there is much that can be said about privacy, security, policy and the Internet of Things (in fact, I’m going to be co-teaching a graduate class at Georgia Tech on this very topic next spring), here I want to focus on one thing:  the invasion of your home and my hope Apple and their partners take privacy seriously.&lt;/p&gt;
+
+&lt;p&gt;Internet connected devices that feed continuous information to cloud services are a big deal, in terms of privacy.  Right now, there are little isolated clouds that have access to bits of our information (think Fitbit or Jawbone Up, Loseit or Runkeeper, Cell-tower location, Amazon purchases, and so on).  But these are converging, and very soon will be able to be leveraged to infer unprecedented information about us, information we didn’t even imagine could be collected.  Apple’s HealthKit and Google Fit are going to start consolidating some of this, but most people still feel like that is something they would opt into (or not).&lt;/p&gt;
+
+&lt;p&gt;The devices we install in our home are different, because they are not linked to our phone, are not opt-in, and soon it won’t be possible to buy a fridge or thermostat that isn’t “smart”;  our water and electricity usage will soon be monitored as well for billing and to provide “better service.” Researchers at Georgia Tech and the University of Washington (Abowd and Patel, in particular) have already demonstrated this simple information can be used to create an accurate picture of usage of anything that uses water or electricity in the home.   And this, in turn, gives a surprising picture of life in the home.&lt;/p&gt;
+
+&lt;p&gt;I will make no secret of the fact that my initial reaction to Google buying Nest last year was to search for a decent alternative to our 3 Nest’s (haven’t found one yet, but the &lt;a href=&quot;http://www.lyric.honeywell.com&quot;&gt;Lyric&lt;/a&gt;  looks interesting).  When Facebook bought Moves, I deleted my Moves account and data.  While I use Facebook to keep in touch with relatives and some close friends, I generally do not link other services to it.  I make use of my share of Google services, of course. I use the web and am happy for Google to index the hell out of it;  I’m happy that a search for “Blair MacIntyre” on google.com yields pages and pages of links pointing at my pages, research, interviews, talks and so on.&lt;/p&gt;
+
+&lt;p&gt;But I am not happy about giving Google access to this sort of always-on, always-collecting, deeply-personal information about my family and me.  I won’t use Android and I don’t use Chromecast, for similar reasons.  Some say “it’s no big deal, there’s no way to stop this information being collected, it’s not like anything bad can happen”, but I disagree.&lt;/p&gt;
+
+&lt;p&gt;Simple put, I’m not willing to hand access to all aspects of my life to companies whose entire business model is based on building an increasingly accurate model of me, and monetizing it.  I’m not naive enough to think Apple is virtuous, but their business is not (yet) centered around monetizing a model of me (rather, it’s centered around locking me into their ecosystem and monetizing me in a much more direct way, though purchase of products and services).   It’s in Apple’s interest for me to trust them, for their ecosystem to be easy to use and tightly integrated, and that is actually reason for hope.&lt;/p&gt;
+
+&lt;p&gt;The problem, as I see it, is that all of these connected devices are sending data directly to cloud services.  While convenient (I can turn on the AC at home via the Nest app, yay!), this is a massive data privacy and security problem:  specifically, the data is out of your control as soon as it leaves the house.  What needs to happen is for these Internet of Devices to be connected to personal clouds, preferably in the home, where homeowners have direct and understandable control over what leaves their house.  Right now, this can’t happen because each device is tied to a company who wants to retain control (of you, of the devices, of the services).  But, as the industry matures and consolidates, there is the opportunity for ecosystems to develop that companies need to make their devices work with, rather than going it alone.&lt;/p&gt;
+
+&lt;p&gt;And this is why I am hopeful about HomeKit.  Apple is all about low-friction user experiences, and can easily create an environment where companies are incentivized to tie into it’s services instead of developing their own.  There is no reason these services cannot include home gateways (perhaps a future Airport base station, or even a future Apple TV?) that give users the opportunity to control, aggregate, filter or discard their data, as they see fit.  Apple can decide to provide users with guarantees that their data is not shared, that it lives in their iCloud account, and that it will not be looked at without their permission, because Apple doesn’t need that kind of information for their core business:  in fact, their core business can leverage that stance as a reason you should buy into it.&lt;/p&gt;
+
+&lt;p&gt;This is also, as you can imagine, why I am not at all excited about the corresponding Google or Facebook ecosystems.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2014 06:43:41 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/</guid>
+        
+        <category>apple</category>
+        
+        <category>google</category>
+        
+        <category>homekit</category>
+        
+        <category>lyric</category>
+        
+        
+        <category>musings</category>
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>Interesting Video:  Free is a Lie</title>
+        <description>&lt;p&gt;Lance Weatherby posted a link to this video on &lt;a href=&quot;http://blog.weatherby.net/2014/05/free-is-a-lie.html&quot;&gt;his blog&lt;/a&gt;, and I agree with him that it’s interesting and worth watching.&lt;/p&gt;
+
+&lt;p&gt;While the presenter (Aral Balkan) is a bit over the top in his analysis of Google (e.g., I really don’t think Project Tango is a grand conspiracy by Google to secretly map the inside of everyone’s house), I do think the point he gets to later in the video (when he shifts from the implications of our ceding our data to the big 4 - Google, Apple, Facebook and Twitter - to his thoughts on user experience) are interesting. His point about the main problem with the “Free” alternatives are insightful.&lt;/p&gt;
+
+&lt;p&gt;It’s worth a watch!  Here’s the description of the video, from youtube:&lt;/p&gt;
+
+&lt;blockquote&gt;It&#39;s time for a design revolution in open technology. Companies like Google and Facebook that dominate the Internet promise us free services in exchange for the right to watch and study us; to mine and farm us. Like quarries, like livestock, we are natural resources to be exploited in a brave new digital world of corporate surveillance that threatens our most fundamental freedoms.
+
+There are open alternatives but they are too difficult for most of us to use.
+
+It is time to bring design thinking to open source and build beautiful, seamless open consumer products that are easy to use and which respect our fundamental freedoms.&lt;/blockquote&gt;
+
+&lt;p&gt;[youtube]https://www.youtube.com/watch?v=upu0gwGi4FE[/youtube]&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 May 2014 09:20:10 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</guid>
+        
+        <category>design thinking</category>
+        
+        <category>freedom</category>
+        
+        <category>privacy</category>
+        
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>Aside:  Reforming Money in Politics</title>
+        <description>&lt;p&gt;&lt;em&gt;[For those who don’t agree with campaign, please forgive me posting this in my blog;  I prefer to focus here on technology and design issues.  However, I believe strongly in this issue and want to help spread the word!]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;May 1, 2014:  Today, &lt;a href=&quot;http://www.lessig.org&quot;&gt;Lawrence Lessig&lt;/a&gt; has launched his &lt;a href=&quot;http://mayday.us&quot;&gt;Mayday.us&lt;/a&gt; campaign against corruption in American politics, with the goal of creating the Citizen’s SuperPAC to End All SuperPACs.  If you aren’t aware of this, please check out the site or watch his video:&lt;/p&gt;
+
+&lt;p&gt;[vimeo]http://vimeo.com/93299391[/vimeo]&lt;/p&gt;
+
+&lt;p&gt;I strongly support this.  As someone described it in an article on &lt;a href=&quot;http://boingboing.net/2014/05/01/mayday-larry-lessig-launches.html&quot;&gt;Boing Boing&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;They&#39;re calling it a moonshot. It&#39;s audacious, improbable, and desperately needed.&lt;/blockquote&gt;
+
+&lt;p&gt;If you agree, please donate and help spread the word!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2014 08:52:32 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/05/01/aside-reforming-money-in-politics/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/05/01/aside-reforming-money-in-politics/</guid>
+        
+        <category>lessig</category>
+        
+        <category>mayday</category>
+        
+        <category>political</category>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Talk at AWE-NY on &amp;#8220;AR Development using Web Technologies&amp;#8221;</title>
+        <description>&lt;p&gt;On March 25th, I gave a short talk at AWE-NY covering some thoughts on developing AR applications using web technologies.  I am particularly interested in developing AR for web browsers, not using web technologies as the development environment for building custom applications.  Of course, I focused on our work on the Argon AR-enabled web browser and the argon.js Javascript toolkit, but I also touched on how these technologies fit without the spectrum, and trajectory, of AR technologies for the web.&lt;/p&gt;
+
+&lt;p&gt;At a high level, as some of the currently-proposed technologies for the web (e.g., WebRTC, WebCL, etc) become more widespread, simple AR applications will become possible.  But there are holes that remain, such as the inability to efficiently process real-time video in Javascript, as well as the inability to find out the intrinsic parameters of the device cameras.&lt;/p&gt;
+
+&lt;p&gt;Here’s the talk, and a PDF of the slides I used.&lt;/p&gt;
+
+&lt;p&gt;[youtube]https://www.youtube.com/watch?v=YP2KGszYvXU[/youtube]&lt;/p&gt;
+
+&lt;p&gt;Slides: &lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/ar-web-programming-2.pdf&quot;&gt;ar-web-programming-2.pdf&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Apr 2014 16:17:27 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/</guid>
+        
+        <category>awe-ny</category>
+        
+        <category>webar</category>
+        
+        
+        <category>argon</category>
+        
+        <category>conferences</category>
+        
+        <category>education</category>
+        
+      </item>
+    
+      <item>
+        <title>Oculus + Facebook = social virtual, or a stepping stone?</title>
+        <description>&lt;p&gt;I’ve made no secret that I’m not optimistic about the prospect for VR’s success as a consumer product, this time ‘round, any more than I thought it was going to work for consumers last time ‘round (i.e., the 80’s and 90’s, when I first played with it).  So, while I have some dev kits (to hack for AR!) and have an Oculus “VR” sticker on my care (because it’s weird), I was definitely in the camp of folks dumbfounded when Facebook bought Oculus.&lt;/p&gt;
+
+&lt;p&gt;I’ve been thinking about it since then, though, as I’ve watched people write about their view (hope?) that Facebook’s goal is to create a massive social virtual world building on top of what Oculus is doing (Avi Bar-Zeev has some links and a summary &lt;a href=&quot;http://www.realityprime.com/blog/2014/03/the-new-rift-2/&quot;&gt;here&lt;/a&gt;, along with some other thoughts).&lt;/p&gt;
+
+&lt;p&gt;And while I don’t buy the VR vision, I do see an exciting path to the Metaverse, where VR is just a step along the way.&lt;/p&gt;
+
+&lt;p&gt;Again:  the problem I have with that “&lt;em&gt;FB+Oculus=Metaverse&lt;/em&gt;” vision is that I think it is unlikely that VR will succeed as an interface for a massive social virtual world, even more unlikely than as an interface for hard-core games.  The problem with SecondLife and Sony Home and other social virtual worlds is not the lack of a head-worn display for viewing them!  (Perhaps, as with many new technologies, if someone links VR and a &lt;a href=&quot;https://rlc-game.com&quot;&gt;3D virtual porn&lt;/a&gt; world, they might have a winner, but I’m thinking that Facebook is not going to go there.)&lt;/p&gt;
+
+&lt;p&gt;What I’d like to see, instead, is the future_ Facebook Metaverse_ be just one part of a giant collection of &lt;em&gt;Mirror Worlds&lt;/em&gt;, linking our real physical environment to a multitude of virtual worlds.  The key, of course, is that these worlds are anchored in the real world.  We experimented with this idea a half dozen years ago, in a variety of ways.  While our work is anchored in the real work, in most of our projects we treated the virtual world as the primary structuring metaphor:  since there are no limits to the virtual world, allowing it’s infinite space to link back to our limited reality seems reasonable.&lt;/p&gt;
+
+&lt;p&gt;Our first project was creating an AR interface to SecondLife, modifying the client so that parts of the virtual world could be aligned with the real world.  In this image, you can see a model of part of our lab in SL (on the left), and an AR view of the same space (with an SL avatar in it) on the right.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/arsl-slideshow.jpg&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/arsl-slideshow-300x115.jpg&quot; alt=&quot;arsl-slideshow&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The structure of SecondLife led us to a model were users explicitly aligned regions of the two worlds, which is one important metaphor:  mirror what happens in both the physical and virtual worlds over into the other.  An avatar walks into the area in SL, they appear in the AR view.  Someone walks into the physical room, and their avatar appears in the virtual world (we didn’t do that here, due to limits of SL).  Here’s a video of the project:&lt;/p&gt;
+
+&lt;p&gt;[youtube]https://www.youtube.com/watch?v=O2i-W9ncV_0[/youtube]&lt;/p&gt;
+
+&lt;p&gt;But there are other interesting metaphors we didn’t get a chance to explore;  ideas like portals between worlds, or other non-linear relationships between the two worlds.  And, of course, there was only one SL world:  it would be very interesting to explore multiple parallel virtual worlds (a true multiverse).&lt;/p&gt;
+
+&lt;p&gt;The biggest limitation, though, was that it was particularly &lt;em&gt;expensive&lt;/em&gt; to do anything big with SecondLife:  a single island is only 256m square, and cost a lot of money per year to “own” (about $3600 per year back then!).    Doing something on the scale of our campus would have been prohibitively expensive.  To explore this kind of scale, we created a full-scale “mirror world” of our campus (using the same models that would eventually be used in Georgia Tech’s &lt;a href=&quot;https://itunes.apple.com/us/app/gt-3d/id526091092?mt=8&quot;&gt;GT 3D&lt;/a&gt; app).&lt;/p&gt;
+
+&lt;p&gt;In the desktop virtual interface (on the right below) you could wander around the 3D campus and  explore and interact with a mashup of 2D and 3D “content” pinned to the world.  The same content was available in an AR interface (on the left below, shown over a panoramic photograph).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/mirror_4.jpg&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/mirror_4-300x109.jpg&quot; alt=&quot;mirror_4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The idea was to have a 1-1 scale multiuser virtual environment where people shared a hybrid space together, with avatars showing up in one space to represent the occupants of the other.  Here’s a video of that prototype:&lt;/p&gt;
+
+&lt;p&gt;[youtube]https://www.youtube.com/watch?v=ArgE5nDjmgE[/youtube]&lt;/p&gt;
+
+&lt;p&gt;These projects led us to explore how &lt;a href=&quot;http://openwonderland.org&quot;&gt;OpenWonderland&lt;/a&gt; virtual environment (then Sun’s Wonderland) could serve as the organizing metaphor for a distributed group of knowledge workers.  Wonderland was designed to let people work together in a 3D world, and tried to address many of the problems experienced by people trying to do “work” in impoverished virtual worlds like SecondLife.  Our research was aimed at creating mixed-reality portals into these 3D worlds and explore what would happen if we positioned them throughout an office environment (e.g., on multiple large displays in instrumented meeting rooms, break rooms, or in individual offices), allowing distributed teams to work together in new ways.&lt;/p&gt;
+
+&lt;p&gt;While the portals showed one view into a virtual world, individuals could use laptop or tablet interfaces to work on documents or otherwise interact with participants in the space.  Everyone had an avatar in the 3D world, regardless of where they were, so the feeling of being together, no matter how the team was distributed, was powerful.&lt;/p&gt;
+
+&lt;p&gt;One prototype of our portal interface (where the two avatars are working with Alex Hill, the lead researcher on the project, at the whiteboard) is shown here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/DSC00599.jpg&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/DSC00599-300x225.jpg&quot; alt=&quot;DSC00599&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(We were just starting to explore how to use this technology, when Sun went out of business, and our focus shifted in new directions:  in the academy, you can only work on big projects if you can fund them!).&lt;/p&gt;
+
+&lt;p&gt;I still think the idea of using virtual worlds as a structuring mechanism for distributed collaborations and experiences of all kinds is very exciting.  While working on this project, it seemed clear that this was the germ of an idea that could lead to powerful ways for support heterogeneous experiences of many kinds, from work to education to games to general social interactions.&lt;/p&gt;
+
+&lt;p&gt;Which brings me back to Facebook and Oculus.  While I’m not enthusiastic about the idea of a purely virtual Metaverse, I love the idea of mixing 3D virtual worlds with the real world in different ways, and using it to bring people together.  I imagine a fully interactive 3D whiteboard like the one shown above, at the front of a lecture hall, bringing remote students into the classroom as first-class participants. Or sharing a wall of my living room with family members far away, not through the awkwardness of a simple video stream, but rather by having these distributed spaces connected through portals into a huge shared virtual world in all kinds of different ways.&lt;/p&gt;
+
+&lt;p&gt;My hope is that by mediating these connections through virtual worlds, we can add structure and control to participants, while create metaphors that respect privacy while giving opportunities for serendipity and playful encounters!&lt;/p&gt;
+
+&lt;p&gt;This is where I hope Facebook and Oculus move toward …&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Apr 2014 15:58:28 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/</guid>
+        
+        <category>met averse</category>
+        
+        <category>mirror worlds</category>
+        
+        <category>oculus</category>
+        
+        
+        <category>AEL</category>
+        
+        <category>commercial</category>
+        
+        <category>musings</category>
+        
+      </item>
+    
+      <item>
+        <title>Cute idea, but getting &amp;#8216;See-Through&amp;#8217; hood to &amp;#8216;work&amp;#8217; is the hard part</title>
+        <description>&lt;p&gt;I saw a nice concept over on Mashable in this article, &lt;a href=&quot;http://mashable.com/2014/04/09/land-rovers-see-through-hood-shows-the-road-under-your-wheels/&quot;&gt;Land Rover’s ‘See-Through’ Hood Shows the Road Under Your Wheels&lt;/a&gt;.  Here’s the video (which is the key part):&lt;/p&gt;
+
+&lt;p&gt;[youtube]https://www.youtube.com/watch?v=1OlqditIsoM[/youtube]&lt;/p&gt;
+
+&lt;p&gt;As with most of these concept mock-ups (yes, this is a mockup), the slickness of the video hides some serious technical challenges.  In particular, since the center-of-projection of the camera is no where near the driver’s eye, the video of the road would be &lt;em&gt;very&lt;/em&gt; difficult to blend so seamlessly with the drivers view of the road.&lt;/p&gt;
+
+&lt;p&gt;We actually explored a very similar problem a number of years back, which we called &lt;em&gt;virtual transparency&lt;/em&gt; (we presented this as a &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6162897&quot;&gt;poster at ISMAR 2011&lt;/a&gt;).  The idea in our system was to use a wide field-of-view (fisheye, in our case) camera on the back of a tablet or phone, and then track the user’s head relative to the phone.  By tracking the head, we can extract a sub-rectangle of the image to display that approximates what the user would be seeing if they were looking through the screen of the device.  The effect worked pretty well.  If you moved the device left or right, the subregion of the video moved in the opposite direction.  Move closer to the device and a wider view is seen; a smaller part of the video is seen if you move your head away from the phone.  And if the user tilted the phone left or right, we’d show an appropriately distorted view.  Here’s a video of the system in action:&lt;/p&gt;
+
+&lt;p&gt;[youtube]https://www.youtube.com/watch?v=vj2CvgeZD3M[/youtube]&lt;/p&gt;
+
+&lt;p&gt;The problem is that the projection lines from the user’s eye don’t align with the projection lines from the camera, as shown in Figure 2 from our ISMAR 2011 poster:&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_672” align=”aligncenter” width=”378”]&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/schematic2.png&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/schematic2-1024x517.png&quot; alt=&quot;schematic2&quot; /&gt;&lt;/a&gt; A simple illustration of how the subfield of the video is selected from the wide FOV video stream for display on the screen.[/caption]&lt;/p&gt;
+
+&lt;p&gt;The manifestation of this issue can be seen in the edges of the view volumes.  The line marked “desired view” has the edges of the user’s view lines (through the sides of the display) intersecting with the lines from the camera &lt;em&gt;at a specific distance from the camera.  _Therefore, the part of the camera video we select would change if we moved that desired view line further away from, or closer to, the display.  In our case, we used the depth of the target we were tracking and augmenting to provide an estimate of the depth, which worked well enough for the demo system.  But, any 3D objects in the view could be weirdly distorted.&lt;/em&gt;
+_&lt;/p&gt;
+
+&lt;p&gt;In this see-through hood example, you would need to know the full 3D structure of the scene (as seen by the video camera of the car) in order to remap the video to show correctly from the drivers point of view.  Not technically insurmountable, but difficult.&lt;/p&gt;
+
+&lt;p&gt;Regardless of the difficulty, it is a fun video, and I’d love to have this system on my car.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Apr 2014 03:17:59 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/04/10/cute-idea-but-getting-see-through-hood-to-work-is-the-hard-part/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/04/10/cute-idea-but-getting-see-through-hood-to-work-is-the-hard-part/</guid>
+        
+        <category>car</category>
+        
+        <category>Land Rover</category>
+        
+        <category>see-through hood</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>demos</category>
+        
+      </item>
+    
   </channel>
 </rss>
