@@ -8,4 +8,6 @@ img: /assets/uploads/2013/09/image10-34crop.jpg
 permalink: /project/touring-machine/
 ---
 
-This is a description of the project
+The Touring Machine was the first stand-along outdoor 3D AR system, that labelled buildings and points of interest, and allow the user to pull up additional information about these POIs on a tablet computer.  
+
+More information soon.

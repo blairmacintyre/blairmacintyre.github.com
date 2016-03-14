@@ -26,7 +26,7 @@ highlighter: rouge
 gems: ['jekyll-paginate', 'jekyll/scholar']
 
 git:
-  branch: master
+  branch: site-source-master
 transfer:
   command: rsync
   settings: -av

@@ -4,27 +4,10 @@ title: Four Angry Men
 date: 2003-03-08T13:40:58+00:00
 author: blair
 layout: portfolio
-guid: 'http://www.blairmacintyre.me/?post_type=portfolio&#038;p=570'
 permalink: /project/four-angry-men/
-wpzoom_slider:
-  - 'a:0:{}'
-wpzoom_portfolio_overview:
-  - |
-    |
-        Four Angry men is an exploration of using AR to dramatize multiple points-of-view in an emotionally charged situation.  The experience is based on Reginald Rose's "Twelve Angry Men" 
-wpzoom_portfolio_client:
-  - 
-wpzoom_portfolio_services:
-  - 
-wpzoom_post_template:
-  - 
-wpzoom_slideshow_url:
-  - 
+subtitle: An exploration of using AR to dramatize multiple points-of-view 
+img: /assets/uploads/2013/09/image2-437x350.jpg
 ---
-<div id="galleria-570">
-  <a href="http://blairmacintyre.me/wp-content/uploads/2013/09/image2-1024x819.jpg"><img title="FAM-4quad-user" alt="" src="http://blairmacintyre.me/wp-content/uploads/2013/09/image2-68x55.jpg" /></a><a href="http://blairmacintyre.me/wp-content/uploads/2013/09/maribeth-hmd-tam.jpg"><img title="maribeth-hmd-tam" alt="" src="http://blairmacintyre.me/wp-content/uploads/2013/09/maribeth-hmd-tam-82x55.jpg" /></a><a href="http://blairmacintyre.me/wp-content/uploads/2013/09/Fig7_FAM_screenshot.jpg"><img title="Fig7_FAM_screenshot" alt="" src="http://blairmacintyre.me/wp-content/uploads/2013/09/Fig7_FAM_screenshot-71x55.jpg" /></a><a href="http://blairmacintyre.me/wp-content/uploads/2003/03/C-angry-sm.jpg"><img title="C-angry-sm" alt="" src="http://blairmacintyre.me/wp-content/uploads/2003/03/C-angry-sm-79x55.jpg" /></a><a href="http://blairmacintyre.me/wp-content/uploads/2003/03/FAM-200.jpg"><img title="FAM-200" alt="" src="http://blairmacintyre.me/wp-content/uploads/2003/03/FAM-200-64x55.jpg" /></a>
-</div>
-
 “Four Angry Men” (FAM) evolved over the course of two years from being not only an experiment in creating dramatic AR, but to serving as the impetus for the design and development of the Designer’s Augmented Reality Toolkit (DART). The initial version of the experience included fewer characters and thus was called “Three Angry Men” (TAM)
 
 FAM is a single-narrative, multiple point-of-view augmented reality, in which the viewer/user becomes a participant in an abridged version of “Twelve Angry Men.” In FAM, the user witnesses the drama from the viewpoint of one of four jurors, and her perception of the scene reflects the expectations, beliefs, and prejudices of that juror. The user sits in one chair in a physical space representing the jury room. Through the head-worn display she can see three other virtual jurors (as texture-mapped video) occupying other chairs in the room. The user herself hears the words and the inner thoughts of the fourth juror, whose seat she is occupying. At any time the user can get up, move to another chair, and assume the point of view (POV) of another juror. While the user moves around the actions stops and rewinds slightly when she sits down; allowing the user to easily compare the a section of dramatic action from difference viewpoints. To represent the four viewpoints, four different six-minute versions of the experience were filmed for each of the characters and edited. The actors interpreted their roles differently for each version, allowing the user radically different viewpoints on the same dramatic scene.
@@ -35,5 +18,4 @@ The process of developing TAM and FAM revealed to us the need for rapid prototyp
 
 _This work was supported by a GVU Seed Grant._
 
-<div>
-</div>
+{% youtube LmRd6XtVF0U %}

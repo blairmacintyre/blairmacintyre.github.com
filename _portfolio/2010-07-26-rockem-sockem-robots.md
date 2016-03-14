@@ -1,21 +1,17 @@
 ---
 id: 497
-title: 'Rock&#8217;em Sock&#8217;em Robots'
+title: "Rock'em Sock'em Robots"
+subtitle: "Two player retro fun"
 date: 2010-07-26T10:57:51+00:00
 author: blair
 layout: portfolio
-guid: 'http://www.blairmacintyre.me/?post_type=portfolio&#038;p=497'
+tags: [rockem, two player]
+categories: [aura, games]
 permalink: /project/rockem-sockem-robots/
-wpzoom_slider:
-  - 'a:0:{}'
-wpzoom_portfolio_overview:
-  - 
-wpzoom_portfolio_client:
-  - Mattel, Qualcomm
-wpzoom_portfolio_services:
-  - Game Design and Development
-wpzoom_post_template:
-  - 
-wpzoom_slideshow_url:
-  - 
+img: /assets/uploads/2013/10/rockem-banner-630x242.jpg
 ---
+Aura Interactive (the AR Games company I co-founded in 2009) created a prototype Augmented Reality game based on the classic toy Rock’em Sock’em robots, in collaboration with Qualcomm and Mattel. The prototype was used as a demo during the announcement of Qualcomm’s AR SDK at Uplinq, July 2010.
+
+Here is a video of the game, produced by Mattel for the Uplinq conference.
+
+{% youtube hXtq1qBMLIw %}

@@ -243,7 +243,8 @@ end
 
 
 desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
+task :publishgithub => [:generate] do
+  branch = CONFIG["git"]["branch"]
   Dir.mktmpdir do |tmp|
     system "mv _site/* #{tmp}"
     system "git checkout -B master"
@@ -253,7 +254,7 @@ task :publish => [:generate] do
     system "git add ."
     system "git commit -am #{message.shellescape}"
     system "git push origin master --force"
-    system "git checkout site-source-master"
+    system "git checkout #{branch}"
     system "echo yolo"
   end
 end

@@ -9,4 +9,6 @@ img: /assets/uploads/2013/09/uist93-4-crop2-630x472.jpg
 permalink: /project/windows-on-the-world/
 ---
 
-This is a description of the project
+Early exploration of putting complex 2D content in the world around the user, using a modified X Windows server and custom AR window manager.   
+
+More information soon.

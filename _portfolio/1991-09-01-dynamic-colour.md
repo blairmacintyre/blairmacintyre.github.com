@@ -6,5 +6,6 @@ layout: portfolio
 img: 
 permalink: /project/dynamic-colour/
 ---
+Master's Thesis on automatic colour selection for window systems, created by customizing the NeWS Window system.
 
-Master's Thesis
+More information soon.

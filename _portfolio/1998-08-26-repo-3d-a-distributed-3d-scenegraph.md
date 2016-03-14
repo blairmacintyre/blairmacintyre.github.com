@@ -9,4 +9,6 @@ layout: portfolio
 permalink: /project/repo-3d-a-distributed-3d-scenegraph/
 ---
 
-Repo!
+The core software system created as part of my PhD.  Repo (REPlicated Objects) was an interpretted distributed language featuring three kinds of distributed objects (simple copy-on-pass objects, client-server objects, and replicated objects).  Repo 3D was a scene graph where individual nodes in the graph could have any of these semantics, allowing interesting heterogeneous graphs to be created supporting a variety of distributed collaboration scenarios.
+
+More information soon.
