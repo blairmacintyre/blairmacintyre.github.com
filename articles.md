@@ -5,6 +5,7 @@ title: Articles
 headmenu: Articles
 description: Longer articles than might be appropriate for the blog.
 ---
+Coming soon:  longer articles independent of my blog.
 
 <!--
 <ul class="content-listing">
