@@ -11,7 +11,8 @@ require 'date'
 require 'tmpdir'
 require 'jekyll'
 
-
+require "reduce"
+ 
 task :default => :publish
 
 # == Configuration =============================================================
@@ -73,17 +74,6 @@ def create_file(directory, filename, content, title, editor)
       sleep 1
       execute("#{editor} #{directory}/#{filename}")
     end
-  end
-end
-
-# Get the "open" command
-def open_command
-  if RbConfig::CONFIG["host_os"] =~ /mswin|mingw/
-    "start"
-  elsif RbConfig::CONFIG["host_os"] =~ /darwin/
-    "open"
-  else
-    "xdg-open"
   end
 end
 
@@ -154,12 +144,6 @@ task :page, :title, :path do |t, args|
   create_file(directory, filename, content, title, editor)
 end
 
-# rake build
-desc "Build the site"
-task :build do
-  execute("jekyll build")
-end
-
 # rake watch
 # rake watch[number]
 # rake watch["drafts"]
@@ -177,84 +161,115 @@ task :watch, :option do |t, args|
   end
 end
 
-# rake preview
-desc "Launch a preview of the site in the browser"
+# from
+# https://github.com/davidensinger/davidensinger.github.io
+
+desc "Delete _site/"
+task :delete do
+  puts "\## Deleting _site/"
+  status = system("rm -r _site")
+  puts status ? "Success" : "Failed"
+end
+
+desc "Preview _site/"
 task :preview do
-  port = CONFIG["port"]
-  if port.nil? or port.empty?
-    port = 4000
-  end
-  Thread.new do
-    puts "Launching browser for preview..."
-    sleep 1
-    execute("#{open_command} http://localhost:#{port}/")
-  end
-  Rake::Task[:watch].invoke
+  puts "\n## Opening _site/ in browser"
+  status = system("open http://0.0.0.0:4000/")
+  puts status ? "Success" : "Failed"
 end
 
-# rake deploy["Commit message"]
-desc "Deploy the site to a remote git repo"
-task :deploy, :message do |t, args|
-  message = args[:message]
-  branch = CONFIG["git"]["branch"]
-  if message.nil? or message.empty?
-    raise "Please add a commit message."
+# Courtesy of https://github.com/pacbard/blog/blob/master/_rake/minify.rake
+desc "Minify _site/"
+task :minify do
+  puts "\n## Compressing static assets"
+  original = 0.0
+  compressed = 0
+  Dir.glob("_site/**/*.*") do |file|
+    case File.extname(file)
+      when ".css", ".gif", ".html", ".jpg", ".jpeg", ".js", ".png", ".xml"
+        puts "Processing: #{file}"
+        original += File.size(file).to_f
+        min = Reduce.reduce(file)
+        File.open(file, "w") do |f|
+          f.write(min)
+        end
+        compressed += File.size(file)
+      else
+        puts "Skipping: #{file}"
+      end
   end
-  if branch.nil? or branch.empty?
-    raise "Please add a branch."
-  else
-    Rake::Task[:build].invoke
-    execute("git add .")
-    execute("git commit -m \"#{message}\"")
-    execute("git push origin #{branch}")
+  puts "Total compression %0.2f\%" % (((original-compressed)/original)*100)
+end
+
+desc "Recompile Sass"
+task :recompile_sass do
+  puts "\n## Forcing Sass to recompile"
+  status = system("touch -m css/main.scss")
+  puts status ? "Success" : "Failed"
+  status = system("touch -m css/tufte.scss")
+  puts status ? "Success" : "Failed"
+end
+
+namespace :build do
+  desc "Build _site/ for development"
+  task :dev => :recompile_sass do
+    puts "\n##  Starting Jekyll"
+    pids = [
+      spawn("jekyll serve -w")
+    ]
+
+    trap "INT" do
+      Process.kill "INT", *pids
+      exit 1
+    end
+
+    loop do
+      sleep 1
+    end
+  end
+
+  desc "Build _site/ for production"
+  task :pro => :recompile_sass do
+    puts "\n## Building Jekyll to _site/"
+    status = system("jekyll build")
+    puts status ? "Success" : "Failed"
+    Rake::Task["minify"].invoke
   end
 end
 
-# rake transfer
-desc "Transfer the site (remote server or a local git repo)"
-task :transfer do
-  command = CONFIG["transfer"]["command"]
-  source = CONFIG["transfer"]["source"]
-  destination = CONFIG["transfer"]["destination"]
-  settings = CONFIG["transfer"]["settings"]
-  if command.nil? or command.empty?
-    raise "Please choose a file transfer command."
-  elsif command == "robocopy"
-    Rake::Task[:build].invoke
-    execute("robocopy #{source} #{destination} #{settings}")
-    puts "Your site was transfered."
-  elsif command == "rsync"
-    Rake::Task[:build].invoke
-    execute("rsync #{settings} #{source} #{destination}")
-    puts "Your site was transfered."
-  else
-    raise "#{command} isn't a valid file transfer command."
-  end
+desc "Commit _site/"
+task :commit do
+  puts "\n## Staging modified files"
+  status = system("git add -A")
+  puts status ? "Success" : "Failed"
+  puts "\n## Committing a site build at #{Time.now.utc}"
+  message = "Build site at #{Time.now.utc}"
+  status = system("git commit -m \"#{message}\"")
+  puts status ? "Success" : "Failed"
+  puts "\n## Pushing commits to remote"
+  status = system("git push origin source")
+  puts status ? "Success" : "Failed"
 end
 
-# for uploading to gh-pages
-desc "Generate blog files"
-task :generate do
-  Jekyll::Site.new(Jekyll.configuration({
-    "source"      => ".",
-    "destination" => "_site"
-  })).process
+desc "Deploy _site/ to master branch"
+task :deploy do
+  puts "\n## Deleting master branch"
+  status = system("git branch -D master")
+  puts status ? "Success" : "Failed"
+  puts "\n## Creating new master branch and switching to it"
+  status = system("git checkout -b master")
+  puts status ? "Success" : "Failed"
+  puts "\n## Forcing the _site subdirectory to be project root"
+  status = system("git filter-branch --subdirectory-filter _site/ -f")
+  puts status ? "Success" : "Failed"
+  puts "\n## Switching back to source branch"
+  status = system("git checkout source")
+  puts status ? "Success" : "Failed"
+  puts "\n## Pushing all branches to origin"
+  status = system("git push --all origin")
+  puts status ? "Success" : "Failed"
 end
 
-
-desc "Generate and publish blog to gh-pages"
-task :publishgithub => [:generate] do
-  branch = CONFIG["git"]["branch"]
-  Dir.mktmpdir do |tmp|
-    system "mv _site/* #{tmp}"
-    system "git checkout -B master"
-    system "rm -rf *"
-    system "mv #{tmp}/* ."
-    message = "Site updated at #{Time.now.utc}"
-    system "git add ."
-    system "git commit -am #{message.shellescape}"
-    system "git push origin master --force"
-    system "git checkout #{branch}"
-    system "echo yolo"
-  end
+desc "Commit and deploy _site/"
+task :commit_deploy => [:commit, :deploy] do
 end
