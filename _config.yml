@@ -14,7 +14,7 @@ github_username:  blairmacintyre
 permalink:    /:year/:month/:day/:title/
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-exclude: ['Rakefile', 'README.md']
+exclude: ['Rakefile', 'README.md', "node_modules", "package.json"]
 
 # Build settings
 markdown: kramdown
