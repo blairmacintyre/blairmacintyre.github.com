@@ -25,6 +25,8 @@ CONFIG = YAML.load_file("_config.yml")
 
 # Get and parse the date
 DATE = Time.now.strftime("%Y-%m-%d")
+POSTDATE = Time.now.strftime("%Y-%m-%dT%H%M%S%z")
+PERMDATE = Time.now.strftime("/%Y/%m/%d/")
 
 # Directories
 POSTS = "_posts"
@@ -45,10 +47,10 @@ def check_title(title)
 end
 
 # Transform the filename and date to a slug
-def transform_to_slug(title, extension)
+def transform_to_slug(title)
   characters = /("|'|!|\?|:|\s\z)/
   whitespace = /\s/
-  "#{title.gsub(characters,"").gsub(whitespace,"-").downcase}.#{extension}"
+  "#{title.gsub(characters,"").gsub(whitespace,"-").downcase}"
 end
 
 # Read the template file
@@ -57,19 +59,21 @@ def read_file(template)
 end
 
 # Save the file with the title in the YAML front matter
-def write_file(content, title, directory, filename)
+def write_file(content, title, directory, permalink, filename)
   parsed_content = "#{content.sub("title:", "title: \"#{title}\"")}"
-  File.write("#{directory}/#{filename}", parsed_content)
+  parsed_content2 = "#{parsed_content.sub("date:", "date: \"#{POSTDATE}\"")}"
+  parsed_content3= "#{parsed_content2.sub("permalink:", "permalink: \"#{permalink}\"")}"
+  File.write("#{directory}/#{filename}", parsed_content3)
   puts "#{filename} was created in '#{directory}'."
 end
 
 # Create the file with the slug and open the default editor
-def create_file(directory, filename, content, title, editor)
+def create_file(directory, filename, content, title, permalink, editor)
   FileUtils.mkdir(directory) unless File.exists?(directory)
   if File.exists?("#{directory}/#{filename}")
     raise "The file already exists."
   else
-    write_file(content, title, directory, filename)
+    write_file(content, title, directory, permalink, filename)
     if editor && !editor.nil?
       sleep 1
       execute("#{editor} #{directory}/#{filename}")
@@ -87,9 +91,10 @@ task :post, :title do |t, args|
   extension = CONFIG["post"]["extension"]
   editor = CONFIG["editor"]
   check_title(title)
-  filename = "#{DATE}-#{transform_to_slug(title, extension)}"
+  permalink = "#{PERMDATE}#{transform_to_slug(title)}/"
+  filename = "#{DATE}-#{transform_to_slug(title)}.#{extension}"
   content = read_file(template)
-  create_file(POSTS, filename, content, title, editor)
+  create_file(POSTS, filename, content, title, permalink, editor)
 end
 
 # rake draft["Title"]
@@ -100,9 +105,10 @@ task :draft, :title do |t, args|
   extension = CONFIG["post"]["extension"]
   editor = CONFIG["editor"]
   check_title(title)
-  filename = transform_to_slug(title, extension)
+  permalink = "#{PERMDATE}#{transform_to_slug(title)}/"
+  filename = "#{transform_to_slug(title)}.#{extension}"
   content = read_file(template)
-  create_file(DRAFTS, filename, content, title, editor)
+  create_file(DRAFTS, filename, content, title, permalink, editor)
 end
 
 # rake publish
@@ -139,9 +145,10 @@ task :page, :title, :path do |t, args|
     FileUtils.mkdir_p("#{directory}")
   end
   check_title(title)
-  filename = transform_to_slug(title, extension)
+  filename = "#{transform_to_slug(title)}.#{extension}"
+  permalink = "/#{transform_to_slug(title)}/"
   content = read_file(template)
-  create_file(directory, filename, content, title, editor)
+  create_file(directory, filename, content, title, permalink, editor)
 end
 
 # rake watch
@@ -234,5 +241,45 @@ namespace :build do
     status = system("jekyll build")
     puts status ? "Success" : "Failed"
     Rake::Task["minify"].invoke
+  end
+end
+
+# rake deploy["Commit message"]
+desc "Deploy the site to a remote git repo"
+task :deploy, :message do |t, args|
+  message = args[:message]
+  branch = CONFIG["git"]["branch"]
+  if message.nil? or message.empty?
+    raise "Please add a commit message."
+  end
+  if branch.nil? or branch.empty?
+    raise "Please add a branch."
+  else
+    Rake::Task[:build].invoke
+    execute("git add .")
+    execute("git commit -m \"#{message}\"")
+    execute("git push origin #{branch}")
+  end
+end
+
+# rake transfer
+desc "Transfer the site (remote server or a local git repo)"
+task :transfer do
+  command = CONFIG["transfer"]["command"]
+  source = CONFIG["transfer"]["source"]
+  destination = CONFIG["transfer"]["destination"]
+  settings = CONFIG["transfer"]["settings"]
+  if command.nil? or command.empty?
+    raise "Please choose a file transfer command."
+  elsif command == "robocopy"
+    Rake::Task[:build].invoke
+    execute("robocopy #{source} #{destination} #{settings}")
+    puts "Your site was transfered."
+  elsif command == "rsync"
+    Rake::Task["build:pro"].invoke
+    execute("rsync #{settings} #{source} #{destination}")
+    puts "Your site was transfered."
+  else
+    raise "#{command} isn't a valid file transfer command."
   end
 end

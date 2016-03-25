@@ -21,6 +21,25 @@ module Jekyll
       end
     end
   end
+  class RenderMainColumnVarTag < Liquid::Tag
+
+  	require "shellwords"
+
+    def initialize(tag_name, text, tokens)
+      super
+      @text = text.shellsplit
+    end
+
+    def render(context)
+      baseurl = context.registers[:site].config['baseurl']
+      if @text[0].start_with?('http://', 'https://','//')
+        "<figure><figcaption>#{context[@text[1].strip]}</figcaption><img src='#{@text[0]}'/></figure>"
+      else
+        "<figure><figcaption>#{context[@text[1].strip]}</figcaption><img src='#{baseurl}/#{@text[0]}'/></figure>"
+      end
+    end
+  end
 end
 
 Liquid::Template.register_tag('maincolumn', Jekyll::RenderMainColumnTag)
+Liquid::Template.register_tag('maincolumnvar', Jekyll::RenderMainColumnVarTag)

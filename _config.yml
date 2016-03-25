@@ -14,7 +14,17 @@ github_username:  blairmacintyre
 permalink:    /:year/:month/:day/:title/
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+editor: code
+
 exclude: ['Rakefile', 'README.md', "node_modules", "package.json"]
+
+post:
+    template: _templates/post-template
+    extension: "md"
+    
+page:
+    template: _templates/page-template
+    extension: "md"
 
 # Build settings
 markdown: kramdown
@@ -27,12 +37,12 @@ gems: ['jekyll-paginate', 'jekyll/scholar']
 
 git:
   branch: site-source-master
+  
 transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Sites/blairmacintyre.me/
-  
+  destination: ../blairmacintyre.github.com.master/
   
 # Pagination
 paginate: 15
@@ -78,7 +88,7 @@ scholar:
   replace_strings: true
   join_strings:    true
 
-  use_raw_bibtex_entry: false
+  use_raw_bibtex_entry: true
   bibtex_filters:
   - superscript
   - latex
