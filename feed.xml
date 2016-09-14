@@ -1,11 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blair MacIntyre</title><description>Professor, Designer, Husband, Father
-</description><link>https://blairmacintyre.me/</link><atom:link href="https://blairmacintyre.me/feed.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 05 Apr 2016 12:46:46 -0400</pubDate><lastBuildDate>Tue, 05 Apr 2016 12:46:46 -0400</lastBuildDate><generator>Jekyll v3.1.0</generator><item><title>Animated Interfaces Gaining Traction</title><description>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blair MacIntyre</title>
+    <description>Professor, Designer, Husband, Father
+</description>
+    <link>https://blairmacintyre.me/</link>
+    <atom:link href="https://blairmacintyre.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Sep 2016 11:42:30 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2016 11:42:30 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>Animated Interfaces Gaining Traction</title>
+        <description>
 &lt;p&gt;I’ve been a fan of animated interfaces for years, going back to the amazing work that Sun’s &lt;em&gt;Self&lt;/em&gt; team did on the &lt;em&gt;Self&lt;/em&gt; user interface.  The &lt;em&gt;Morphic&lt;/em&gt;&lt;label for=&quot;maloney-smith&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;maloney-smith&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;span id=&quot;Maloney:1995:DLM:215585.215636&quot;&gt;Maloney, J. H., &amp;amp; Smith, R. B. (1995). Directness and Liveness in the Morphic User Interface Construction Environment. In &lt;i&gt;Proceedings of the 8th Annual ACM Symposium on User Interface and Software Technology&lt;/i&gt; (pp. 21–28). New York, NY, USA: ACM. doi:10.1145/215585.215636&lt;/span&gt;&lt;/span&gt;user interface used in &lt;em&gt;Self&lt;/em&gt; was interesting in a lot of ways, especially how it bent over backwards to make the interface feel alive and like you were truly directly manipulating the objects you were creating and working with, both as you programmed and as you used it. I particularly like how the team adapted traditional animation techniques for the UI, building off the years of experience traditional animators had in making cartoon animations feel “real”&lt;label for=&quot;chang-ungar&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;chang-ungar&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;span id=&quot;Chang:1993:ACU:168642.168647&quot;&gt;Chang, B.-W., &amp;amp; Ungar, D. (1993). Animation: From Cartoons to the User Interface. In &lt;i&gt;Proceedings of the 6th Annual ACM Symposium on User Interface Software and Technology&lt;/i&gt; (pp. 45–55). New York, NY, USA: ACM. doi:10.1145/168642.168647&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
 
 &lt;p&gt;I have been reminded recently of the various ways &lt;em&gt;Self&lt;/em&gt; leveraged traditional animation to make the UI feel more solid and alive when I read articles about some of the new trends in adding motion to interfaces. Google’s &lt;a href=&quot;https://www.google.com/design/spec/material-design/&quot;&gt;Material Design&lt;/a&gt; emphasizes motion, and &lt;a href=&quot;http://thekineticui.com/so-what-is-motion-design/&quot;&gt;Motion Design&lt;/a&gt; has been invading traditional 2D UI’s. A few days ago I read Craig Dehner’s &lt;a href=&quot;https://blog.prototypr.io/your-app-login-is-boring-bring-it-to-life-with-motion-7ac2547d9c5f#.meydnr8pq&quot;&gt;Your App Login is Boring, Bring it to Life with Motion&lt;/a&gt; article (if you haven’t read the article, or browsed his site, I encourage you to)&lt;label for=&quot;app-login&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;app-login&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/images/app-login-boring.png&quot; /&gt;&lt;br /&gt;An example of what Craig talks about in his article&lt;/span&gt;.  I think Craig’s points are really good, and his focus on &lt;em&gt;what&lt;/em&gt; the animation is trying to convey that reinforces what’s happening in the interface.  Reading the two papers above and comparing them to Craig’s post is worth your time.&lt;/p&gt;
 
 &lt;p&gt;Animation is not gloss or polish: used right it can make your interfaces easier to understand, clearer and more fun to use.  The &lt;em&gt;Self&lt;/em&gt; team demonstrated this 20 years ago, and it’s nice to see modern UI designers continuing this work!&lt;/p&gt;
-</description><pubDate>Wed, 23 Mar 2016 00:00:00 -0400</pubDate><link>https://blairmacintyre.me/2016/03/23/animated-interfaces-gaining-traction/</link><guid isPermaLink="true">https://blairmacintyre.me/2016/03/23/animated-interfaces-gaining-traction/</guid><category>adaptive</category><category>animation</category><category>research</category><category>commercial</category></item><item><title>Preparing for UIST 2014 &amp;#8230; decade-old technology rises from the dead!</title><description>&lt;p&gt;&lt;label for=&quot;uist-dart&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;uist-dart&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/uploads/2014/09/2014-09-23-15.45.35-1024x1024.jpg&quot; /&gt;&lt;br /&gt;Our old laptop, freshly awoken from 2007.&lt;/span&gt;
+</description>
+        <pubDate>Wed, 23 Mar 2016 00:00:00 -0400</pubDate>
+        <link>https://blairmacintyre.me/2016/03/23/animated-interfaces-gaining-traction/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2016/03/23/animated-interfaces-gaining-traction/</guid>
+        
+        <category>adaptive</category>
+        
+        <category>animation</category>
+        
+        
+        <category>research</category>
+        
+        <category>commercial</category>
+        
+      </item>
+    
+      <item>
+        <title>Preparing for UIST 2014 &amp;#8230; decade-old technology rises from the dead!</title>
+        <description>&lt;p&gt;&lt;label for=&quot;uist-dart&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;uist-dart&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/uploads/2014/09/2014-09-23-15.45.35-1024x1024.jpg&quot; /&gt;&lt;br /&gt;Our old laptop, freshly awoken from 2007.&lt;/span&gt;
 In a few weeks, my colleague Maribeth Gandy and I will be presenting a paper at &lt;a href=&quot;http://www.acm.org/uist/uist2014/&quot;&gt;UIST 2014&lt;/a&gt; (ACM’s User Interface Software and Technology conference), reflecting back on what we learned from our &lt;a href=&quot;http://ael.gatech.edu/dart/&quot;&gt;DART&lt;/a&gt; system (The Designer’s Augmented Reality Toolkit, the first paper on DART was published at UIST 2004!).&lt;/p&gt;
 
 &lt;p&gt;&lt;label for=&quot;uist-files&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;uist-files&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/uploads/2014/09/2014-09-23-15.46.03-300x300.jpg&quot; /&gt;&lt;br /&gt;Some old files from 2005.&lt;/span&gt; 
@@ -25,7 +56,27 @@ If you look closely, you can see the cracks on the display (from us holding it u
 
 &lt;p&gt;And then, the video for Four Angry Men, probably the most elaborate AR experience we created back then.&lt;/p&gt;
 &lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://youtube.com/embed/LmRd6XtVF0U&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description><pubDate>Tue, 23 Sep 2014 17:43:24 -0400</pubDate><link>https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</guid><category>DART</category><category>Four Angry Men</category><category>AEL</category><category>demos</category><category>Research</category></item><item><title>Apple Claims the High Ground on Privacy</title><description>&lt;p&gt;Yesterday, &lt;a href=&quot;http://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/&quot;&gt;I blogged about an interview with Tim Cook&lt;/a&gt; where he made some great claims about Apple’s stance on privacy.  More keeps coming.  They are pushing everyone to two-factor authentication on iCloud, for example. Now, Apple posted a web page talking about how &lt;a href=&quot;http://www.apple.com/privacy/privacy-built-in/&quot;&gt;privacy is built into iOS and their services&lt;/a&gt;, which is chock full of wonderful things (and repleat with jabs at “their competitors”).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Sep 2014 17:43:24 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</guid>
+        
+        <category>DART</category>
+        
+        <category>Four Angry Men</category>
+        
+        
+        <category>AEL</category>
+        
+        <category>demos</category>
+        
+        <category>Research</category>
+        
+      </item>
+    
+      <item>
+        <title>Apple Claims the High Ground on Privacy</title>
+        <description>&lt;p&gt;Yesterday, &lt;a href=&quot;http://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/&quot;&gt;I blogged about an interview with Tim Cook&lt;/a&gt; where he made some great claims about Apple’s stance on privacy.  More keeps coming.  They are pushing everyone to two-factor authentication on iCloud, for example. Now, Apple posted a web page talking about how &lt;a href=&quot;http://www.apple.com/privacy/privacy-built-in/&quot;&gt;privacy is built into iOS and their services&lt;/a&gt;, which is chock full of wonderful things (and repleat with jabs at “their competitors”).&lt;/p&gt;
 
 &lt;p&gt;On iMessage/Facetime:&lt;/p&gt;
 
@@ -51,7 +102,25 @@ If you look closely, you can see the cracks on the display (from us holding it u
 
 &lt;p&gt;And it looks like Apple just ate Microsoft’s lunch.  Again.&lt;/p&gt;
 
-</description><pubDate>Thu, 18 Sep 2014 05:14:00 -0400</pubDate><link>https://blairmacintyre.me/2014/09/18/apple-claims-the-high-ground-on-privacy/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/09/18/apple-claims-the-high-ground-on-privacy/</guid><category>apple</category><category>microsoft</category><category>commercial</category><category>privacy</category></item><item><title>You are not an iProduct</title><description>&lt;p&gt;I’ve been thinking lately about privacy and the relationship to the business strategies of various companies, and have become fond of saying that there are two companies:  ones that sell products and ones for whom you are the product.  Google and Facebook are the canonical examples of the later half (Google does sell some things, but largely does not, or does it at a massive loss).  Apple and Microsoft are canonical examples for the former.  There is a question, as The Googleplex continues to demonstrate the power of “free”, which direction Apple and Microsoft are going to go in the future.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2014 05:14:00 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/18/apple-claims-the-high-ground-on-privacy/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/18/apple-claims-the-high-ground-on-privacy/</guid>
+        
+        <category>apple</category>
+        
+        <category>microsoft</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>You are not an iProduct</title>
+        <description>&lt;p&gt;I’ve been thinking lately about privacy and the relationship to the business strategies of various companies, and have become fond of saying that there are two companies:  ones that sell products and ones for whom you are the product.  Google and Facebook are the canonical examples of the later half (Google does sell some things, but largely does not, or does it at a massive loss).  Apple and Microsoft are canonical examples for the former.  There is a question, as The Googleplex continues to demonstrate the power of “free”, which direction Apple and Microsoft are going to go in the future.&lt;/p&gt;
 
 &lt;p&gt;I firmly believe that both companies have an enormous opportunity to sell services and technology if they can convince people they are not making you their product.&lt;/p&gt;
 
@@ -62,7 +131,23 @@ If you look closely, you can see the cracks on the display (from us holding it u
 Our business is based on selling [products]. Our business is not based on having information about you. You are not our product.
 
 _([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-privacy/))_&lt;/blockquote&gt;
-</description><pubDate>Tue, 16 Sep 2014 10:57:03 -0400</pubDate><link>https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</guid><category>apple</category><category>commercial</category><category>privacy</category></item><item><title>We Need New Business Models in IoD</title><description>&lt;p&gt;Today, I gave a talk at the Ubiquitous Computing conference’s &lt;a href=&quot;http://appanalysis.org/upside/&quot;&gt;Workshop on Usable Privacy &amp;amp; Security for wearable and domestic ubIquitous DEvices (UPSIDE)&lt;/a&gt;, modestly titled “&lt;em&gt;Augmented Reality + Internet of Devices + Big Data: The End of Privacy?&lt;/em&gt;” I’ll post something else about this talk soon, but one of the goals was&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 10:57:03 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</guid>
+        
+        <category>apple</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>We Need New Business Models in IoD</title>
+        <description>&lt;p&gt;Today, I gave a talk at the Ubiquitous Computing conference’s &lt;a href=&quot;http://appanalysis.org/upside/&quot;&gt;Workshop on Usable Privacy &amp;amp; Security for wearable and domestic ubIquitous DEvices (UPSIDE)&lt;/a&gt;, modestly titled “&lt;em&gt;Augmented Reality + Internet of Devices + Big Data: The End of Privacy?&lt;/em&gt;” I’ll post something else about this talk soon, but one of the goals was&lt;/p&gt;
 
 &lt;blockquote&gt;to urge people to develop architectures for IoD + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.&lt;/blockquote&gt;
 
@@ -75,7 +160,27 @@ _([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-pr
 &lt;p&gt;To make this work, we’ll need a way to pay these small amounts.  In games, users buy “coins”, usually in bulk so they are easy to spend in the heat of the moment. (Those coins can typically also be “earned” in the game, giving users the illusion they could successfully play for free.)   Micro-transaction schemes haven’t worked well in the past, but if they can be smoothly integrated into an IoD context, there is enormous potential.  Given the appearance of systems to control these collections of devices (&lt;a href=&quot;https://developer.apple.com/homekit/&quot;&gt;HomeKit&lt;/a&gt;, &lt;a href=&quot;http://www.threadgroup.org&quot;&gt;Thread&lt;/a&gt; and &lt;a href=&quot;http://allseenalliance.org&quot;&gt;Allseen&lt;/a&gt;, to name a few), and the tie-in between these systems and existing payment infrastructures, the potential is certainly there.&lt;/p&gt;
 
 &lt;p&gt;(Aside:  IoD — Internet of Devices — is a term I like, in contrast to “Internet of Things,” and was coined in the paper “&lt;a href=&quot;https://smartech.gatech.edu/handle/1853/52020&quot;&gt;Defining the Internet of Devices: Privacy and Security Implications&lt;/a&gt;” by my colleagues at Georgia Tech.  Check it out.)&lt;/p&gt;
-</description><pubDate>Sun, 14 Sep 2014 16:55:15 -0400</pubDate><link>https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</guid><category>business models</category><category>free-to-play</category><category>micro-payments</category><category>commercial</category><category>IoD</category></item><item><title>HomeKit, Google, Facebook, Privacy and the Internet of Things</title><description>&lt;p&gt;While there is much that can be said about privacy, security, policy and the Internet of Things (in fact, I’m going to be co-teaching a graduate class at Georgia Tech on this very topic next spring), here I want to focus on one thing:  the invasion of your home and my hope Apple and their partners take privacy seriously.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 16:55:15 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</guid>
+        
+        <category>business models</category>
+        
+        <category>free-to-play</category>
+        
+        <category>micro-payments</category>
+        
+        
+        <category>commercial</category>
+        
+        <category>IoD</category>
+        
+      </item>
+    
+      <item>
+        <title>HomeKit, Google, Facebook, Privacy and the Internet of Things</title>
+        <description>&lt;p&gt;While there is much that can be said about privacy, security, policy and the Internet of Things (in fact, I’m going to be co-teaching a graduate class at Georgia Tech on this very topic next spring), here I want to focus on one thing:  the invasion of your home and my hope Apple and their partners take privacy seriously.&lt;/p&gt;
 
 &lt;p&gt;Internet connected devices that feed continuous information to cloud services are a big deal, in terms of privacy.  Right now, there are little isolated clouds that have access to bits of our information (think Fitbit or Jawbone Up, Loseit or Runkeeper, Cell-tower location, Amazon purchases, and so on).  But these are converging, and very soon will be able to be leveraged to infer unprecedented information about us, information we didn’t even imagine could be collected.  Apple’s HealthKit and Google Fit are going to start consolidating some of this, but most people still feel like that is something they would opt into (or not).&lt;/p&gt;
 
@@ -92,7 +197,29 @@ _([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-pr
 &lt;p&gt;And this is why I am hopeful about HomeKit.  Apple is all about low-friction user experiences, and can easily create an environment where companies are incentivized to tie into it’s services instead of developing their own.  There is no reason these services cannot include home gateways (perhaps a future Airport base station, or even a future Apple TV?) that give users the opportunity to control, aggregate, filter or discard their data, as they see fit.  Apple can decide to provide users with guarantees that their data is not shared, that it lives in their iCloud account, and that it will not be looked at without their permission, because Apple doesn’t need that kind of information for their core business:  in fact, their core business can leverage that stance as a reason you should buy into it.&lt;/p&gt;
 
 &lt;p&gt;This is also, as you can imagine, why I am not at all excited about the corresponding Google or Facebook ecosystems.&lt;/p&gt;
-</description><pubDate>Fri, 20 Jun 2014 06:43:41 -0400</pubDate><link>https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/</guid><category>apple</category><category>google</category><category>homekit</category><category>lyric</category><category>musings</category><category>privacy</category></item><item><title>Interesting Video:  Free is a Lie</title><description>&lt;p&gt;Lance Weatherby posted a link to this video on &lt;a href=&quot;http://blog.weatherby.net/2014/05/free-is-a-lie.html&quot;&gt;his blog&lt;/a&gt;, and I agree with him that it’s interesting and worth watching.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2014 06:43:41 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/06/20/homekit-and-the-internet-of-things/</guid>
+        
+        <category>apple</category>
+        
+        <category>google</category>
+        
+        <category>homekit</category>
+        
+        <category>lyric</category>
+        
+        
+        <category>musings</category>
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>Interesting Video:  Free is a Lie</title>
+        <description>&lt;p&gt;Lance Weatherby posted a link to this video on &lt;a href=&quot;http://blog.weatherby.net/2014/05/free-is-a-lie.html&quot;&gt;his blog&lt;/a&gt;, and I agree with him that it’s interesting and worth watching.&lt;/p&gt;
 
 &lt;p&gt;While the presenter (Aral Balkan) is a bit over the top in his analysis of Google (e.g., I really don’t think Project Tango is a grand conspiracy by Google to secretly map the inside of everyone’s house), I do think the point he gets to later in the video (when he shifts from the implications of our ceding our data to the big 4 - Google, Apple, Facebook and Twitter - to his thoughts on user experience) are interesting. His point about the main problem with the “Free” alternatives are insightful.&lt;/p&gt;
 
@@ -105,7 +232,25 @@ There are open alternatives but they are too difficult for most of us to use.
 It is time to bring design thinking to open source and build beautiful, seamless open consumer products that are easy to use and which respect our fundamental freedoms.&lt;/blockquote&gt;
 
 &lt;p&gt;[youtube]https://www.youtube.com/watch?v=upu0gwGi4FE[/youtube]&lt;/p&gt;
-</description><pubDate>Sat, 03 May 2014 09:20:10 -0400</pubDate><link>https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</guid><category>design thinking</category><category>freedom</category><category>privacy</category><category>privacy</category></item><item><title>Aside:  Reforming Money in Politics</title><description>&lt;p&gt;&lt;em&gt;[For those who don’t agree with campaign, please forgive me posting this in my blog;  I prefer to focus here on technology and design issues.  However, I believe strongly in this issue and want to help spread the word!]&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 May 2014 09:20:10 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</guid>
+        
+        <category>design thinking</category>
+        
+        <category>freedom</category>
+        
+        <category>privacy</category>
+        
+        
+        <category>privacy</category>
+        
+      </item>
+    
+      <item>
+        <title>Aside:  Reforming Money in Politics</title>
+        <description>&lt;p&gt;&lt;em&gt;[For those who don’t agree with campaign, please forgive me posting this in my blog;  I prefer to focus here on technology and design issues.  However, I believe strongly in this issue and want to help spread the word!]&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;May 1, 2014:  Today, &lt;a href=&quot;http://www.lessig.org&quot;&gt;Lawrence Lessig&lt;/a&gt; has launched his &lt;a href=&quot;http://mayday.us&quot;&gt;Mayday.us&lt;/a&gt; campaign against corruption in American politics, with the goal of creating the Citizen’s SuperPAC to End All SuperPACs.  If you aren’t aware of this, please check out the site or watch his video:&lt;/p&gt;
 
@@ -116,7 +261,25 @@ It is time to bring design thinking to open source and build beautiful, seamless
 &lt;blockquote&gt;They&#39;re calling it a moonshot. It&#39;s audacious, improbable, and desperately needed.&lt;/blockquote&gt;
 
 &lt;p&gt;If you agree, please donate and help spread the word!&lt;/p&gt;
-</description><pubDate>Thu, 01 May 2014 08:52:32 -0400</pubDate><link>https://blairmacintyre.me/2014/05/01/aside-reforming-money-in-politics/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/05/01/aside-reforming-money-in-politics/</guid><category>lessig</category><category>mayday</category><category>political</category><category>personal</category></item><item><title>Talk at AWE-NY on &amp;#8220;AR Development using Web Technologies&amp;#8221;</title><description>&lt;p&gt;On March 25th, I gave a short talk at AWE-NY covering some thoughts on developing AR applications using web technologies.  I am particularly interested in developing AR for web browsers, not using web technologies as the development environment for building custom applications.  Of course, I focused on our work on the Argon AR-enabled web browser and the argon.js Javascript toolkit, but I also touched on how these technologies fit without the spectrum, and trajectory, of AR technologies for the web.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2014 08:52:32 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/05/01/aside-reforming-money-in-politics/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/05/01/aside-reforming-money-in-politics/</guid>
+        
+        <category>lessig</category>
+        
+        <category>mayday</category>
+        
+        <category>political</category>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Talk at AWE-NY on &amp;#8220;AR Development using Web Technologies&amp;#8221;</title>
+        <description>&lt;p&gt;On March 25th, I gave a short talk at AWE-NY covering some thoughts on developing AR applications using web technologies.  I am particularly interested in developing AR for web browsers, not using web technologies as the development environment for building custom applications.  Of course, I focused on our work on the Argon AR-enabled web browser and the argon.js Javascript toolkit, but I also touched on how these technologies fit without the spectrum, and trajectory, of AR technologies for the web.&lt;/p&gt;
 
 &lt;p&gt;At a high level, as some of the currently-proposed technologies for the web (e.g., WebRTC, WebCL, etc) become more widespread, simple AR applications will become possible.  But there are holes that remain, such as the inability to efficiently process real-time video in Javascript, as well as the inability to find out the intrinsic parameters of the device cameras.&lt;/p&gt;
 
@@ -126,7 +289,27 @@ It is time to bring design thinking to open source and build beautiful, seamless
 
 &lt;p&gt;Slides: &lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/ar-web-programming-2.pdf&quot;&gt;ar-web-programming-2.pdf&lt;/a&gt;&lt;/p&gt;
 
-</description><pubDate>Mon, 28 Apr 2014 16:17:27 -0400</pubDate><link>https://blairmacintyre.me/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/</guid><category>awe-ny</category><category>webar</category><category>argon</category><category>conferences</category><category>education</category></item><item><title>Oculus + Facebook = social virtual, or a stepping stone?</title><description>&lt;p&gt;I’ve made no secret that I’m not optimistic about the prospect for VR’s success as a consumer product, this time ‘round, any more than I thought it was going to work for consumers last time ‘round (i.e., the 80’s and 90’s, when I first played with it).  So, while I have some dev kits (to hack for AR!) and have an Oculus “VR” sticker on my care (because it’s weird), I was definitely in the camp of folks dumbfounded when Facebook bought Oculus.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Apr 2014 16:17:27 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/</guid>
+        
+        <category>awe-ny</category>
+        
+        <category>webar</category>
+        
+        
+        <category>argon</category>
+        
+        <category>conferences</category>
+        
+        <category>education</category>
+        
+      </item>
+    
+      <item>
+        <title>Oculus + Facebook = social virtual, or a stepping stone?</title>
+        <description>&lt;p&gt;I’ve made no secret that I’m not optimistic about the prospect for VR’s success as a consumer product, this time ‘round, any more than I thought it was going to work for consumers last time ‘round (i.e., the 80’s and 90’s, when I first played with it).  So, while I have some dev kits (to hack for AR!) and have an Oculus “VR” sticker on my care (because it’s weird), I was definitely in the camp of folks dumbfounded when Facebook bought Oculus.&lt;/p&gt;
 
 &lt;p&gt;I’ve been thinking about it since then, though, as I’ve watched people write about their view (hope?) that Facebook’s goal is to create a massive social virtual world building on top of what Oculus is doing (Avi Bar-Zeev has some links and a summary &lt;a href=&quot;http://www.realityprime.com/blog/2014/03/the-new-rift-2/&quot;&gt;here&lt;/a&gt;, along with some other thoughts).&lt;/p&gt;
 
@@ -173,4 +356,25 @@ It is time to bring design thinking to open source and build beautiful, seamless
 &lt;p&gt;My hope is that by mediating these connections through virtual worlds, we can add structure and control to participants, while create metaphors that respect privacy while giving opportunities for serendipity and playful encounters!&lt;/p&gt;
 
 &lt;p&gt;This is where I hope Facebook and Oculus move toward …&lt;/p&gt;
-</description><pubDate>Mon, 28 Apr 2014 15:58:28 -0400</pubDate><link>https://blairmacintyre.me/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/</link><guid isPermaLink="true">https://blairmacintyre.me/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/</guid><category>met averse</category><category>mirror worlds</category><category>oculus</category><category>AEL</category><category>commercial</category><category>musings</category></item></channel></rss>
+</description>
+        <pubDate>Mon, 28 Apr 2014 15:58:28 -0400</pubDate>
+        <link>https://blairmacintyre.me/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/</link>
+        <guid isPermaLink="true">https://blairmacintyre.me/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/</guid>
+        
+        <category>met averse</category>
+        
+        <category>mirror worlds</category>
+        
+        <category>oculus</category>
+        
+        
+        <category>AEL</category>
+        
+        <category>commercial</category>
+        
+        <category>musings</category>
+        
+      </item>
+    
+  </channel>
+</rss>
