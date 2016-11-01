@@ -6,8 +6,8 @@
 </description>
     <link>https://blairmacintyre.me/</link>
     <atom:link href="https://blairmacintyre.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Sep 2016 11:42:30 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Sep 2016 11:42:30 -0400</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2016 15:46:14 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 15:46:14 -0400</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -52,10 +52,10 @@ If you look closely, you can see the cracks on the display (from us holding it u
 &lt;figure&gt;&lt;figcaption&gt;Like Frankenstien&#39;s lab, where we are trying to review a demo from the dead.&lt;/figcaption&gt;&lt;img src=&quot;/assets/uploads/2014/09/2014-09-23-17.12.25-1024x1024.jpg&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Just for old times sake, here’s a few videos related to DART.  First, the video from our UIST 2004 paper. &lt;/p&gt;
-&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://youtube.com/embed/l7xdIcRYfBE&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtube.com/embed/l7xdIcRYfBE&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;And then, the video for Four Angry Men, probably the most elaborate AR experience we created back then.&lt;/p&gt;
-&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://youtube.com/embed/LmRd6XtVF0U&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtube.com/embed/LmRd6XtVF0U&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 23 Sep 2014 17:43:24 -0400</pubDate>
         <link>https://blairmacintyre.me/2014/09/23/preparing-for-uist-2014/</link>
@@ -80,23 +80,33 @@ If you look closely, you can see the cracks on the display (from us holding it u
 
 &lt;p&gt;On iMessage/Facetime:&lt;/p&gt;
 
-&lt;blockquote&gt;So unlike other companies’ messaging services, Apple doesn’t scan your communications, and we wouldn’t be able to comply with a wiretap order even if we wanted to.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;So unlike other companies’ messaging services, Apple doesn’t scan your communications, and we wouldn’t be able to comply with a wiretap order even if we wanted to.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;On iCloud:&lt;/p&gt;
 
-&lt;blockquote&gt;Unlike our competitors, we never scan any of your iCloud data for advertising.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Unlike our competitors, we never scan any of your iCloud data for advertising.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;On Maps:&lt;/p&gt;
 
-&lt;blockquote&gt;Other companies try to build a profile about you using a complete history of everywhere you’ve been, usually because they’re targeting you for advertisers. Since our business doesn’t depend on advertising, we have no interest in doing this — and we couldn’t even if we wanted to.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Other companies try to build a profile about you using a complete history of everywhere you’ve been, usually because they’re targeting you for advertisers. Since our business doesn’t depend on advertising, we have no interest in doing this — and we couldn’t even if we wanted to.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;On Mail:&lt;/p&gt;
 
-&lt;blockquote&gt;Some companies mine your email for personal information to serve you targeted ads. We don’t.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Some companies mine your email for personal information to serve you targeted ads. We don’t.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;On Spotlight Suggestions:&lt;/p&gt;
 
-&lt;blockquote&gt;Unlike our competitors, we don’t use a persistent personal identifier to tie your searches to you in order to build a profile based on your search history. We also place restrictions on our partners so they don’t create a long-term trail of identifiable searches by you or from your device.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Unlike our competitors, we don’t use a persistent personal identifier to tie your searches to you in order to build a profile based on your search history. We also place restrictions on our partners so they don’t create a long-term trail of identifiable searches by you or from your device.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;I gave a talk just this past Sunday on privacy and security in Internet of Things, Wearables and AR, and near the end suggested that a company with real products (Apple or Microsoft) could do exactly what Apple has done here:  take privacy seriously by &lt;strong&gt;not&lt;/strong&gt; mining our data, and make that stance clear.  At a time when privacy concerns are going to keep growing and growing, as more and more problems come up with wearable and internet-enabled devices, the company who convinces people that their data is safe and secure with them has a lot to gain.&lt;/p&gt;
 
@@ -126,11 +136,10 @@ If you look closely, you can see the cracks on the display (from us holding it u
 
 &lt;p&gt;Just saw this quote from Tim Cook, that pretty clearly lays out where Apple stands:&lt;/p&gt;
 
-&lt;blockquote&gt;Our view is that when we design a new service we try not to collect data. So we&#39;re not reading your email. We&#39;re not reading your iMessage. If the government laid a subpoena on us to get your iMessages, we can&#39;t provide it. It&#39;s encrypted and we don&#39;t have a key.
-
-Our business is based on selling [products]. Our business is not based on having information about you. You are not our product.
-
-_([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-privacy/))_&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Our view is that when we design a new service we try not to collect data. So we’re not reading your email. We’re not reading your iMessage. If the government laid a subpoena on us to get your iMessages, we can’t provide it. It’s encrypted and we don’t have a key.
+Our business is based on selling [products]. Our business is not based on having information about you. You are not our product. &lt;cite&gt;(&lt;a href=&quot;http://www.macrumors.com/2014/09/15/tim-cook-on-privacy/&quot;&gt; courtesy of macrumors.com&lt;/a&gt;)&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 16 Sep 2014 10:57:03 -0400</pubDate>
         <link>https://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/</link>
@@ -147,9 +156,13 @@ _([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-pr
     
       <item>
         <title>We Need New Business Models in IoD</title>
-        <description>&lt;p&gt;Today, I gave a talk at the Ubiquitous Computing conference’s &lt;a href=&quot;http://appanalysis.org/upside/&quot;&gt;Workshop on Usable Privacy &amp;amp; Security for wearable and domestic ubIquitous DEvices (UPSIDE)&lt;/a&gt;, modestly titled “&lt;em&gt;Augmented Reality + Internet of Devices + Big Data: The End of Privacy?&lt;/em&gt;” I’ll post something else about this talk soon, but one of the goals was&lt;/p&gt;
+        <description>
+&lt;p&gt;Today, I gave a talk at the Ubiquitous Computing conference’s &lt;a href=&quot;http://appanalysis.org/upside/&quot;&gt;Workshop on Usable Privacy &amp;amp; Security for wearable and domestic ubIquitous DEvices (UPSIDE)&lt;/a&gt;, modestly titled “&lt;em&gt;Augmented Reality + Internet of Devices + Big Data: The End of Privacy?&lt;/em&gt;”
+I’ll post something else about this talk soon, but one of the goals was&lt;/p&gt;
 
-&lt;blockquote&gt;to urge people to develop architectures for IoD + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;to urge people to develop architectures for IoD&lt;label for=&quot;chang-ungar&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;chang-ungar&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;span id=&quot;rutledge-massey-anton-swire-2014&quot;&gt;Rutledge, R. L., Massey, A. K., Antón, A. I., &amp;amp; Swire, P. (2014). &lt;i&gt;Defining the Internet of Devices: Privacy and Security Implications&lt;/i&gt;. Georgia Institute of Technology.&lt;/span&gt; This paper introduces the idea of &lt;em&gt;Internet of Devices&lt;/em&gt; (IoD), a term I like more than &lt;em&gt;Internet of Things&lt;/em&gt;&lt;/span&gt; + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;The problem with this goal, of course, is that some days it seems like the principle business model of tech companies right now is centered on the idea of giving things away and mining user data.  If we cut the cord to user data, what then of these services that folks have grown to love and expect to be free?&lt;/p&gt;
 
@@ -157,9 +170,11 @@ _([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-pr
 
 &lt;p&gt;This model won’t translate directly, of course. Many games leverage the same compulsions as casinos and other forms of gambling, withholding “fun” at just the moments it’s most tantalizing and then requiring players to spend “just a little bit” to keep playing.  It’s hard to imagine this model translating directly to a more mundane context, but the higher level point that people have demonstrated they will “paying a tiny amount at the moment when the user perceives real, tangible value” should translate.&lt;/p&gt;
 
-&lt;p&gt;To make this work, we’ll need a way to pay these small amounts.  In games, users buy “coins”, usually in bulk so they are easy to spend in the heat of the moment. (Those coins can typically also be “earned” in the game, giving users the illusion they could successfully play for free.)   Micro-transaction schemes haven’t worked well in the past, but if they can be smoothly integrated into an IoD context, there is enormous potential.  Given the appearance of systems to control these collections of devices (&lt;a href=&quot;https://developer.apple.com/homekit/&quot;&gt;HomeKit&lt;/a&gt;, &lt;a href=&quot;http://www.threadgroup.org&quot;&gt;Thread&lt;/a&gt; and &lt;a href=&quot;http://allseenalliance.org&quot;&gt;Allseen&lt;/a&gt;, to name a few), and the tie-in between these systems and existing payment infrastructures, the potential is certainly there.&lt;/p&gt;
+&lt;p&gt;To make this work, we’ll need a way to pay these small amounts.  In games, users buy “coins”, usually in bulk so they are easy to spend in the heat of the moment. (Those coins can typically also be “earned” in the game, giving users the illusion they could successfully play for free.)   Micro-transaction schemes haven’t worked well in the past, but if they can be smoothly integrated into an IoD context, there is enormous potential.  Given the appearance of systems to control these collections of devices (&lt;a href=&quot;https://developer.apple.com/homekit/&quot;&gt;HomeKit&lt;/a&gt;,
+&lt;a href=&quot;http://www.threadgroup.org&quot;&gt;Thread&lt;/a&gt;, 
+and &lt;a href=&quot;http://allseenalliance.org&quot;&gt;Allseen&lt;/a&gt;, 
+to name a few), and the tie-in between these systems and existing payment infrastructures, the potential is certainly there.&lt;/p&gt;
 
-&lt;p&gt;(Aside:  IoD — Internet of Devices — is a term I like, in contrast to “Internet of Things,” and was coined in the paper “&lt;a href=&quot;https://smartech.gatech.edu/handle/1853/52020&quot;&gt;Defining the Internet of Devices: Privacy and Security Implications&lt;/a&gt;” by my colleagues at Georgia Tech.  Check it out.)&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Sep 2014 16:55:15 -0400</pubDate>
         <link>https://blairmacintyre.me/2014/09/14/we-need-new-business-models-in-iod/</link>
@@ -225,13 +240,17 @@ _([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-pr
 
 &lt;p&gt;It’s worth a watch!  Here’s the description of the video, from youtube:&lt;/p&gt;
 
-&lt;blockquote&gt;It&#39;s time for a design revolution in open technology. Companies like Google and Facebook that dominate the Internet promise us free services in exchange for the right to watch and study us; to mine and farm us. Like quarries, like livestock, we are natural resources to be exploited in a brave new digital world of corporate surveillance that threatens our most fundamental freedoms.
-
+&lt;blockquote&gt;
+  &lt;p&gt;It’s time for a design revolution in open technology. Companies like Google and Facebook that dominate the Internet promise us free services in exchange for the right to watch and study us; to mine and farm us. Like quarries, like livestock, we are natural resources to be exploited in a brave new digital world of corporate surveillance that threatens our most fundamental freedoms.
+&lt;br /&gt;
+&lt;br /&gt;
 There are open alternatives but they are too difficult for most of us to use.
+&lt;br /&gt;
+&lt;br /&gt;
+It is time to bring design thinking to open source and build beautiful, seamless open consumer products that are easy to use and which respect our fundamental freedoms.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-It is time to bring design thinking to open source and build beautiful, seamless open consumer products that are easy to use and which respect our fundamental freedoms.&lt;/blockquote&gt;
-
-&lt;p&gt;[youtube]https://www.youtube.com/watch?v=upu0gwGi4FE[/youtube]&lt;/p&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtube.com/embed/upu0gwGi4FE&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sat, 03 May 2014 09:20:10 -0400</pubDate>
         <link>https://blairmacintyre.me/2014/05/03/interesting-video-free-is-a-lie/</link>
@@ -254,11 +273,13 @@ It is time to bring design thinking to open source and build beautiful, seamless
 
 &lt;p&gt;May 1, 2014:  Today, &lt;a href=&quot;http://www.lessig.org&quot;&gt;Lawrence Lessig&lt;/a&gt; has launched his &lt;a href=&quot;http://mayday.us&quot;&gt;Mayday.us&lt;/a&gt; campaign against corruption in American politics, with the goal of creating the Citizen’s SuperPAC to End All SuperPACs.  If you aren’t aware of this, please check out the site or watch his video:&lt;/p&gt;
 
-&lt;p&gt;[vimeo]http://vimeo.com/93299391[/vimeo]&lt;/p&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://player.vimeo.com/video/93299391&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;I strongly support this.  As someone described it in an article on &lt;a href=&quot;http://boingboing.net/2014/05/01/mayday-larry-lessig-launches.html&quot;&gt;Boing Boing&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;They&#39;re calling it a moonshot. It&#39;s audacious, improbable, and desperately needed.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;They’re calling it a moonshot. It’s audacious, improbable, and desperately needed.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;If you agree, please donate and help spread the word!&lt;/p&gt;
 </description>
@@ -285,9 +306,9 @@ It is time to bring design thinking to open source and build beautiful, seamless
 
 &lt;p&gt;Here’s the talk, and a PDF of the slides I used.&lt;/p&gt;
 
-&lt;p&gt;[youtube]https://www.youtube.com/watch?v=YP2KGszYvXU[/youtube]&lt;/p&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtube.com/embed/YP2KGszYvXU&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Slides: &lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/ar-web-programming-2.pdf&quot;&gt;ar-web-programming-2.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;http://www.blairmacintyre.me/assets/uploads/2014/04/ar-web-programming-2.pdf&quot;&gt;ar-web-programming-2.pdf&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 28 Apr 2014 16:17:27 -0400</pubDate>
@@ -321,11 +342,11 @@ It is time to bring design thinking to open source and build beautiful, seamless
 
 &lt;p&gt;Our first project was creating an AR interface to SecondLife, modifying the client so that parts of the virtual world could be aligned with the real world.  In this image, you can see a model of part of our lab in SL (on the left), and an AR view of the same space (with an SL avatar in it) on the right.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/arsl-slideshow.jpg&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/arsl-slideshow-300x115.jpg&quot; alt=&quot;arsl-slideshow&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;figcaption&gt;AR Second Life. On the left, a model of a part of the lab in SecondLife.  On the right, the AR experience.&lt;/figcaption&gt;&lt;img src=&quot;/assets/uploads/2014/04/arsl-slideshow-910x350.jpg&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;The structure of SecondLife led us to a model were users explicitly aligned regions of the two worlds, which is one important metaphor:  mirror what happens in both the physical and virtual worlds over into the other.  An avatar walks into the area in SL, they appear in the AR view.  Someone walks into the physical room, and their avatar appears in the virtual world (we didn’t do that here, due to limits of SL).  Here’s a video of the project:&lt;/p&gt;
 
-&lt;p&gt;[youtube]https://www.youtube.com/watch?v=O2i-W9ncV_0[/youtube]&lt;/p&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtube.com/embed/O2i-W9ncV_0&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;But there are other interesting metaphors we didn’t get a chance to explore;  ideas like portals between worlds, or other non-linear relationships between the two worlds.  And, of course, there was only one SL world:  it would be very interesting to explore multiple parallel virtual worlds (a true multiverse).&lt;/p&gt;
 
@@ -333,11 +354,11 @@ It is time to bring design thinking to open source and build beautiful, seamless
 
 &lt;p&gt;In the desktop virtual interface (on the right below) you could wander around the 3D campus and  explore and interact with a mashup of 2D and 3D “content” pinned to the world.  The same content was available in an AR interface (on the left below, shown over a panoramic photograph).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/mirror_4.jpg&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/mirror_4-300x109.jpg&quot; alt=&quot;mirror_4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;figcaption&gt;Mirror Worlds. AR on the left, VR on  the right.&lt;/figcaption&gt;&lt;img src=&quot;/assets/uploads/2014/04/mirror_4-910x330.jpg&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;The idea was to have a 1-1 scale multiuser virtual environment where people shared a hybrid space together, with avatars showing up in one space to represent the occupants of the other.  Here’s a video of that prototype:&lt;/p&gt;
 
-&lt;p&gt;[youtube]https://www.youtube.com/watch?v=ArgE5nDjmgE[/youtube]&lt;/p&gt;
+&lt;iframe class=&quot;fullwidth&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtube.com/embed/ArgE5nDjmgE&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;These projects led us to explore how &lt;a href=&quot;http://openwonderland.org&quot;&gt;OpenWonderland&lt;/a&gt; virtual environment (then Sun’s Wonderland) could serve as the organizing metaphor for a distributed group of knowledge workers.  Wonderland was designed to let people work together in a 3D world, and tried to address many of the problems experienced by people trying to do “work” in impoverished virtual worlds like SecondLife.  Our research was aimed at creating mixed-reality portals into these 3D worlds and explore what would happen if we positioned them throughout an office environment (e.g., on multiple large displays in instrumented meeting rooms, break rooms, or in individual offices), allowing distributed teams to work together in new ways.&lt;/p&gt;
 
@@ -345,7 +366,7 @@ It is time to bring design thinking to open source and build beautiful, seamless
 
 &lt;p&gt;One prototype of our portal interface (where the two avatars are working with Alex Hill, the lead researcher on the project, at the whiteboard) is shown here:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/DSC00599.jpg&quot;&gt;&lt;img src=&quot;http://www.blairmacintyre.me/wp-content/uploads/2014/04/DSC00599-300x225.jpg&quot; alt=&quot;DSC00599&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;figcaption&gt;Clearboard using Wonderland.&lt;/figcaption&gt;&lt;img src=&quot;/assets/uploads/2014/04/DSC00599-640.jpg&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;(We were just starting to explore how to use this technology, when Sun went out of business, and our focus shifted in new directions:  in the academy, you can only work on big projects if you can fund them!).&lt;/p&gt;
 
