@@ -30,19 +30,16 @@ I worry about this because there is a beautiful irony in these so-called AR appl
 
 Consider the first AR app that was snuck into the iTunes store, the Monocle extension to Yelp.  The app is hamstrung not only by these sensors, but by inaccurate location data in their user-generated review site.  So, when I stepped out in front of my building (the Technology Square Research Building at Georgia Tech, in Atlanta) and looked around, the overlaid information was _completely incorrect_.  Nearby restaurants where off (in some cases shown in the opposite direction from where I was looking), or completely absurd (such as a restaurant blocks away in one direction, showing up beside a nearby one).  Here's a video I took (poor quality because I pointed my junky point and shoot at the iPhone screen) showing what I'm talking about (I realize it will probably only make sense for those in Atlanta).
 
-[quicktime width="480" height="320"]http://www.blairmacintyre.me/wp-content/uploads/2009/09/IMGP0745-3.mov[/quicktime]
+{% youtubes X4yDBJQ-mtg %} 
 
+{% marginfigure "photos1" assets/uploads/2009/09/yelp-kitchen-bad.jpg "Yelp Monocle:  Augmented Kids Art!" %}
 Aside from the errors, what does this video show you?  What does Monocle "do" that wouldn't be done better as a tradition 2D Google Map mashup? (Yes, I realize this was just a fun hack they put in there, but the quality and utility questions go beyond this app.) Here's another Yelp screenshot, this time from my kitchen, showing a bunch of restaurants in a nearby neighborhood ... overlaid on my daughters artwork on the kitchen wall.  (We'll ignore that I'm looking about 40 degrees to the left of where I should be to see these labels, even though the iPhone is actually placing me on the street in front of my house, close enough to were I am.)
 
-[![Yelp Monocle:  Augmented Kids Art!](http://www.blairmacintyre.me/wp-content/uploads/2009/09/yelp-kitchen-bad.jpg)](http://www.augmentedenvironments.org/blair/2009/09/23/has-ar-taken-off/yelp-kitchen-bad/)
-
+{% marginfigure "photos2" assets/uploads/2009/09/nearestphoto-silly.jpg "PhotosAR from my kitchen." %}
 So as not to just pick on Yelp, let's look at an app that just got released in the iTunes store, just a few days ago, and one who's sole purpose is to do AR:  AcrossAir's PhotosAR.  I donated my 70% of $1.99 to the company to try it out, and the results are .. let's just say "interesting." Again, sitting in my kitchen, I see some images of Piedmont park a few miles away.  The bottom picture isn't actually too bad.
 
-[![PhotosAR from my kitchen](http://www.blairmacintyre.me/wp-content/uploads/2009/09/nearestphoto-silly.jpg)](http://www.augmentedenvironments.org/blair/2009/09/23/has-ar-taken-off/nearestphoto-silly/)
-
+{% marginfigure "photos3" assets/uploads/2009/09/nearestphoto-up.jpg "PhotosAR looking up" %}
 But there's more photos of the park, and so the obvious thing for the app to do is ... stack them?  While this is "cute" in a "gee, there are incomprehensible photos floating above me in 3D, that is so cool" kind of way, it doesn't seem like the best choice.  In this case, you can scroll the stack up and down, too, but this seems like a pretty arbitrary choice.  But it highlights another important issue: how do we organize an overwhelming amount of 3D data in a way that benefits the user?   AR developers would do well to start looking at information visualization, 2D and 3D UI conference papers and textbooks.
-
-[![PhotosAR looking up](http://www.blairmacintyre.me/wp-content/uploads/2009/09/nearestphoto-up.jpg)](http://www.augmentedenvironments.org/blair/2009/09/23/has-ar-taken-off/nearestphoto-up/)
 
 As with the Yelp app, I'm left wondering if, perhaps, just retrieving the photos, grouping them into sets on a 2D Google Map, and letting users browse each of these sets in the built-in coverflow widget might be a much more useful solution?
 

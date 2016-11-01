@@ -20,12 +20,12 @@ While the presenter (Aral Balkan) is a bit over the top in his analysis of Googl
 
 It's worth a watch!  Here's the description of the video, from youtube:
 
-
-<blockquote>It's time for a design revolution in open technology. Companies like Google and Facebook that dominate the Internet promise us free services in exchange for the right to watch and study us; to mine and farm us. Like quarries, like livestock, we are natural resources to be exploited in a brave new digital world of corporate surveillance that threatens our most fundamental freedoms.
-
+>It's time for a design revolution in open technology. Companies like Google and Facebook that dominate the Internet promise us free services in exchange for the right to watch and study us; to mine and farm us. Like quarries, like livestock, we are natural resources to be exploited in a brave new digital world of corporate surveillance that threatens our most fundamental freedoms.
+\\
+\\
 There are open alternatives but they are too difficult for most of us to use.
+\\
+\\
+It is time to bring design thinking to open source and build beautiful, seamless open consumer products that are easy to use and which respect our fundamental freedoms.
 
-It is time to bring design thinking to open source and build beautiful, seamless open consumer products that are easy to use and which respect our fundamental freedoms.</blockquote>
-
-
-[youtube]https://www.youtube.com/watch?v=upu0gwGi4FE[/youtube]
+{% youtubes upu0gwGi4FE %}

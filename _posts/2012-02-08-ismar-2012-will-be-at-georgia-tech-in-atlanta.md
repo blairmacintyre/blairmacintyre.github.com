@@ -12,4 +12,4 @@ tags:
 - ISMAR2012
 ---
 
-Coming to Atlanta this fall, November 5-8 2012, Georgia Tech will host the International Symposium on Mixed and Augmented Reality.  I am one of the two general chairs, and look forward to helping run the biggest and best ISMAR yet.  We are especially excited to show off the diverse research happening at Georgia Tech, and to show off the exciting and modern campus in the heart of midtown Atlanta.  For more information, visit http://ismar2012.org
+Coming to Atlanta this fall, November 5-8 2012, Georgia Tech will host the International Symposium on Mixed and Augmented Reality.  I am one of the two general chairs, and look forward to helping run the biggest and best ISMAR yet.  We are especially excited to show off the diverse research happening at Georgia Tech, and to show off the exciting and modern campus in the heart of midtown Atlanta.  For more information, visit [http://ismar2012.org](http://ismar2012.org)

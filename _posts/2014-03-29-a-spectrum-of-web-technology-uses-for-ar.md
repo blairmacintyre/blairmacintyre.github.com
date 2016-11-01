@@ -23,11 +23,7 @@ Eventually, AR will be possible in most web browsers, but there is still a ways 
 
 To capture the spectrum of ways HTML5/Javascript is used in AR right now, I included this slide in my presentation.  It's fairly high level, as it was part of a longer presentation, but I'd be interested in hearing what others think of this.  (These ideas also came out of discussions with Rob Manson, at [BuildAR.com](http://buildar.com), who created BuildAR and the awe.js library referenced on the slide).
 
-
-
-
-[![ar-web-programming.001](http://www.blairmacintyre.me/wp-content/uploads/2014/03/ar-web-programming.001.jpg)](http://www.blairmacintyre.me/wp-content/uploads/2014/03/ar-web-programming.001.jpg)
-
+{% maincolumn "assets/uploads/2014/03/ar-web-programming.001.jpg" "Ways to use web technology to build AR apps." %}
 
 In this slide, the left end represents doing AR in a standard web browser, such as Chrome or Firefox on Android. The image on the left is of a simple AR application created by a student in my lab, and awe.js is an pure-HTML5 AR library that the owners of builder.com are trying to finance via kickstarter (buildAR itself is a tool for creating content for a variety of applications that use web technology in different ways.)
 

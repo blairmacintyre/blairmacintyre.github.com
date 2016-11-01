@@ -24,7 +24,7 @@ First, I had to take the plunge and upgrade our server to support mods.  In par
 
 Fortunately, Paul Harter (the creator of printcraft) had posted his [core script on github](https://gist.github.com/paulharter/4001539) and while it wasn't a load-and-go kind of script, it served as a great starting point for rolling my own server.  For anyone who cares, it looks like you'd expect:
 
-![3dprint-code](http://www.blairmacintyre.com/wp-content/uploads/2013/04/3dprint-code-300x274.jpg)
+{% maincolumn assets/uploads/2013/04/3dprint-code.jpg "" %}
 
 While Paul's original script is based on the idea of printing out everything within a predefined region, I opted to use the ability of WorldEdit to marker regions in the world.  So, my script assumes you've set a region to print, and then it traverses through that region, collecting up the blocks it finds.  It's currently pretty limited in that it only supports square blocks (no ladders, chests, stairs, slabs, etc).   I divided the main blocks into two sets, and write out two scripts, one for each of the two kinds of blocks.
 
@@ -32,25 +32,19 @@ This is the second key thing Paul did:  he didn't bother to create the STL file
 
 So, the process is simple.  First, my kids create something they want printed in Minecraft.  Here's a model my son made (the stone and dirt will be written out as separate models):
 
-![3dprint-minecraft-model](http://www.blairmacintyre.com/wp-content/uploads/2013/04/3dprint-minecraft-model-300x159.jpg)
+{% maincolumn assets/uploads/2013/04/3dprint-minecraft-model.jpg "" %}
 
 Next, I run the script I wrote, derived from Paul's printcraft script, generating two OpenSCAD programs.  I then load each into OpenSCAD and generate STL files from them.  Here's one:
 
-[![3dprint-openscad](http://www.blairmacintyre.com/wp-content/uploads/2013/04/3dprint-openscad-300x190.jpg)](http://www.blairmacintyre.com/wp-content/uploads/2013/04/3dprint-openscad.jpg)
+{% maincolumn assets/uploads/2013/04/3dprint-openscad.jpg "" %}
 
 Finally, I load both files into Makerware, size them as desired and select which is printed with which extruder:
 
-[![3dprint-makerware](http://www.blairmacintyre.com/wp-content/uploads/2013/04/3dprint-makerware-300x231.jpg)](http://www.blairmacintyre.com/wp-content/uploads/2013/04/3dprint-makerware.jpg)
+{% maincolumn assets/uploads/2013/04/3dprint-makerware.jpg %}
 
 And then, we wait for the Replicator to finish printing (a little longer than any of us would like)!
 
-
-[![IMG_3085](http://www.blairmacintyre.com/wp-content/uploads/2013/04/IMG_3085-225x300.jpg)](http://www.blairmacintyre.com/wp-content/uploads/2013/04/IMG_3085.jpg)
-
-
+{% maincolumn assets/uploads/2013/04/IMG_3085.jpg %}
 
 
 I won't pretend this was a simple, smooth process, but it was fun!  And, most importantly, now I can print whatever my kids care to think up, without them having to learn a 3D modeling program.  I suspect that they will soon want to learn something more powerful, but for now I'm looking forward to seeing what they come up with.
-
-
-

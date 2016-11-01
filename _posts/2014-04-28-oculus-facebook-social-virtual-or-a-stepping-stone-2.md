@@ -28,11 +28,11 @@ What I'd like to see, instead, is the future_ Facebook Metaverse_ be just one 
 
 Our first project was creating an AR interface to SecondLife, modifying the client so that parts of the virtual world could be aligned with the real world.  In this image, you can see a model of part of our lab in SL (on the left), and an AR view of the same space (with an SL avatar in it) on the right.
 
-[![arsl-slideshow](http://www.blairmacintyre.me/wp-content/uploads/2014/04/arsl-slideshow-300x115.jpg)](http://www.blairmacintyre.me/wp-content/uploads/2014/04/arsl-slideshow.jpg)
+{% maincolumn assets/uploads/2014/04/arsl-slideshow-910x350.jpg "AR Second Life. On the left, a model of a part of the lab in SecondLife.  On the right, the AR experience." %}
 
 The structure of SecondLife led us to a model were users explicitly aligned regions of the two worlds, which is one important metaphor:  mirror what happens in both the physical and virtual worlds over into the other.  An avatar walks into the area in SL, they appear in the AR view.  Someone walks into the physical room, and their avatar appears in the virtual world (we didn't do that here, due to limits of SL).  Here's a video of the project:
 
-[youtube]https://www.youtube.com/watch?v=O2i-W9ncV_0[/youtube]
+{% youtubes O2i-W9ncV_0 %}
 
 But there are other interesting metaphors we didn't get a chance to explore;  ideas like portals between worlds, or other non-linear relationships between the two worlds.  And, of course, there was only one SL world:  it would be very interesting to explore multiple parallel virtual worlds (a true multiverse).
 
@@ -40,11 +40,11 @@ The biggest limitation, though, was that it was particularly _expensive_ to do
 
 In the desktop virtual interface (on the right below) you could wander around the 3D campus and  explore and interact with a mashup of 2D and 3D "content" pinned to the world.  The same content was available in an AR interface (on the left below, shown over a panoramic photograph).
 
-[![mirror_4](http://www.blairmacintyre.me/wp-content/uploads/2014/04/mirror_4-300x109.jpg)](http://www.blairmacintyre.me/wp-content/uploads/2014/04/mirror_4.jpg)
+{% maincolumn assets/uploads/2014/04/mirror_4-910x330.jpg "Mirror Worlds. AR on the left, VR on  the right." %}
 
 The idea was to have a 1-1 scale multiuser virtual environment where people shared a hybrid space together, with avatars showing up in one space to represent the occupants of the other.  Here's a video of that prototype:
 
-[youtube]https://www.youtube.com/watch?v=ArgE5nDjmgE[/youtube]
+{% youtubes ArgE5nDjmgE %}
 
 These projects led us to explore how [OpenWonderland](http://openwonderland.org) virtual environment (then Sun's Wonderland) could serve as the organizing metaphor for a distributed group of knowledge workers.  Wonderland was designed to let people work together in a 3D world, and tried to address many of the problems experienced by people trying to do "work" in impoverished virtual worlds like SecondLife.  Our research was aimed at creating mixed-reality portals into these 3D worlds and explore what would happen if we positioned them throughout an office environment (e.g., on multiple large displays in instrumented meeting rooms, break rooms, or in individual offices), allowing distributed teams to work together in new ways.
 
@@ -52,7 +52,7 @@ While the portals showed one view into a virtual world, individuals could use la
 
 One prototype of our portal interface (where the two avatars are working with Alex Hill, the lead researcher on the project, at the whiteboard) is shown here:
 
-[![DSC00599](http://www.blairmacintyre.me/wp-content/uploads/2014/04/DSC00599-300x225.jpg)](http://www.blairmacintyre.me/wp-content/uploads/2014/04/DSC00599.jpg)
+{% maincolumn assets/uploads/2014/04/DSC00599-640.jpg "Clearboard using Wonderland." %}
 
 (We were just starting to explore how to use this technology, when Sun went out of business, and our focus shifted in new directions:  in the academy, you can only work on big projects if you can fund them!).
 

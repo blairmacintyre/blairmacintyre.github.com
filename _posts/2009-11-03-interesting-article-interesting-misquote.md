@@ -17,11 +17,11 @@ If I look at the misquote in [this article](http://www.digitaltrends.com/mobile/
 
 I'm quoted in the article as saying
 
-<blockquote>“When the graphics effectively align with specific parts of the real world and we get this tightly accurate form of augmented reality, people start to really relate to their AR surroundings [the 3D images of the town and characters],” he claims. “They talk about the mixed space as if it actually existed and was theirs, rather than just a gaming platform.”</blockquote>
+>"When the graphics effectively align with specific parts of the real world and we get this tightly accurate form of augmented reality, people start to really relate to their AR surroundings [the 3D images of the town and characters]," he claims. "They talk about the mixed space as if it actually existed and was theirs, rather than just a gaming platform."
 
 which is very odd sounding to me;  what I actually would have said is something like
 
-<blockquote>“When the graphics effectively align with specific parts of the real world and we get this tightly accurate form of augmented reality, people start to really relate to their AR surroundings [the 3D images of the town and characters] as if they really were out in the physical world,” he claims. “They talk about the mixed space as if it was actually one combined space, rather than just being inside the gaming platform.”</blockquote>
+>"When the graphics effectively align with specific parts of the real world and we get this tightly accurate form of augmented reality, people start to really relate to their AR surroundings [the 3D images of the town and characters] as if they really were out in the physical world," he claims. "They talk about the mixed space as if it was actually one combined space, rather than just being inside the gaming platform."
 
 While the later is fairly straightfoward ("when the graphics are tightly registered with the physical world, people can start to behave as if the graphics are in the physical world"), the former quote is somewhat thought provoking.
 

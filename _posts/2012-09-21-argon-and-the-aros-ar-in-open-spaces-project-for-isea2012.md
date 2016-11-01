@@ -25,13 +25,11 @@ The focus of the project was creating an AR-interactive mural, using our [Argon
 
 Nettrice is presenting the project this week, and sent me this picture of the brochure for the Wells Park Rail Runner Mural Project that created by a group of local people in Albuquerque:
 
-[![](http://www.blairmacintyre.me/wp-content/uploads/2012/09/wellpark_brochure.jpg)](http://www.blairmacintyre.me/wp-content/uploads/2012/09/wellpark_brochure.jpg)
+{% maincolumn assets/uploads/2012/09/wellpark_brochure.jpg %}
 
 Laurie designed an insert for the brochure, to explain how to load the AR content:
 
-
-[![](http://www.blairmacintyre.me/wp-content/uploads/2012/09/howtoviewfinal.jpg)](http://www.blairmacintyre.me/wp-content/uploads/2012/09/howtoviewfinal.jpg)
-
+{% maincolumn assets/uploads/2012/09/howtoviewfinal.jpg %}
 
 As an AR researcher, I'm always excited when people do cool things with the tools we build; the idea that our browser could be used for something so important as engaging kids with art and technology is awesome. Of course, it's also a reminder to us researchers not to get hung on the technology too much:  any technologist reading this might be "horrified" to see human-sized "AR markers" as part of a mural on the side of a building (and I will say that the upcoming version of Argon will have Qualcomm's Vuforia image-based tracking software in it, for those who just can't bear the thought of it).  But, for me, the idea that the technology is approachable enough that kids could build with it is what's important, and is motivating us to make the tech better, and more approachable and usable for these sorts of projects!
 

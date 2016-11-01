@@ -1,6 +1,6 @@
 ---
 id: 123
-title: Some thoughts on AR
+title: "Some thoughts on AR"
 date: 2009-11-03T22:04:15+00:00
 author: blair
 layout: post

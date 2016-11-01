@@ -19,9 +19,5 @@ I firmly believe that both companies have an enormous opportunity to sell servic
 
 Just saw this quote from Tim Cook, that pretty clearly lays out where Apple stands:
 
-
-<blockquote>Our view is that when we design a new service we try not to collect data. So we're not reading your email. We're not reading your iMessage. If the government laid a subpoena on us to get your iMessages, we can't provide it. It's encrypted and we don't have a key.
-
-Our business is based on selling [products]. Our business is not based on having information about you. You are not our product.
-
-_([courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-privacy/))_</blockquote>
+>Our view is that when we design a new service we try not to collect data. So we're not reading your email. We're not reading your iMessage. If the government laid a subpoena on us to get your iMessages, we can't provide it. It's encrypted and we don't have a key.
+Our business is based on selling [products]. Our business is not based on having information about you. You are not our product. <cite>([ courtesy of macrumors.com](http://www.macrumors.com/2014/09/15/tim-cook-on-privacy/))</cite>

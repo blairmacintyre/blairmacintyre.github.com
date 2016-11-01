@@ -17,9 +17,7 @@ tags:
 
 Ok, I know I'm either going to love or hate a blog post about an internal research project on mobile AR, when the first line is
 
-
-<blockquote>It all started with _Snow Crash_.</blockquote>
-
+>It all started with _Snow Crash_.
 
 Michael Abrash, game and tech industry veteran, and now at Valve, recently wrote [a blog post](http://blogs.valvesoftware.com/abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/) about his journey to Valve and the current internal research project on what he calls "wearable computing."   For the rest of us, though, the description of what they are doing sounds exactly what researchers like me would call fully immersive AR. (Ironically, the folks at Google are doing something that the research community would traditionally call wearable computing, and folks want to call it AR, but that's a different conversation.)
 
@@ -34,20 +32,17 @@ But, my first love is working with technology and concepts on the cutting edge t
 Which brings me back to Michael Abrash.  I have no idea what they are really doing.  But, the thing I've learned about game design over the past half dozen years, building games in my lab and at [my company](http://www.aurainteractive.com), is that game design is different than research, even if your research needs you to build a game.  Unlike researchers or product engineers, game designers are trained and focused on creating compelling experiences.  Things only matter insofar as they are perceived by the player and impact the experience of the player.  If the experience sucks, the experience sucks:  there is no "oh, it only works if you do this" or "imagine what it would be like if this was better or that was better".  There is no making it work well enough for the paper, or the video, or the evaluation.  There is only the experience.   As Miyagi said in _[The Karate Kid](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKarateKid)_:
 
 
-<blockquote>Miyagi: Now, ready?  
-
+>Miyagi: Now, ready?  
+\\
 Daniel: Yeah, I guess so.  
-
-Miyagi: Daniel-san, must talk. Walk on road, hm? Walk left side, safe. Walk right side, safe. Walk middle, sooner or later, _(makes squish gesture)_ get squish just like grape. Here, karate, same thing. Either you karate do "yes", or karate do "no". You karate do "guess so", _(makes squish gesture)_ just like grape. Understand?</blockquote>
-
+\\
+Miyagi: Daniel-san, must talk. Walk on road, hm? Walk left side, safe. Walk right side, safe. Walk middle, sooner or later, _(makes squish gesture)_ get squish just like grape. Here, karate, same thing. Either you karate do "yes", or karate do "no". You karate do "guess so", _(makes squish gesture)_ just like grape. Understand?
 
 AR (or wearable computing, as Michael calls it) will not really be possible any time soon.  To safely and unobtrusively integrate content with your view of the world around you, you must be able to achieve the kind of integration we see in live sports on TV, and that simply isn't going to be feasible soon.  But if you want to work towards that dream, you need to decide:  am I building something to take me one step in that direction (e.g., my games in the AR Game Studio, or release of the Argon AR-enabled web browser, Google's Project Glass) or are we going to just try to create a compelling experience of what it might be like when we get there.
 
 I don't know if the later is what Valve really wants to do, but I think a game studio that is saying up front
 
-
-<blockquote>To be clear, this is R&D – it doesn’t in any way involve a product at this point, and won’t for a long while, if ever – so please, no rumors about Steam glasses being announced at E3.</blockquote>
-
+>To be clear, this is R&D – it doesn’t in any way involve a product at this point, and won’t for a long while, if ever – so please, no rumors about Steam glasses being announced at E3.
 
 is likely to do something interesting and exciting and different than the other projects you see around the web.
 

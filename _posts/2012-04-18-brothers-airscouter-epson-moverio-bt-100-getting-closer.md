@@ -15,7 +15,7 @@ In light of all the talk of Google's project glass, there are a bunch of folks s
 
 Brother's Airscouter (apparently [due out this summer in Japan](http://www.engadget.com/2012/04/17/brother-airscouter-glasses-bring-augmented-reality-unsightly-ad/)) is indeed a see-through virtual retinal display, and is "relatively small".
 
-[youtube]http://www.youtube.com/watch?v=5rtxz1P2Ogw[/youtube]
+{% youtubes 5rtxz1P2Ogw %}
 
 But, it's a LOT bigger and bulkier, and it's "just the display."   No camera.  No computer.  No sensors.  So, in practice, it would be much bigger, and a lot uglier.  As a researcher, of course, I'm totally fine with this, since it will let us do the research we want with the platforms we want (from desktop to laptop to tablet to handheld) and not be bound to a specific OS or set of sensors.  But, for practical use, that's a huge problem.  So, we'll likely be buying some (there's nothing else quite like it coming out), just as we'll be buying other displays!
 

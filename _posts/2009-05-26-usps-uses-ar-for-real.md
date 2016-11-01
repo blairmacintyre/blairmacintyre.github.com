@@ -13,4 +13,11 @@ tags:
 - usps
 ---
 
-Ok, this is cute.  I wish I thought of it.  A use of FLAR (Flash AR) for something ... almost useful?  And, most ironic of all, it's by the US Postal Service!  I'm almost giddy![![USPS Virtual Box Simulator](http://www.blairmacintyre.me/wp-content/uploads/2011/10/usps-ar.jpg)](https://www.prioritymail.com/simulator.asp)
+Ok, this is cute.  I wish I thought of it.  A use of FLAR (Flash AR) for something ... almost useful?  And, most ironic of all, it's by the US Postal Service!  I'm almost giddy, just a simple web page at www.prioritymail.com/simulator.asp.
+
+
+{% maincolumn assets/uploads/2011/10/usps-ar.jpg "USPS Virtual Box Simulator" %}
+
+_Edit (Oct 2016):_ Here's a video someone made of it, since it's no longer running:
+
+{% youtubes WpS3LeCiCtc %}

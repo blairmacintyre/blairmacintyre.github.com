@@ -15,4 +15,4 @@ tags:
 
 Most people who know me know that I remain unconvinced of the usefulness of wearing projectors around your neck, despite all the cute fake mocked-up demos that people do.  But, if you are going to do something with projectors, that isn't going to work "in the real world" anyway, why not something cool like this? (As an added bonus, this is done with a pile of those new Nikon cameras with the projectors built in.)
 
-[youtube]http://www.youtube.com/watch?v=P0tOOcgcHTE&feature=player_embedded[/youtube] 
+{% youtubes P0tOOcgcHTE %}

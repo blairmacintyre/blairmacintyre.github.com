@@ -18,33 +18,23 @@ Yesterday, [I blogged about an interview with Tim Cook](http://blairmacintyre.m
 
 On iMessage/Facetime:
 
-
-<blockquote>So unlike other companies’ messaging services, Apple doesn’t scan your communications, and we wouldn’t be able to comply with a wiretap order even if we wanted to.</blockquote>
-
+>So unlike other companies’ messaging services, Apple doesn’t scan your communications, and we wouldn’t be able to comply with a wiretap order even if we wanted to.
 
 On iCloud:
 
-
-<blockquote>Unlike our competitors, we never scan any of your iCloud data for advertising.</blockquote>
-
+>Unlike our competitors, we never scan any of your iCloud data for advertising.
 
 On Maps:
 
-
-<blockquote>Other companies try to build a profile about you using a complete history of everywhere you’ve been, usually because they’re targeting you for advertisers. Since our business doesn’t depend on advertising, we have no interest in doing this — and we couldn’t even if we wanted to.</blockquote>
-
+>Other companies try to build a profile about you using a complete history of everywhere you’ve been, usually because they’re targeting you for advertisers. Since our business doesn’t depend on advertising, we have no interest in doing this — and we couldn’t even if we wanted to.
 
 On Mail:
 
-
-<blockquote>Some companies mine your email for personal information to serve you targeted ads. We don’t.</blockquote>
-
+>Some companies mine your email for personal information to serve you targeted ads. We don’t.
 
 On Spotlight Suggestions:
 
-
-<blockquote>Unlike our competitors, we don’t use a persistent personal identifier to tie your searches to you in order to build a profile based on your search history. We also place restrictions on our partners so they don’t create a long-term trail of identifiable searches by you or from your device.</blockquote>
-
+>Unlike our competitors, we don’t use a persistent personal identifier to tie your searches to you in order to build a profile based on your search history. We also place restrictions on our partners so they don’t create a long-term trail of identifiable searches by you or from your device.
 
 I gave a talk just this past Sunday on privacy and security in Internet of Things, Wearables and AR, and near the end suggested that a company with real products (Apple or Microsoft) could do exactly what Apple has done here:  take privacy seriously by **not** mining our data, and make that stance clear.  At a time when privacy concerns are going to keep growing and growing, as more and more problems come up with wearable and internet-enabled devices, the company who convinces people that their data is safe and secure with them has a lot to gain.
 

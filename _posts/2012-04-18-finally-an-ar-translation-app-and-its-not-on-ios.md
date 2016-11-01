@@ -16,12 +16,4 @@ tags:
 
 Over the years, many have dreamed about using mobile technology to create a kind of "augmented reality translation system" that translates whatever you are looking at into a language you can understand, and displays it in place.  Back in 2008, Intel's Paul Otellini demonstrated a prototype Chinese-to-English translator as part of his [CES Keynote](http://www.zdnet.com/blog/btl/intels-paul-otellini-touts-the-personal-internet-and-smash-mouth/7514).   More recently, [Word Lens](http://questvisual.com/) for the iPhone does a beautiful job of cleanly translating text in place (supporting english, spanish and french), but the translation (in my experience) tends to be a bit spotty.
 
-Now, Microsoft has demonstrated a far more comprehensive approach as part of Bing Translate for Windows Mobile, and it looks amazing.
-
-
-[msn c0b91059-9ce0-477f-a391-53fbb53c061e 534 300]
-
-
-
-
-I'll be trying it out on one of our Nokia 800's, and it along would probably make it worth carrying the phone on international trips, even though I'm still firmly an iPhone user.  If they keep putting amazing things like this out, and decide to add in better non-MS-centric mail and calendar to WP8, and perhaps that will change.
+Now, Microsoft has demonstrated a far more comprehensive approach as part of Bing Translate for Windows Mobile, and it looks amazing. I'll be trying it out on one of our Nokia 800's, and it along would probably make it worth carrying the phone on international trips, even though I'm still firmly an iPhone user.  If they keep putting amazing things like this out, and decide to add in better non-MS-centric mail and calendar to WP8, and perhaps that will change.

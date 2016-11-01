@@ -21,8 +21,8 @@ At a high level, as some of the currently-proposed technologies for the web (e.
 
 Here's the talk, and a PDF of the slides I used.
 
-[youtube]https://www.youtube.com/watch?v=YP2KGszYvXU[/youtube]
+{% youtubes YP2KGszYvXU %}
 
-Slides: [ar-web-programming-2.pdf](http://www.blairmacintyre.me/wp-content/uploads/2014/04/ar-web-programming-2.pdf)
+Slides: [ar-web-programming-2.pdf](http://www.blairmacintyre.me/assets/uploads/2014/04/ar-web-programming-2.pdf)
 
 

@@ -14,12 +14,11 @@ tags:
 - free-to-play
 - micro-payments
 ---
+{% capture ca-cite %}{% reference rutledge-massey-anton-swire-2014 --file others %} This paper introduces the idea of _Internet of Devices_ (IoD), a term I like more than _Internet of Things_{% endcapture %}
+Today, I gave a talk at the Ubiquitous Computing conference’s [Workshop on Usable Privacy & Security for wearable and domestic ubIquitous DEvices (UPSIDE)](http://appanalysis.org/upside/), modestly titled "_Augmented Reality + Internet of Devices + Big Data: The End of Privacy?_”
+I’ll post something else about this talk soon, but one of the goals was
 
-Today, I gave a talk at the Ubiquitous Computing conference’s [Workshop on Usable Privacy & Security for wearable and domestic ubIquitous DEvices (UPSIDE)](http://appanalysis.org/upside/), modestly titled "_Augmented Reality + Internet of Devices + Big Data: The End of Privacy?_” I’ll post something else about this talk soon, but one of the goals was
-
-
-<blockquote>to urge people to develop architectures for IoD + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.</blockquote>
-
+>to urge people to develop architectures for IoD{% sidenotevar "chang-ungar" ca-cite %} + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.
 
 The problem with this goal, of course, is that some days it seems like the principle business model of tech companies right now is centered on the idea of giving things away and mining user data.  If we cut the cord to user data, what then of these services that folks have grown to love and expect to be free?
 
@@ -27,6 +26,8 @@ I think there is an opportunity to create new business models that reflect this 
 
 This model won’t translate directly, of course. Many games leverage the same compulsions as casinos and other forms of gambling, withholding “fun” at just the moments it’s most tantalizing and then requiring players to spend “just a little bit” to keep playing.  It’s hard to imagine this model translating directly to a more mundane context, but the higher level point that people have demonstrated they will “paying a tiny amount at the moment when the user perceives real, tangible value” should translate.
 
-To make this work, we’ll need a way to pay these small amounts.  In games, users buy “coins”, usually in bulk so they are easy to spend in the heat of the moment. (Those coins can typically also be “earned” in the game, giving users the illusion they could successfully play for free.)   Micro-transaction schemes haven’t worked well in the past, but if they can be smoothly integrated into an IoD context, there is enormous potential.  Given the appearance of systems to control these collections of devices ([HomeKit](https://developer.apple.com/homekit/), [Thread](http://www.threadgroup.org) and [Allseen](http://allseenalliance.org), to name a few), and the tie-in between these systems and existing payment infrastructures, the potential is certainly there.
+To make this work, we’ll need a way to pay these small amounts.  In games, users buy “coins”, usually in bulk so they are easy to spend in the heat of the moment. (Those coins can typically also be “earned” in the game, giving users the illusion they could successfully play for free.)   Micro-transaction schemes haven’t worked well in the past, but if they can be smoothly integrated into an IoD context, there is enormous potential.  Given the appearance of systems to control these collections of devices ([HomeKit](https://developer.apple.com/homekit/),
+[Thread](http://www.threadgroup.org), 
+and [Allseen](http://allseenalliance.org), 
+to name a few), and the tie-in between these systems and existing payment infrastructures, the potential is certainly there.
 
-(Aside:  IoD — Internet of Devices — is a term I like, in contrast to “Internet of Things,” and was coined in the paper "[Defining the Internet of Devices: Privacy and Security Implications](https://smartech.gatech.edu/handle/1853/52020)" by my colleagues at Georgia Tech.  Check it out.)

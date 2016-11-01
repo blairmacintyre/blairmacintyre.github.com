@@ -32,7 +32,7 @@ We've got a lot of work to do resurrecting this stuff, but it's going to be a to
 {% maincolumn "assets/uploads/2014/09/2014-09-23-17.12.25-1024x1024.jpg" "Like Frankenstien's lab, where we are trying to review a demo from the dead." %}
 
 Just for old times sake, here's a few videos related to DART.  First, the video from our UIST 2004 paper. 
-{% youtube l7xdIcRYfBE %}
+{% youtubes l7xdIcRYfBE %}
 
 And then, the video for Four Angry Men, probably the most elaborate AR experience we created back then.
-{% youtube LmRd6XtVF0U %}
+{% youtubes LmRd6XtVF0U %}

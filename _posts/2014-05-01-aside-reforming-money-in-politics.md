@@ -18,10 +18,10 @@ _[For those who don't agree with campaign, please forgive me posting this in my 
 
 May 1, 2014:  Today, [Lawrence Lessig](http://www.lessig.org) has launched his [Mayday.us](http://mayday.us) campaign against corruption in American politics, with the goal of creating the Citizen's SuperPAC to End All SuperPACs.  If you aren't aware of this, please check out the site or watch his video:
 
-[vimeo]http://vimeo.com/93299391[/vimeo]
+{% vimeo 93299391 %}
 
 I strongly support this.  As someone described it in an article on [Boing Boing](http://boingboing.net/2014/05/01/mayday-larry-lessig-launches.html)
 
-<blockquote>They're calling it a moonshot. It's audacious, improbable, and desperately needed.</blockquote>
+>They're calling it a moonshot. It's audacious, improbable, and desperately needed.
 
 If you agree, please donate and help spread the word!

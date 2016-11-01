@@ -31,4 +31,4 @@ Ah well, another good app name taken.
 
 I'm including their video here, so you can look at it now, and draw your own conclusions.  What do folks think ... am I being too critical?
 
-[youtube]http://www.youtube.com/watch?v=4nRpPeiv4E4[/youtube]
+{% youtubes 4nRpPeiv4E4 %}
