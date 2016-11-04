@@ -14,4 +14,4 @@ tags:
 
 I just saw this post showing a video of an AR demo done in flash.  It's cool;   I didn't think Flash was fast enough to run the ARToolkit.
 
-[vimeo]http://vimeo.com/2283082[/vimeo] 
+{% vimeo 2283082 %} 

@@ -18,4 +18,4 @@ But, I don't think any of that is important.  The Metaio demos are nice, and it
 
 Here's a direct link to the video Ori took:
 
-[youtube]http://www.youtube.com/watch?v=SYbUJJDpcs8[/youtube] 
+{% youtubes SYbUJJDpcs8 %}

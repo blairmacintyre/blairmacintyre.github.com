@@ -4,7 +4,6 @@ title: 'Ian Bogost on DIY games &#8230;'
 date: 2008-09-12T06:34:51+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=17
 permalink: /2008/09/12/ian-bogost-on-diy-games/
 categories:
 - games

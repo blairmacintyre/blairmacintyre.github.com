@@ -21,4 +21,4 @@ The idea motivating this project is the old "Virtual Pet", with the goal of havi
 
 Here's a video of the current prototype.
 
-[youtube]http://www.youtube.com/watch?v=_0bitKDKdg0[/youtube] 
+{% youtubes _0bitKDKdg0 %} 

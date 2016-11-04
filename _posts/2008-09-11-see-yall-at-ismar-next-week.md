@@ -4,7 +4,6 @@ title: 'See y&#8217;all at ISMAR next week!'
 date: 2008-09-11T18:09:14+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=8
 permalink: /2008/09/11/see-yall-at-ismar-next-week/
 categories:
 - ismar

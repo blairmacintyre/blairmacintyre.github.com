@@ -4,7 +4,6 @@ title: A pod in every bedroom!
 date: 2008-09-11T18:17:25+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=11
 permalink: /2008/09/11/a-pod-in-every-bedroom/
 categories:
 - commercial

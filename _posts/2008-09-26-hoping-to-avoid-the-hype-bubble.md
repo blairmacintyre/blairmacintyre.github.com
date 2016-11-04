@@ -4,7 +4,6 @@ title: Hoping to avoid the hype bubble!
 date: 2008-09-26T06:16:50+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=30
 permalink: /2008/09/26/hoping-to-avoid-the-hype-bubble/
 dsq_thread_id:
   - 4525158614

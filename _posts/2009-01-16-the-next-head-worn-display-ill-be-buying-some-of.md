@@ -15,11 +15,7 @@ tags:
 
 I have to admit I'm both optimistic and pessimistic at the same time about the [Vuzix Wrap 920AV](http://vuzix.com/iwear/products_wrap920av.html) that was annouced at CES this year.  
 
-
-![](http://ces.cnet.com/i/bto/20081219/wrap2_view1_610x434.jpg)
-
-
-
+{% maincolumn "assets/images/external/vuzix-920av.jpg" "Vuzix 920AV" %}
 
 Displays from companies like this (we have a bunch of them) are pretty low end, and haven't really been suitable for virtual reality and augmented reality.  These ones are intriguing, though.  With see-through optics, they might actually be useful for "everyday" AR;  with two cameras and an (even cheap) orientation sensor, more interesting things might be possible! 
 

@@ -21,8 +21,8 @@ I also met with some folks from [TouchArcade](http://toucharcade.com), a really 
 
 Not to leave out some video, here's a short video of what I showed them on the NVidia Tegra.
 
-[youtube]http://www.youtube.com/watch?v=uGNgyGU-81E[/youtube]
+{% youtubes uGNgyGU-81E %}
 
 And, for reference, our older iPhone pet game:
 
-[youtube]http://www.youtube.com/watch?v=_0bitKDKdg0[/youtube] 
+{% youtubes _0bitKDKdg0 %} 

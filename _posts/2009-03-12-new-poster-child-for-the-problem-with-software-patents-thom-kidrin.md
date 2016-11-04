@@ -17,7 +17,7 @@ tags:
 
 Writing an article about what's wrong with software patents is old news, but as it touches my research area again, I find my getting infuriated with the ludicrous nature of the system.  This latest round is brought to us by Thom Kidrin, the CEO at Worlds.com, [who insists that he is](http://www.businessinsider.com/worldscom-ceo-were-absolutely-going-to-sue-second-life-and-world-of-warcraft-2009-3)
 
-<blockquote>not out to put anyone out of business, he just wants to be paid licensing fees for what he considers his lawful intellectual property</blockquote>
+>not out to put anyone out of business, he just wants to be paid licensing fees for what he considers his lawful intellectual property.
 
 
 IP passes from company to company, sure.  So, having lawful rights to IP you didn't create  is perfectly fine.

@@ -4,7 +4,6 @@ title: Is playing Spore in The Eagle Pub a form of AR?
 date: 2008-09-14T13:20:07+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=20
 permalink: /2008/09/14/is-playing-spore-in-the-eagle-pub-a-form-of-ar/
 dsq_thread_id:
   - 4525158646

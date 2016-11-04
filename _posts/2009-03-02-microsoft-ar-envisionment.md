@@ -4,7 +4,6 @@ title: 'Microsoft getting into the &#8220;AR is all over the future&#8221; envis
 date: 2009-03-02T08:26:06+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=69
 permalink: /2009/03/02/microsoft-ar-envisionment/
 categories:
 - commercial

@@ -4,7 +4,6 @@ title: 'Tonchidot:  is it real, or just a video that implies more than it does?'
 date: 2008-09-11T18:36:16+00:00
 author: blair
 layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=14
 permalink: /2008/09/11/tonchidot-is-it-real-or-just-a-video-that-implies-more-than-it-does/
 categories:
 - commercial
