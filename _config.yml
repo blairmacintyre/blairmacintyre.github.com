@@ -33,7 +33,7 @@ kramdown:
   syntax_highlighter: rouge
 highlighter: rouge
 
-gems: ['jekyll-paginate', 'jekyll/scholar']
+gems: ['jekyll-paginate', 'jekyll/scholar', 'jekyll-redirect-from']
 
 git:
   branch: site-source-master

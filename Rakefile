@@ -193,7 +193,8 @@ task :minify do
   compressed = 0
   Dir.glob("_site/**/*.*") do |file|
     case File.extname(file)
-      when ".css", ".gif", ".html", ".jpg", ".jpeg", ".js", ".png", ".xml"
+      # when ".css", ".gif", ".html", ".jpg", ".jpeg", ".js", ".png", ".xml"
+      when ".css", ".html", ".js", ".xml"
         puts "Processing: #{file}"
         original += File.size(file).to_f
         min = Reduce.reduce(file)
@@ -240,7 +241,7 @@ namespace :build do
     puts "\n## Building Jekyll to _site/"
     status = system("jekyll build")
     puts status ? "Success" : "Failed"
-    Rake::Task["minify"].invoke
+    # Rake::Task["minify"].invoke
   end
 end
 
