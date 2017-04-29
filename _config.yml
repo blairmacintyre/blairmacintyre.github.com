@@ -14,9 +14,11 @@ github_username:  blairmacintyre
 permalink:    /:year/:month/:day/:title/
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+plugins_dir: ../_plugins/
+
 editor: code
 
-exclude: ['Rakefile', 'README.md', "node_modules", "package.json"]
+exclude: ['Rakefile', 'README.md', "node_modules", "package.json", "vendor"]
 
 post:
     template: _templates/post-template
@@ -32,8 +34,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 highlighter: rouge
-
-gems: ['jekyll-paginate', 'jekyll/scholar', 'jekyll-redirect-from']
 
 git:
   branch: site-source-master
