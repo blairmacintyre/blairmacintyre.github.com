@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll'
+gem "kramdown"
+gem 'rouge'
+gem 'json', "2.0.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

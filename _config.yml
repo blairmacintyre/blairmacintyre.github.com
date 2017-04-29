@@ -13,8 +13,7 @@ twitter_username: blairmacintyre
 github_username:  blairmacintyre
 permalink:    /:year/:month/:day/:title/
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-plugins_dir: ../_plugins/
+plugins_dir:     ./_plugins
 
 editor: code
 
