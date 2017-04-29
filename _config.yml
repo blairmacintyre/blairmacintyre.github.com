@@ -42,7 +42,7 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ../blairmacintyre.github.com.master/
+  destination: ../blairmacintyre.me.master/
   
 # Pagination
 paginate: 15
