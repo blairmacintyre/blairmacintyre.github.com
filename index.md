@@ -33,4 +33,6 @@ I do consulting with The MacMynatt Group, a firm I founded in 2015. Prior to tha
     {% endfor %}
 </ul>
 
+I'm also channeling some of my blog posts to a [Micro.blog](https://micro.blog/blair).
+
 This site was created using [Jekyll](http://jekyllrb.com) and a collection of open-source resources and examples of sites built and published in Jekyll.  The style is based on the [Tufte theme](http://github.com/clayh53/tufte-jekyll) and the bibliography was created with [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar). My son drew the 8 bit icon of me in the upper left corner.
