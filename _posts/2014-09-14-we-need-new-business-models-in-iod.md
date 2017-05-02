@@ -8,10 +8,10 @@ guid: http://blairmacintyre.me/?p=720
 permalink: /2014/09/14/we-need-new-business-models-in-iod/
 categories:
 - commercial
-- IoD
 tags:
 - business models
 - free-to-play
+- IoD
 - micro-payments
 ---
 {% capture ca-cite %}{% reference rutledge-massey-anton-swire-2014 --file others %} This paper introduces the idea of _Internet of Devices_ (IoD), a term I like more than _Internet of Things_{% endcapture %}

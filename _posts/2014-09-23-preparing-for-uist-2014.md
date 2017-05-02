@@ -10,7 +10,7 @@ permalink: /2014/09/23/preparing-for-uist-2014/
 categories:
 - AEL
 - demos
-- Research
+- research
 tags:
 - DART
 - Four Angry Men

@@ -7,7 +7,8 @@ layout: post
 guid: http://www.augmentedenvironments.org/blair/?p=140
 permalink: /2010/04/30/clever-use-of-ar-for-public-safety-awareness/
 categories:
-- serious
+- commercial
+- musings
 tags:
 - magic mirror
 - public installation

@@ -7,8 +7,8 @@ layout: post
 permalink: /2009/05/26/ghostwir-coming-to-the-dsi/
 categories:
 - commercial
-- games
 tags:
+- games
 - dsi
 - ghosts
 - ghostwire

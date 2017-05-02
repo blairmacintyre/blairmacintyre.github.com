@@ -7,7 +7,7 @@ layout: post
 guid: http://www.blairmacintyre.com/?p=148
 permalink: /2013/04/12/tomb-raider/
 categories:
-- Fun
+- personal
 tags:
 - games
 - tomb raider

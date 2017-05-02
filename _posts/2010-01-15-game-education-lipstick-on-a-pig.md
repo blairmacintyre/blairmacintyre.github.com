@@ -8,7 +8,6 @@ guid: http://www.augmentedenvironments.org/blair/?p=138
 permalink: /2010/01/15/game-education-lipstick-on-a-pig/
 categories:
 - education
-- games
 - musings
 ---
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.blairmacintyre.com/?p=136
 permalink: /2013/04/02/the-ultimate-3d-sandbox-for-kids/
 categories:
-- Fun
+- personal
 tags:
 - makerbot
 - minecraft

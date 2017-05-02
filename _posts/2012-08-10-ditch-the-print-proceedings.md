@@ -7,7 +7,7 @@ layout: post
 guid: http://blairmacintyre.com/?p=131
 permalink: /2012/08/10/ditch-the-print-proceedings/
 categories:
-- Research
+- research
 tags:
 - conferences
 - interactivity

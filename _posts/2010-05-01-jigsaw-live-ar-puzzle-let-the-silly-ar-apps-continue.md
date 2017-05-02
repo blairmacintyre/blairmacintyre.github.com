@@ -8,7 +8,6 @@ guid: http://www.augmentedenvironments.org/blair/?p=142
 permalink: /2010/05/01/jigsaw-live-ar-puzzle-let-the-silly-ar-apps-continue/
 categories:
 - commercial
-- games
 tags:
 - iphone
 - puzzle

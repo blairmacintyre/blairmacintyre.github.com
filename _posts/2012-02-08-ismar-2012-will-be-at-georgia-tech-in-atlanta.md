@@ -7,7 +7,7 @@ layout: post
 guid: http://blairmacintyre.com/?p=35
 permalink: /2012/02/08/ismar-2012-will-be-at-georgia-tech-in-atlanta/
 categories:
-- ismar
+- conferences
 tags:
 - ISMAR2012
 ---

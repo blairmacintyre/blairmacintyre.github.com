@@ -7,8 +7,9 @@ layout: post
 guid: http://www.augmentedenvironments.org/blair/?p=134
 permalink: /2009/12/17/aura-interactive-launches-santavision/
 categories:
-- aurainteractive
 - commercial
+tags:
+- aura
 - santavision
 ---
 
