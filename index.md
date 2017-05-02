@@ -11,6 +11,7 @@ permalink: "/"
 ## Professor, Designer, Husband, Father, Gamer, Bagpiper
 <hr class="slender">
 
+
 {% marginfigure 'blair-pic' 'assets/images/sm-blair-vio-frnt-gam1-5-fl.JPG' "A long time ago, in a grad school far, far away (ok, Columbia University is in New York, which isn't that far away)" %} I'm a Professor at Georgia Tech, living in Atlanta. I'm interested in designing software to help non-geeks (i.e., people "not like me") create interactive experiences that appear to live around them in the physical world, and in exploring the potential of these experiences to change how we work, play and live.  These days, I'm particularly interested in using the web for augmented reality development. 
 
 
