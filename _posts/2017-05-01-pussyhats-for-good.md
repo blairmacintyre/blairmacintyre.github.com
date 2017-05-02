@@ -13,7 +13,7 @@ tags:
 - 3dprinting
 ---
 
-(_note: I started writing this back in Febrary, but never posted it. Finally got around to it._)
+A little crafting can go a long way, it turns out. Here's a story of how we raised some money for [Planned Parenthood](https://www.plannedparenthoodaction.org) by 3D printing Pussy Hats for Lego Minifigs. 
 
 {% marginfigure "pussyhat-model" 'assets/images/external/minifig-pussyhat-5.jpg' 'Lego Pussyhats!' %} 
 Back on Feb 9th, just under two weeks before I started to write this post, a friend of a friend posted a link on Facebook to an article on [Dangerous Minds](http://dangerousminds.net/comments/complete_your_lego_womens_march_with_pink_pussyhats)
