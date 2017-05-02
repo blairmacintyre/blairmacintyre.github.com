@@ -6,8 +6,8 @@ layout: post
 permalink: "/2017/05/01/lego-pussyhats-for-good/"
 categories:
 - personal
-- micropost
 tags:
+- micropost
 - lego
 - pussyhat
 - 3dprinting
