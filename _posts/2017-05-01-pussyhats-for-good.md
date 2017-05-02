@@ -6,7 +6,7 @@ layout: post
 permalink: "/2017/05/01/lego-pussyhats-for-good/"
 categories:
 - personal
-- microfeed
+- micropost
 tags:
 - lego
 - pussyhat
