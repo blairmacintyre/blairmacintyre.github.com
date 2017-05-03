@@ -25,7 +25,7 @@ CONFIG = YAML.load_file("_config.yml")
 
 # Get and parse the date
 DATE = Time.now.strftime("%Y-%m-%d")
-POSTDATE = Time.now.strftime("%Y-%m-%dT%H%M%S%z")
+POSTDATE = Time.now.strftime("%Y-%m-%d %H:%M:%S %z")
 PERMDATE = Time.now.strftime("/%Y/%m/%d/")
 
 # Directories
@@ -82,6 +82,20 @@ def create_file(directory, filename, content, title, permalink, editor)
 end
 
 # == Tasks =====================================================================
+
+# rake post["Title"]
+desc "Create a micro post in _posts"
+task :micro, :title do |t, args|
+  title = args[:title]
+  template = CONFIG["micro"]["template"]
+  extension = CONFIG["micro"]["extension"]
+  editor = CONFIG["editor"]
+  check_title(title)
+  permalink = "#{PERMDATE}#{transform_to_slug(title)}/"
+  filename = "#{DATE}-#{transform_to_slug(title)}.#{extension}"
+  content = read_file(template)
+  create_file(POSTS, filename, content, title, permalink, editor)
+end
 
 # rake post["Title"]
 desc "Create a post in _posts"
@@ -246,41 +260,41 @@ namespace :build do
 end
 
 # rake deploy["Commit message"]
-desc "Deploy the site to a remote git repo"
-task :deploy, :message do |t, args|
-  message = args[:message]
-  branch = CONFIG["git"]["branch"]
-  if message.nil? or message.empty?
-    raise "Please add a commit message."
-  end
-  if branch.nil? or branch.empty?
-    raise "Please add a branch."
-  else
-    Rake::Task[:build].invoke
-    execute("git add .")
-    execute("git commit -m \"#{message}\"")
-    execute("git push origin #{branch}")
-  end
-end
+# desc "Deploy the site to a remote git repo"
+# task :deploy, :message do |t, args|
+#   message = args[:message]
+#   branch = CONFIG["git"]["branch"]
+#   if message.nil? or message.empty?
+#     raise "Please add a commit message."
+#   end
+#   if branch.nil? or branch.empty?
+#     raise "Please add a branch."
+#   else
+#     Rake::Task[:build].invoke
+#     execute("git add .")
+#     execute("git commit -m \"#{message}\"")
+#     execute("git push origin #{branch}")
+#   end
+# end
 
-# rake transfer
-desc "Transfer the site (remote server or a local git repo)"
-task :transfer do
-  command = CONFIG["transfer"]["command"]
-  source = CONFIG["transfer"]["source"]
-  destination = CONFIG["transfer"]["destination"]
-  settings = CONFIG["transfer"]["settings"]
-  if command.nil? or command.empty?
-    raise "Please choose a file transfer command."
-  elsif command == "robocopy"
-    Rake::Task[:build].invoke
-    execute("robocopy #{source} #{destination} #{settings}")
-    puts "Your site was transfered."
-  elsif command == "rsync"
-    Rake::Task["build:pro"].invoke
-    execute("rsync #{settings} #{source} #{destination}")
-    puts "Your site was transfered."
-  else
-    raise "#{command} isn't a valid file transfer command."
-  end
-end
+# # rake transfer
+# desc "Transfer the site (remote server or a local git repo)"
+# task :transfer do
+#   command = CONFIG["transfer"]["command"]
+#   source = CONFIG["transfer"]["source"]
+#   destination = CONFIG["transfer"]["destination"]
+#   settings = CONFIG["transfer"]["settings"]
+#   if command.nil? or command.empty?
+#     raise "Please choose a file transfer command."
+#   elsif command == "robocopy"
+#     Rake::Task[:build].invoke
+#     execute("robocopy #{source} #{destination} #{settings}")
+#     puts "Your site was transfered."
+#   elsif command == "rsync"
+#     Rake::Task["build:pro"].invoke
+#     execute("rsync #{settings} #{source} #{destination}")
+#     puts "Your site was transfered."
+#   else
+#     raise "#{command} isn't a valid file transfer command."
+#   end
+# end

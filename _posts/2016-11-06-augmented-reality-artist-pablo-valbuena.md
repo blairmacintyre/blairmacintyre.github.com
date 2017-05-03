@@ -1,6 +1,6 @@
 ---
 title: "Augmented Reality artist Pablo Valbuena" 
-date: "2016-11-06dT154022-0400" 
+date: "2016-11-06T154022-0400" 
 author: blair
 layout: post
 permalink: "/2016/11/06/ar-art-pablo-valbuena/"

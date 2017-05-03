@@ -16,5 +16,5 @@ From his post:
 > [...]<br>
 > Editorial has a built-in workflow engine, and while this app might not look as pretty as Byword, it is much more powerful, thanks to a built-in workflow engine, and suited to my needs. I bought Editorial right away and started playing with different workflows that already work with Working Copy. After some trial and error, I created two workflows. One lets me publish a post to thecave.com, and the other lets me publish a micro-post.
 
-I was especially interested in the _micro-post_ workflow, as I had just set up a micro-blog over at [micro.blog/blair](https://micro.blog/blair)
+I was especially interested in the _micro-post_ workflow, as I had just set up a micro-blog over at [micro.blog/blair](http://micro.blog/blair)
 

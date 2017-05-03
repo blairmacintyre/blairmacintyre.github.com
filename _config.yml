@@ -27,6 +27,10 @@ page:
     template: _templates/page-template
     extension: "md"
 
+micro:
+    template: _templates/micro-template
+    extension: "md"
+
 # Build settings
 markdown: kramdown
 kramdown:  
