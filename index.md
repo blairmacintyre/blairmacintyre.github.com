@@ -26,7 +26,11 @@ I do consulting with The MacMynatt Group, a firm I founded in 2015. Prior to tha
     {% for post in site.posts limit:3 %}
       <li class="listing">
         <hr class="slender">
+         {% if post.tags contains 'micropost' %}
+           {{ post.description }} 
+         {% else %}
         <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+        {% endif %}
         <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
 
         </li>  
