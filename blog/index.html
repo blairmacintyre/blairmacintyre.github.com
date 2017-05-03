@@ -22,15 +22,21 @@ nav_exclude: 1
 
       <li class="listing">
           <hr class="slender">
+
+         {% if post.tags contains 'micropost' %}
+            <span class="smaller">{{ post.content }}</span> 
+            <span class="smaller"><a href="{{ post.url | prepend: site.baseurl }}">micro.blog quip</a> on {{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+         {% else %}
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
           <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
- 
-        {% if post.description %}
-        <div>{{ post.description }}</div> 
-        {% endif %}        
-        {% if post.excerpt %}
-        <div>{{ post.excerpt }}</div> 
-        {% endif %}        
+  
+          {% if post.description %}
+          <div>{{ post.description }}</div> 
+          {% endif %}        
+          {% if post.excerpt %}
+          <div>{{ post.excerpt }}</div> 
+          {% endif %}   
+        {% endif %}     
         </li>  
 
     {% endfor %}

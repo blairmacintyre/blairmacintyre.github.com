@@ -27,16 +27,16 @@ I do consulting with The MacMynatt Group, a firm I founded in 2015. Prior to tha
       <li class="listing">
         <hr class="slender">
          {% if post.tags contains 'micropost' %}
-           {{ post.content }} 
+            <span class="smaller">{{ post.content }}</span> 
+            <span class="smaller"><a href="{{ post.url | prepend: site.baseurl }}">micro.blog quip</a> on {{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
          {% else %}
-        <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+            <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
         {% endif %}
-        <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-
         </li>  
     {% endfor %}
 </ul>
 
-I'm also channeling some of my blog posts to a [Micro.blog](https://micro.blog/blair).
+I've started mixing regular and <em>micro</em> blog posts.  The [micro.blog](https://micro.blog) idea is really interesting; a way to share small thoughts (like on twitter) but retain control over the content on your own publishing platform.  My micro.blog is at [https://micro.blog/blair](https://micro.blog/blair)
 
 This site was created using [Jekyll](http://jekyllrb.com) and a collection of open-source resources and examples of sites built and published in Jekyll.  The style is based on the [Tufte theme](http://github.com/clayh53/tufte-jekyll) and the bibliography was created with [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar). My son drew the 8 bit icon of me in the upper left corner.

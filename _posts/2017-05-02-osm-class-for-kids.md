@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-date: 2017-05-02 19:27:27 -0400
+date: 2017-05-02 17:27:27 -0400
 category: education
 tags: [openstreetmap, geography, micropost]
 ---
