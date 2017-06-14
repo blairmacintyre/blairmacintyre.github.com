@@ -83,7 +83,7 @@ end
 
 # == Tasks =====================================================================
 
-# rake post["Title"]
+# rake micro["Title"]
 desc "Create a micro post in _posts"
 task :micro, :title do |t, args|
   title = args[:title]
