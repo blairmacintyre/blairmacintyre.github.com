@@ -10,7 +10,7 @@ tags:
 - metaverse, architecture
 ---
 
-Interesting [article in Venture Beat](https://venturebeat.com/2017/03/18/webvr-isnt-sexy-but-it-will-change-the-game-for-vr-this-year/) that gets at the heart of why WebVR is such a powerful concept.  Zeros in on the lack of friction and ease of creating simple cross-platform experiences, but goes beyond that to illustrate a number of situations and user experiences that rely on the underlying nature of the web.
+Interesting [article in Venture Beat](https://venturebeat.com/2017/03/18/webvr-isnt-sexy-but-it-will-change-the-game-for-vr-this-year/) that gets at the heart of why WebVR is such a powerful concept (old, just stumbled across it again).  Zeros in on the lack of friction and ease of creating simple cross-platform experiences, but goes beyond that to illustrate a number of situations and user experiences that rely on the underlying nature of the web.
 
 The article closes with this 
 
