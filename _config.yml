@@ -110,7 +110,7 @@ prose:
   media: 'assets'
   metadata:
     _posts:
-      - name: "category"
+      - name: "categories"
         field:
           element: "multiselect"
           label: "Select Categories"
