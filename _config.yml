@@ -101,3 +101,113 @@ scholar:
   details_link:   Details
 
   query: "@*"
+
+prose:
+# not sure if I want to restrict:  may want to include _articles and _portfolio as well
+#  rooturl: '_posts'
+  siteurl: 'https://blairmacintyre.me/'
+  relativeLinks: 'https://blairmacintyre.me/links.jsonp'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Select Categories"
+          alterable: "true"
+          options:
+            - name: "WebAR"
+              value: "webar"
+            - name: "Commercial"
+              value: commercial
+            - name: "Argon"
+              value: "argon"
+            - name: "Mozilla"
+              value: "mozilla"
+            - name: "WebXR"
+              value: "webxr"
+            - name: "Education"
+              value: "education"
+            - name: "Research"
+              value: "research"
+            - name: "Art"
+              value: "art"
+            - name: "Personal"
+              value: "personal"
+            - name: "Musings"
+              value: "musings"
+            - name: "Conference"
+              value: "conference"
+            - name: "Privacy"
+              value: "privacy"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "blair"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: "CURRENT_DATETIME"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: "true"
+          options:
+            - name: "Micropost"
+              value: "micropost"
+            - name: "Metaverse"
+              value: "metaverse"
+            - name: "Argon4"
+              value: "argon4"
+            - name: "argon.js"
+              value: "argonjs"
+            - name: "Open Source"
+              value: "open source"
+    _articles:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+    _portfolio:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""

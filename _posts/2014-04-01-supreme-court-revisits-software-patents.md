@@ -8,8 +8,8 @@ guid: http://www.blairmacintyre.me/?p=630
 permalink: /2014/04/01/supreme-court-revisits-software-patents/
 categories:
 - commercial
-- patents
 tags:
+- patents
 - software
 ---
 

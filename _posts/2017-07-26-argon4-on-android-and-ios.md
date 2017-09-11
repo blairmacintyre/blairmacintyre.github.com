@@ -5,9 +5,9 @@ author: blair
 layout: post
 permalink: "/2017/07/26/argon4-on-android-and-ios/"
 categories:
-- Argon
+- argon
 tags:
-- Argon4, open source, mozilla
+- argon4, open source, mozilla
 ---
 {% maincolumn 'assets/images/argon4-source.gif' "Download and compile, lets make Argon4 great!" %}
 

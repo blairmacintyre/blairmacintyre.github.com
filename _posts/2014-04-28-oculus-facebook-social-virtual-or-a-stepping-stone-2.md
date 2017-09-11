@@ -7,11 +7,11 @@ layout: post
 guid: http://www.blairmacintyre.me/?p=686
 permalink: /2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/
 categories:
-- AEL
 - commercial
 - musings
 tags:
-- met averse
+- AEL
+- metaverse
 - mirror worlds
 - oculus
 ---

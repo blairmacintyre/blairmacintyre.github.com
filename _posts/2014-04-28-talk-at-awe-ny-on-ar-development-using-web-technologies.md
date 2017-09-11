@@ -8,7 +8,7 @@ guid: http://www.blairmacintyre.me/?p=688
 permalink: /2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/
 categories:
 - argon
-- conferences
+- conference
 - education
 tags:
 - awe-ny

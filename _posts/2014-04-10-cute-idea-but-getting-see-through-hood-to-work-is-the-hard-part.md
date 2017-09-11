@@ -8,8 +8,8 @@ guid: http://www.blairmacintyre.me/?p=666
 permalink: /2014/04/10/cute-idea-but-getting-see-through-hood-to-work-is-the-hard-part/
 categories:
 - commercial
-- demos
 tags:
+- demos
 - car
 - Land Rover
 - see-through hood

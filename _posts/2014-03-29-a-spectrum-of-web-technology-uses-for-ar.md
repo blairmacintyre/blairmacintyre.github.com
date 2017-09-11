@@ -7,9 +7,9 @@ layout: post
 guid: http://www.blairmacintyre.me/?p=620
 permalink: /2014/03/29/a-spectrum-of-web-technology-uses-for-ar/
 categories:
-- AEL
 - argon
 tags:
+- AEL
 - html5
 - web
 ---

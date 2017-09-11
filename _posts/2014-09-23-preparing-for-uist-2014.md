@@ -8,10 +8,10 @@ comments: true
 guid: http://blairmacintyre.me/?p=737
 permalink: /2014/09/23/preparing-for-uist-2014/
 categories:
-- AEL
-- demos
+- conference
 - research
 tags:
+- AEL
 - DART
 - Four Angry Men
 ---

@@ -8,9 +8,9 @@ guid: http://www.blairmacintyre.me/?p=626
 permalink: /2014/03/30/microsoft-getting-into-the-ar-hmd-game/
 categories:
 - commercial
+tags:
 - displays
 - patents
-tags:
 - microsoft
 - osterhout
 ---

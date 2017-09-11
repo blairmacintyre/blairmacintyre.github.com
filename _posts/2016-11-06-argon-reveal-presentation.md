@@ -6,7 +6,6 @@ layout: post
 permalink: "/2016/11/06/argon-aframe-reveal/"
 categories:
 - research
-- web
 - argon
 tags:
 - argon

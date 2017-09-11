@@ -8,8 +8,8 @@ guid: http://ael.gatech.edu/blair/?p=213
 permalink: /2012/09/17/the-achilles-heel-of-project-glass-the-camera/
 categories:
 - commercial
-- displays
 tags:
+- displays
 - camera
 - Glass
 - privacy
