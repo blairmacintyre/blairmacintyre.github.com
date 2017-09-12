@@ -2,7 +2,7 @@
 author: blair
 layout: post
 date: '2017-09-12 10:20 -0400'
-published: false
+published: true
 title: Experimenting with prose.io
 categories:
   - personal
