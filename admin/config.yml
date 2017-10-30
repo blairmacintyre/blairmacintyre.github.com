@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: site-source-master # Branch to update (optional; defaults to master)
+
+media_folder: "assets/uploads" # Folder where user uploaded files should go
+publish_mode: editorial_workflow
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "hidden", default: "blair"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: Categories, name: categories, widget: list, default: ['personal','webar','argon','commercial','musings','educational','research','privacy']}
+      - {label: Tags, name: tags, widget: list, default: ['micropost']}
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta:
+      - {label: "SEO Description", name: "description", widget: "text"}
+
+  - name: "portfolio" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Portfolio" # Used in the UI, ie.: "New Post"
+    folder: "_portfolio" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "hidden", default: "blair"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "portfolio"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Image", name: "img", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta:
+      - {label: "SEO Description", name: "description", widget: "text"}
+
+  - name: "pages"
+    label: "Pages"
+    folder: "pages"
+    create: "true"
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Layout, name: layout, widget: hidden, default: "full-width"}
+      - {label: Page, name: permalink, widget: string, default: "/pagename/"}
+      - {label: Image, name: image, widget: image}
+      - {label: Navigation Exclusion, name: nav_exclude, widget: number, default: 1}
+      - {label: Description, name: description, widget: string}
