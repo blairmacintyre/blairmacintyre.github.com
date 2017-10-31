@@ -38,6 +38,7 @@ GEM
       citeproc-ruby (~> 1.0)
       csl-styles (~> 1.0)
       jekyll (~> 3.0)
+    jekyll-twitter-plugin (2.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     json (2.0.2)
@@ -69,9 +70,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   jekyll-scholar
+  jekyll-twitter-plugin
   json (= 2.0.2)
   kramdown
   rouge
-
-BUNDLED WITH
-   1.14.6
