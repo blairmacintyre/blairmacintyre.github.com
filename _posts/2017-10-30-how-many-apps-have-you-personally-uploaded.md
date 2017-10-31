@@ -12,7 +12,7 @@ tags:
 ---
 {% marginnote "webxr-ios" "The source for the app, our WebXR Viewer, is [open on github, let me know if you see any issues](http://github.com/mozilla-mobile/webxr-ios)." %} I tweeted a complaint that Apple was taking too long (two weeks and counting!) to approve an app I'd submitted, and a friend replied:
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">how many apps have you personally uploaded??  is it hard to create stuff?   <a href="https://twitter.com/hashtag/askingforafriend?src=hash&amp;ref_src=twsrc%5Etfw">#askingforafriend</a></p>&mdash; Frank McGillicuddy (@Frank_McG) <a href="https://twitter.com/Frank_McG/status/924960741991395329?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote>
+{% twitter https://twitter.com/Frank_McG/status/924960741991395329 %}
 
 While he was mostly kidding, the answer for me is 6 iOS apps before this one, and 3 on Android. Real shipped apps that I was involved in, not just programs written or versions of apps.  
 
@@ -28,4 +28,3 @@ This last point is especially importaint:  peoples expectations for polish on we
 
 This is why I love the web and am working to keep it alive, healthy, and open in the age of Mixed Reality.  To make sure we have a place where everyone has a voice and can share it, in small amounts as they see fit, without having to get anyones approval.
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
