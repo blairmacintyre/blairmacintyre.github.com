@@ -10,7 +10,7 @@ categories:
 tags:
   - ''
 ---
-How do I make this blog usable and useful in MR? What does this even mean? It might seem a silly question, but it's actually a serious one.  I've been working on web-based AR for quite some time{% marginnote "webar" "I started doing web-based AR as part of the [Argon project at Georgia Tech](http://argon.gatech.edu) in 2010, and now work on [WebXR at Mozilla](https://blog.mozilla.org/blog/2017/10/20/bringing-mixed-reality-web/))." %}, and one of the things that I've long wondered about is what are "the things" people will do with AR and VR on the web.  
+How do I make this blog usable and useful in MR? What does this even mean? It might seem a silly question, but it's actually a serious one.  I've been working on web-based AR for quite some time{% marginnote "webar" "I started doing web-based AR as part of the [Argon project at Georgia Tech](http://argon.gatech.edu) in 2010, and now work on [WebXR at Mozilla](https://blog.mozilla.org/blog/2017/10/20/bringing-mixed-reality-web/)." %}, and one of the things that I've long wondered about is what are "the things" people will do with AR and VR on the web.  
 
 Certainly, focused applications designed for AR and/or VR should be possible (playing games, experiences for training and simulation, and other purpose-built things);  I can imagine adding AR or VR content _into_ an entry on this blog, for example.  But, if you wanted to experience my website _from inside AR or VR_, what would that mean?  And if I wanted to have some content that is linked to certain areas in AR (e.g., a blog post tied to a location) be available on the desktop in 2D or in VR, how might that be created?
 
