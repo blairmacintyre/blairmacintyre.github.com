@@ -1,14 +1,13 @@
 ---
-title: 'The Browser Should be '
-date: 2017-12-13T20:57:32.417Z
+title: WebXR Browsers Should put the User in Control
+date: 2018-01-16T15:57:32-05:00
 author: blair
 layout: post
 categories:
   - webxr
   - argon
   - musings
-  - webvr
 tags:
-  - ''
+  - enterxr
 ---
-Want to talk about the need for the "Enter VR" in the browser instead of the page
+Today, when you visit a web page that contains WebVR content, to transition into VR, the page itself presents 
