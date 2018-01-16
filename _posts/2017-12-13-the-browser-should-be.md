@@ -12,9 +12,7 @@ tags:
 ---
 Today, when you visit a web page that contains WebVR content, the page itself presents an interface to let the user transition into VR.  For example, a page on [sketchfab.com](https://sketchfab.com) contains a small image of a VR display in the toolbar overlaid on the 3D scene (the third icon in from the right): 
 
-![undefined](/assets/uploads/sketchfab-1.png)
-
-![SketchFab Image Example](/assets/uploads/sketchfab-1-sm.png)
+{% maincolumn 'assets/uploads/sketchfab-1.png' "A typical page on sketchfab.com, showing a 3D scene with various controls overlaid along the bottom edge." %}
 
 In a world where most web browsers do not have a built in UI for VR, this has makes sense.  But, as we move toward more pervasive support for WebXR in browsers (both VR and AR), the browsers themselves should offer a consistent UI to users, based on the hardware they have and their preferences.  
 
