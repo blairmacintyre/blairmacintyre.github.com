@@ -14,3 +14,12 @@ Last year, I posted some musings on the question of [MR Blogs](/2017/11/14/what-
 
 I've been throwing this idea at people over the past month or so, and have started to think of it more as an end-to-end problem: what makes blogging possible is that the content elements people put in blogs (text, pictures, videos) are easy to create, edit and mix together. So, asking "what is the MR equivalent to a blog?" is intimately tied to "what kind of 3D content can we create, edit and mix together?" and "what kinds of compelling experiences can we create with that content?"
 
+One example that crystalized this for me was cooking blogs. Over the holidays, I found myself looking up recipes on the web, and running across a lot of interesting food blogs, such as [She Cooks He Cleans](https://shecookshecleans.net) or [David Lebovitz](https://www.davidlebovitz.com/)'s blog.
+
+![undefined](/assets/uploads/shecooks.png)
+
+![undefined](/assets/uploads/davidlebovitz.png)
+
+Further down
+
+![undefined](/assets/uploads/davidlebovitz-2.png)
