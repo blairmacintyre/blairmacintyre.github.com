@@ -45,7 +45,7 @@ Inside, we want something analogous to the photograph: an ability to capture wha
 
 {% newthought "Why stop" %} at pictures and static models? While further out, more elaborate presentations might want to include 3D equivalents to video: imagine seeing the hands of the author kneeding the dough above, on the counter beside where you are working? Creating, storing, and rendering 3D video is a much more challenging task, but it too is getting closer to reality. For example, Microsoft has created a [Capture Studio for Voumetric Video](https://www.microsoft.com/en-us/mixed-reality/capture-studios) to solve this problem.
 
-{% vimeo 251672052 720 390 %}
+<iframe class='fullwidth' width="720" height="390" src="https://player.vimeo.com/video/251672052" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 While this solution is not accessible to average consumers, it demonstrates the feasibility and points the way toward possible solutions.
 
