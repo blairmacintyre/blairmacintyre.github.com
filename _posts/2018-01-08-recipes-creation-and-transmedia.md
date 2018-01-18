@@ -43,4 +43,4 @@ Inside, we want something analogous to the photograph: an ability to capture wha
 
 {% newthought "Why stop" %} at pictures and static models?  While further out, more elaborate presentations might want to include 3D equivalents to video: imagine seeing the hands of the author kneeding the dough above, on the counter beside where you are working? Creating, storing, and rendering 3D video is a much more challenging task, but it too is getting closer to reality. 
 
-<div class="table-wrapper"><iframe src="/assets/uploads/microsoft-capture-vid.mov" width="100%"></iframe></div>
+<div class="table-wrapper"><iframe src="/assets/uploads/microsoft-capture-vid.mov" width="100%" height="100%"></iframe></div>
