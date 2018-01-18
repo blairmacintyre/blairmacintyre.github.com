@@ -16,6 +16,4 @@ I've been throwing this idea at people over the past month or so, and have start
 
 One example that crystalized this for me was cooking blogs. Over the holidays, I found myself looking up recipes on the web, and running across a lot of interesting food blogs, such as [She Cooks He Cleans](https://shecookshecleans.net) or [David Lebovitz](https://www.davidlebovitz.com/)'s blog.
 
-![]()
-
 Further down
