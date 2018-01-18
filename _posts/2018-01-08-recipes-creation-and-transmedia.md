@@ -36,3 +36,9 @@ While vague, this feels tractable.  But it begs the question, "What are the cont
 
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
+
+What if it was just as easy to create a 3D model of each step in a recipe as it is to take and edit pictures? While still difficult, this is getting easier. I'm not talking here about the significant work being done to make editing 3D models easier, such as Google's [Blocks](https://vr.google.com/blocks/) _in-situ_ 3D editor. However, in the our context here, these manual editing approach completely miss the mark. No matter how "easy" (relative to professional tools like Maya or 3D Studio), manual editing cannot be either fast enough, or create 3D versions of food that is on par with a photograph. 
+
+The basic process, called [photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry), involves collecting many images of an object, and extracting the 3D structure and material properties from it.  [Many software solutions](https://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software) have been around for a while, but have traditionally been difficult and time consuming to use, especially if you want a polished model without unsightly artifacts or holes.  New solutions are popping up that hope to simplify the process, including a relatively cheap, turnkey solution shown by HP at CES this year (the [Z 3D Camera](http://www8.hp.com/us/en/campaigns/z-3d-camera/overview.html)).
+
+{% newthought "Why stop" %} at pictures and static models?  
