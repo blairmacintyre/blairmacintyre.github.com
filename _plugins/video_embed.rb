@@ -45,8 +45,8 @@ module Jekyll
         @id = $1
 
         if $2.nil? then
-            @width = 640
-            @height = 360
+            @width = "55%"
+            @height = "55%"
         else
             @width = $2.to_i
             @height = $3.to_i
