@@ -44,9 +44,9 @@ While vague, this feels tractable. But it begs the question, "What are the conte
 {% newthought "The second" %} challenge, then, is content creation.  One of the immediate appeals of MR is the possibility to integrate virtual 3D content into the user's view of the physical world, letting people view things from different sides, and possibly give them new or better insights into something. 
 
 Consider this 3D model of a 
-<a href="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Turkish Baklava</a>
-(created by <a href="https://sketchfab.com/kabaq?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Kabaq Augmented Reality Food</a> and hosted on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Sketchfab</a>.
+<a href="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">baklava</a>
 
+{% marginnote "baklava" 'Turkish Baklava created by <a href="https://sketchfab.com/kabaq?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Kabaq Augmented Reality Food</a> and hosted on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Sketchfab</a>' %}
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
 
