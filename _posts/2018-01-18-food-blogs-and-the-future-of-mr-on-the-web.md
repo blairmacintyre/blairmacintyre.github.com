@@ -49,7 +49,7 @@ What if it was just as easy to create a 3D model of food and ingredients at each
 <figure>
 <figcaption>Turkish Baklava created by <a href="https://sketchfab.com/kabaq?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Kabaq Augmented Reality Food</a> and hosted on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Sketchfab</a>
 </figcaption>
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="275px" src="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<iframe width="100%" height="275px" src="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </figure>
 
 While still difficult, capturing realistic models of real objects is getting easier. This is different than the work being done to make editing 3D models easier, such as Google's [Blocks](https://vr.google.com/blocks/) _in-situ_ 3D editor. For our purposes here, these manual editing approaches completely miss the mark. No matter how "easy" (relative to professional tools like Maya or 3D Studio), manual editing cannot be fast enough, or capable of creating 3D versions of food that is on par with a photograph.  
