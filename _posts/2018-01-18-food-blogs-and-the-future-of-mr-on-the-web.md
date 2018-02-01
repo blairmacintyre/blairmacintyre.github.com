@@ -59,7 +59,8 @@ This kind of experience needs a 3D equivalent to the photograph: something that 
 {% newthought "But why stop" %} at pictures and static models? While more complicated, more sophisticated experiences might want to include 3D equivalents to video: imagine seeing the hands of a chef kneeding the dough above, on the counter beside where you are working? Creating, storing, and rendering 3D video is a much more challenging task than creating a single 3D model, but is also getting closer to reality. Here's a video clip of the current web page for one project trying to solve this problem:
 
 <figure>
-<figcaption>Microsoft has created a [Capture Studio for Voumetric Video](https://www.microsoft.com/en-us/mixed-reality/capture-studios) to explore creating and sharing volumetric video.
+<figcaption>
+Microsoft has created a <a href="https://www.microsoft.com/en-us/mixed-reality/capture-studios">Capture Studio for Voumetric Video</a> to explore creating and sharing volumetric video.
 </figcaption>
 <iframe width="100%" height="275" src="https://player.vimeo.com/video/251672052" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
