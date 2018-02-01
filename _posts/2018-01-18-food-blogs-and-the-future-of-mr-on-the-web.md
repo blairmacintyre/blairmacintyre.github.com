@@ -46,9 +46,11 @@ While vague, this feels tractable. But it begs the question, "What are the conte
 What if it was just as easy to create a 3D model of food and ingredients at each step in a recipe, just as easy as taking and editing pictures?  Consider this 3D model of a 
 <a href="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">baklava</a>:
 
-{% marginnote "baklava" 'Turkish Baklava created by <a href="https://sketchfab.com/kabaq?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Kabaq Augmented Reality Food</a> and hosted on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Sketchfab</a>' %}
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
-</div>
+<figure>
+<figcaption>Turkish Baklava created by <a href="https://sketchfab.com/kabaq?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Kabaq Augmented Reality Food</a> and hosted on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank">Sketchfab</a>
+</figcaption>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="275px" src="https://sketchfab.com/models/7781337f561241e1974809a8c6783efd/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+</figure>
 
 While still difficult, capturing realistic models of real objects is getting easier. This is different than the work being done to make editing 3D models easier, such as Google's [Blocks](https://vr.google.com/blocks/) _in-situ_ 3D editor. For our purposes here, these manual editing approaches completely miss the mark. No matter how "easy" (relative to professional tools like Maya or 3D Studio), manual editing cannot be fast enough, or capable of creating 3D versions of food that is on par with a photograph.  
 
@@ -56,8 +58,11 @@ This kind of experience needs a 3D equivalent to the photograph: something that 
 
 {% newthought "But why stop" %} at pictures and static models? While more complicated, more sophisticated experiences might want to include 3D equivalents to video: imagine seeing the hands of a chef kneeding the dough above, on the counter beside where you are working? Creating, storing, and rendering 3D video is a much more challenging task than creating a single 3D model, but is also getting closer to reality. Here's a video clip of the current web page for one project trying to solve this problem:
 
-{% marginnote "capture" 'Microsoft has created a [Capture Studio for Voumetric Video](https://www.microsoft.com/en-us/mixed-reality/capture-studios) to explore creating and sharing volumetric video.' %}
-<iframe class='fullwidth' width="720" height="390" src="https://player.vimeo.com/video/251672052" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<figure>
+<figcaption>Microsoft has created a [Capture Studio for Voumetric Video](https://www.microsoft.com/en-us/mixed-reality/capture-studios) to explore creating and sharing volumetric video.
+</figcaption>
+<iframe width="100%" height="275" src="https://player.vimeo.com/video/251672052" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</figure>
 
 While this solution is not accessible to average consumers, it demonstrates that it is feasible, and points the way toward possible solutions.
 
