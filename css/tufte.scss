@@ -216,11 +216,20 @@ ul { width: 45%;
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
-figure, figure img.maincolumn { max-width: 55%;
+figure, figure img.maincolumn { 
+        max-width: 55%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
-         margin-bottom: 3em; }
+//         margin-bottom: 3em; 
+         --fig-width: 0.48125;
+        }
 
+figure iframe {
+  --rel-height: 0.55;
+  width: calc(var(--fig-width) * 100vw);  
+  height: calc(var(--fig-width) * var(--rel-height) * 100vw);
+}
+        
 figcaption { float: right;
              clear: right;
              margin-right: -48%;
@@ -275,7 +284,8 @@ div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' 
 @media screen and (max-width: 760px) { p, footer,div.mathblock { width: 90%; }
                                        pre code { width: 87.5%; }
                                        ul { width: 85%; }
-                                       figure { max-width: 90%; }
+                                       figure { max-width: 90%;     
+                                                --fig-width: 0.81;}
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                                  max-width: none; }
                                        blockquote p, blockquote footer {  width: 80%;
