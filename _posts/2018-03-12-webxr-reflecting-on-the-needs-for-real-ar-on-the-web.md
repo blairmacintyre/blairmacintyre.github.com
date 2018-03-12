@@ -2,7 +2,7 @@
 title: 'WebXR: Reflecting on the needs for Real AR on the Web'
 date: '2018-03-11T16:33:57-04:00'
 author: blair
-layout: full-width
+layout: post 
 categories:
   - webxr
   - musings
