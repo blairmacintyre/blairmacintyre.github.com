@@ -4,16 +4,10 @@ date: '2018-03-12T16:33:57-04:00'
 author: blair
 layout: post
 categories:
-  - personal
-  - webar
-  - argon
-  - commercial
+  - webxr
   - musings
-  - educational
-  - research
-  - privacy
 tags:
-  - micropost
+  - ''
 ---
 In a [post on the Mozilla MR Blog](https://blog.mozvr.com/responsive-webxr-a-painter-xr/), I talked about the responsive AR/VR interface we created for a WebXR version of [A-Painter](https://github.com/aframevr/a-painter), called A-Painter XR.  In that post, I mentioned that we started working on this app while envisioning the ability to create and share “AR Graffiti” out in the world.
 
