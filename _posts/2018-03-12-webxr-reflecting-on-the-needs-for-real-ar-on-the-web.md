@@ -1,6 +1,6 @@
 ---
 title: 'WebXR: Reflecting on the needs for Real AR on the Web'
-date: '2018-03-14T16:33:57-04:00'
+date: '2018-03-11T16:33:57-04:00'
 author: blair
 layout: post
 categories:
