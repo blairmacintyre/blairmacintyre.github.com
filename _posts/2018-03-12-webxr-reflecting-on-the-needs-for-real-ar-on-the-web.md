@@ -30,7 +30,7 @@ On the web, we care very much about only giving web pages location access if the
 
 Having access to geolocation is only part of the problem, however. The location API on mobile devices can only get you part of the way toward sharing AR Graffiti in the world; if you want to drop an AR painting into the middle of an outdoor  field, and you only care that it’s near the center of the field, the  accuracy of geolocation APIs on current devices is good enough.  
 
-![null](/assets/uploads/painting-in-yard.png)
+{% maincolumn 'assets/uploads/painting-in-yard.png' "An AR painting created by A-Painter, presented on the Argon4 web browser." %}
 
 But if you want to have the painting standing in an exact location of the field, such as beside the sidewalk in this picture, or if you wanted to paint giant spider webs hanging between the windows on a building, or paint a mustache on a statue near the field, GPS is not going to be accurate enough any time soon. 
 
