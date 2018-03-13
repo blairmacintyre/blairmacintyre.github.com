@@ -54,7 +54,7 @@ I mention this here because when presented with the idea of AR displays, many pe
 
 ![null](/assets/uploads/times-square-search.png)
 
-Rather, persistence if very likely going to be done on an application level, and discovery of persistent content may need to be handled analogously to current approaches to search. I don’t expect persistence to be something that is dealt with in WebXR, but rather handled much like other content on the web.
+Rather, persistence is very likely going to be done on an application level, and discovery of persistent content may need to be handled analogously to current approaches to search. I don’t expect persistence to be something that is dealt with in WebXR, but rather handled much like other content on the web.
 
 ## Visual and Spatial Search and Discovery
 
