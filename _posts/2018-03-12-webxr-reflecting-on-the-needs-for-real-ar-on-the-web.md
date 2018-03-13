@@ -89,4 +89,4 @@ These five areas are examples of the sort of issues that need to be tackled and 
 
 I want to encourage everyone to think about what capabilities they need to create the kinds of applications that excite them, and to get involved in the [Immersive Web Community](https://github.com/immersive-web) to make sure that the web becomes the best place to create, share and experience AR and VR content and applications.
 
-_(This post also appears on Medium at https://medium.com/@blairmacintyre/webxr-reflecting-on-the-needs-of-real-ar-on-the-web)_
+_(This post also appears on Medium at https://medium.com/@blairmacintyre/webxr-reflecting-on-the-needs-of-real-ar-on-the-web-57ce13b14a7d)_
