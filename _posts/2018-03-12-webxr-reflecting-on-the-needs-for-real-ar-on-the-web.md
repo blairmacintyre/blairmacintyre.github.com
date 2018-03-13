@@ -16,7 +16,7 @@ In a [post on the Mozilla MR Blog](https://blog.mozvr.com/responsive-webxr-a-pai
 
 When we started thinking about “AR Graffiti”, part of the goal was to experiment with a realistic application, to get a sense of problems that need to be solved to create AR apps using WebXR, and what the solutions might look like.
 
-In this post, I want to touching on some of the issues raised by the A-Painter XR project, and the requirements that highlight the need for WebXR and Web-based AR more broadly.
+In this post, I want to touch on some of the issues raised by the A-Painter XR project, and the requirements that highlight the need for WebXR and Web-based AR more broadly.{% sidenode "disclaimer" "We'll expand on some of these topics back on the Mozilla blog, but I wanted to get these less-baked ideas out there to spur discussion. I also want to thank the MR team for contributing to these ideas." %}
 
 ## Geospatial Content
 
