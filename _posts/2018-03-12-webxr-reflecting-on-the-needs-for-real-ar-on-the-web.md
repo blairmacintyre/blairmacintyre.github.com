@@ -12,7 +12,7 @@ tags:
   - search
   - relocalization
 ---
-In a [post on the Mozilla MR Blog](https://blog.mozvr.com/responsive-webxr-a-painter-xr/){% marginfigure "apainterxr" "/assets/images/AR-main-UI-sm.jpg" "A-Painter XR AR interface" %}, I talked about the responsive AR/VR interface we created for a WebXR version of [A-Painter](https://github.com/aframevr/a-painter), called A-Painter XR.  In that post, I mentioned that we started working on this app while envisioning the ability to create and share “AR Graffiti” out in the world.
+In a [post on the Mozilla MR Blog](https://blog.mozvr.com/responsive-webxr-a-painter-xr/){% marginfigure "apainterxr" "assets/images/AR-main-UI-sm.jpg" "A-Painter XR AR interface" %}, I talked about the responsive AR/VR interface we created for a WebXR version of [A-Painter](https://github.com/aframevr/a-painter), called A-Painter XR.  In that post, I mentioned that we started working on this app while envisioning the ability to create and share “AR Graffiti” out in the world.
 
 When we started thinking about “AR Graffiti”, part of the goal was to experiment with a realistic application, to get a sense of problems that need to be solved to create AR apps using WebXR, and what the solutions might look like.
 
