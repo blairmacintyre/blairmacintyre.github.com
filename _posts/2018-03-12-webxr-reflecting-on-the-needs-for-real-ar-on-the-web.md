@@ -32,7 +32,7 @@ Having access to geolocation is only part of the problem, however. The location 
 
 ![null](/assets/uploads/painting-in-yard.png)
 
-But if you want to have the painting standing in an exact location of the field, such as beside the sidewalk in this picture, or if you wanted to paint giant spider webs hanging between the windows on a building, or paint a moustache on a statue near the field, GPS is never going to be accurate enough. 
+But if you want to have the painting standing in an exact location of the field, such as beside the sidewalk in this picture, or if you wanted to paint giant spider webs hanging between the windows on a building, or paint a mustache on a statue near the field, GPS is never going to be accurate enough. 
 
 We’ve been referring to this problem as the “last meter” problem. GPS gets you within a few meters of your real location, but how can we solve the last meter problem? How can we ensure that the moustache appears on the statue, the 3D birthday “card” over the center of the kitchen table, or the maintenance alert left by a technician appears over the right machine?
 
