@@ -1,5 +1,5 @@
 ---
-title: 'WebXR: Reflecting on the needs for Real AR on the Web'
+title: 'WebXR: Reflecting on the Needs of Real AR on the Web'
 date: '2018-03-11T16:33:57-04:00'
 author: blair
 layout: post 
@@ -34,7 +34,7 @@ Having access to geolocation is only part of the problem, however. The location 
 
 But if you want to have the painting standing in an exact location of the field, such as beside the sidewalk in this picture, or if you wanted to paint giant spider webs hanging between the windows on a building, or paint a mustache on a statue near the field, GPS is never going to be accurate enough. 
 
-We’ve been referring to this problem as the “last meter” problem. GPS gets you within a few meters of your real location, but how can we solve the last meter problem? How can we ensure that the moustache appears on the statue, the 3D birthday “card” over the center of the kitchen table, or the maintenance alert left by a technician appears over the right machine?
+We’ve been referring to this problem as the “last meter” problem. GPS gets you within a few meters of your real location, but how can we solve the last meter problem? How can we ensure that the mustache appears on the statue, the 3D birthday “card” over the center of the kitchen table, or the maintenance alert left by a technician appears over the right machine?
 
 One approach is to try and solve the problem globally. A few articles have been written recently about the idea of an [AR Cloud](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad) or Mirror World or something similar: a massive, continuously updated model of the world created by aggregating sensor information from AR users, allowing devices and content to be positioned accurately in 3D space anywhere in the world. This might be initially appealing from a technical viewpoint (such a system might solve localization, persistence, ensuring everyone has the same coordinate systems, occlusion of content by the physical world, and on and on, in one fell swoop!). But it seems inconceivable that such a system could be built  without creating intractable privacy and surveillance problems, even without considering the implications of a security breach on the database. 
 
@@ -46,7 +46,7 @@ Perhaps alternative architectures, where public data is more carefully collected
 
 ## Persistence
 
-Knowing where things are is actually a separate question from having them persist. We could modify the A-Painter XR code to store the geospatial location of paintings with them, and make those paintings available to anyone near the right location (something we did at one of our recent company meetings, as an experiment). Without high-quality localization, the results are not as interesting as you might hope, since so much of what people would like to draw in the world is done in relation to physical things in the world: we want to draw \_on\_ that statue, not \_near\_ that statue. 
+Knowing where things are is actually a separate question from having them persist. We could modify the A-Painter XR code to store the geospatial location of paintings with them, and make those paintings available to anyone near the right location (something we did at one of our recent company meetings, as an experiment). Without high-quality localization, the results are not as interesting as you might hope, since so much of what people would like to draw in the world is done in relation to physical things in the world: we want to draw _on_ that statue, not _near_ that statue. 
 
 Regardless, It’s best to think about localization and persistence as separate issues;  one requires the other (e.g., an application needs to know where something is, as precisely as possible, if it wants to have it persist at that location), but not the other way around (e.g.,  whether an application wants to keep content around over time is a separate question).
 
