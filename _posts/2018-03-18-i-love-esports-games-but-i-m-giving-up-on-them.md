@@ -1,6 +1,6 @@
 ---
-title: 'A Goodbye Letter to eSports'
-date: '2018-03-19T19:44:06-04:00'
+title: A Goodbye Letter to eSports
+date: '2018-03-20T17:40:06-04:00'
 author: blair
 layout: post
 categories:
