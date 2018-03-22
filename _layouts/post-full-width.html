@@ -1,0 +1,56 @@
+---
+layout: full-width
+---
+
+{% if page.tags contains 'micropost' %}
+  <p class="post-meta"><a href="https://micro.blog/blair">micro.blog/blair</a> quip on {{ page.date | date: "%B %-d, %Y" }}</p>
+{% else %}
+  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+  <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+About a {% capture readtime %}{{ content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read
+{% endif %}
+
+{{ content }}
+
+<div class="postNav">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}"><i class="fa fa-hand-o-left"></i>
+    {% if page.previous.tags contains 'micropost' %}micro.blog quip{%else%}{{page.previous.title}}{%endif%}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">
+    {% if page.next.tags contains 'micropost' %}micro.blog quip{%else%}{{page.next.title}}{%endif%}
+    <i class="fa fa-hand-o-right"></i></a>
+  {% endif %}
+</div>
+
+{% if page.tags contains 'micropost' %}
+<!--no comments on micro.blog posts-->
+{% else%}
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    var disqus_config = function () {
+        /*var disqus_url = "http://domain.com{{ page.url | replace:'index.html','' }}";
+        */
+        this.page.url = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.disqusURL }}";
+        /*this.page.identifier = '{{page.permalink}}'; 
+        */
+    };
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//blairmacintyre-me.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
+{% endif %}

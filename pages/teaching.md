@@ -4,7 +4,6 @@ title: teaching
 date: 2008-09-11T16:28:04+00:00
 author: blair
 layout: full-width
-nav_exclude: true
 permalink: /teaching/
 ---
 

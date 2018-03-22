@@ -2,7 +2,7 @@
 title: Consulting and Startups
 author: blair
 layout: page
-headmenu: Consulting
+headmenu: Consult
 permalink: /consulting/
 ---
 {% marginfigure 'blair-pic' 'assets/uploads/2013/10/rockem-banner-630x242.jpg' "A screen shot from an AR version of Rock'em Sock'em Robots Aura Interactive built for Mattel." %}

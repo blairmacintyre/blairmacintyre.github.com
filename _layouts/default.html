@@ -3,8 +3,12 @@
   {% include head.html %}
   <body>
     {% include header.html %}
+    {% if page.tags contains 'micropost' %}
+    <article class="full-width">
+      {% else %} 
     <article class="group">
-      {{ content }}
+    {% endif %}
+          {{ content }}
     </article>
     {% include print-footer.html %}
     {% include footer.html %}

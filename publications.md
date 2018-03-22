@@ -1,5 +1,6 @@
 ---
 title: Publications
+headmenu: Pubs
 author: blair
 layout: full-width
 header: true

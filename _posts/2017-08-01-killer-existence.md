@@ -1,6 +1,6 @@
 ---
 author: blair
-layout: post
+layout: post-full-width
 title: 'Stop searching for killer apps, create a killer existence'
 date: '2017-08-01 09:00:57 -0400'
 permalink: /2017/08/01/killer-existence/
