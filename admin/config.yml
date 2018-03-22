@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "select", options: ["post", "post-full-width"]}
       - {label: Categories, name: categories, widget: list, default: ['personal','webar','argon','commercial','musings','educational','research','privacy']}
       - {label: Tags, name: tags, widget: list, default: ['micropost']}
-      - {label: Permalink, name: permalink, widget: "string", default: "{{year}}-{{month}}-{{day}}-{{slug}"}}
+      - {label: Permalink, name: permalink, widget: "string", default: "{{year}}-{{month}}-{{day}}-{{slug}}"}
       - {label: "Body", name: "body", widget: "markdown"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
