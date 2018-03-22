@@ -34,6 +34,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Author", name: "author", widget: "hidden", default: "blair"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "portfolio"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: Permalink, name: permalink, widget: "string"}
       - {label: "Image", name: "img", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
     meta:
