@@ -3,6 +3,7 @@ title: A Goodbye Letter to eSports
 date: '2018-03-20T17:40:06-04:00'
 author: blair
 layout: post
+permalink: "/2018/03/20/i-love-esports-games-but-i-m-giving-up-on-them/"
 categories:
   - personal
   - musings
