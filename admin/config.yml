@@ -15,7 +15,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "hidden", default: "blair"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["post", "post-full-width"]}
       - {label: Categories, name: categories, widget: list, default: ['personal','webar','argon','commercial','musings','educational','research','privacy']}
       - {label: Tags, name: tags, widget: list, default: ['micropost']}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
     create: "true"
     fields:
       - {label: Title, name: title, widget: string}
-      - {label: Layout, name: layout, widget: hidden, default: "full-width"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["post", "post-full-width"]}
       - {label: Page, name: permalink, widget: string, default: "/pagename/"}
       - {label: Image, name: image, widget: image}
       - {label: Navigation Exclusion, name: nav_exclude, widget: number, default: 1}
