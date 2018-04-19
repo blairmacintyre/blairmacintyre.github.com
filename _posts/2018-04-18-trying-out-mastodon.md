@@ -9,6 +9,6 @@ categories:
   - mastodon
 tags:
   - micropost
-permalink: trying-out-mastodon
+permalink: 2018/4/18/trying-out-mastodon
 ---
 I've created my own place in the fediverse, you can find me @blair@macmynatt.social #toot
