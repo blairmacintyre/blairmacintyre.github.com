@@ -2,7 +2,7 @@
 title: 'AR/VR depth illusions, this time with ARKit '
 date: '2018-04-26T17:11:42-04:00'
 author: blair
-layout: post-full-width
+layout: post
 categories:
   - research
 tags:
