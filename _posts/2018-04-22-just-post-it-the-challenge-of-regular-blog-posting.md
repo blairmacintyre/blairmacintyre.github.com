@@ -1,6 +1,6 @@
 ---
 title: Just post it... the challenge of regular blog posting
-date: '2018-04-22T15:09:42-04:00'
+date: '2018-04-24T15:09:42-04:00'
 author: blair
 layout: post-full-width
 categories:
