@@ -8,7 +8,7 @@ categories:
   - musings
 tags:
   - blogging
-permalink: 2018/04/22/just-post-it
+permalink: 2018/04/24/just-post-it
 ---
 During a break at the [CHI workshop on Novel Interaction Techniques for Collaboration in VR](https://virtualreality-chi2018.media.mit.edu/), I was was chatting with [Ken Perlin](http://www.kenperlin.com/) about blogging. (Ken and I were both speaking;  my slides are web-based and available on [github](https://github.com/blairmacintyre/chi-arvr-workshop-2018/), by the way. Point our WebXR Viewer for iOS at the [github pages site for this repo](https://blairmacintyre.github.io/chi-arvr-workshop-2018/#/) and you'll even get some live, albeit simple, AR demos later in the talk.)
 
