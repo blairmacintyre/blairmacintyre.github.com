@@ -1,10 +1,10 @@
 ---
-title: "Bespoke Social XR is getting closer, Mozilla Hubs points the way"
-date: '2018-04-25T20:10:47-04:00'
+title: 'Bespoke Social XR is getting closer, Mozilla Hubs points the way'
+date: '2018-04-26T10:10:00-04:00'
 author: blair
 layout: post
 categories:
-  - webxr, commercial, research, education
+  - 'webxr, commercial, research, education'
 tags:
   - mozilla
   - hubs
