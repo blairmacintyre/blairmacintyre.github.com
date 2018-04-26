@@ -9,7 +9,7 @@ tags:
   - immersive web
   - webxr
   - responsive
-permalink: 2018-25-04-the-web
+permalink: 2018/04/25-the-web
 ---
 My super-awesome colleague [Trevor](https://trevor.smith.name/) raised the question  "What’s a name for the web after we start supporting AR/VR headsets?"   He even posted the question to Twitter (you can go read responses there if you'd like, and chime in if you want).
 
