@@ -11,7 +11,7 @@ tags:
   - video
 permalink: 2018/04/27/photogrammetry-twitch-youtube
 ---
-Every now and again, I run across cool things people do with [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry); todays example is this real-time demo that leverages ARKit on an iPhone
+ Every now and again, I run across cool things people do with [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry); todays example is this real-time demo that leverages ARKit on an iPhone
 
 {% twitter https://mobile.twitter.com/nobbis/status/972298968574013440 %}
 
