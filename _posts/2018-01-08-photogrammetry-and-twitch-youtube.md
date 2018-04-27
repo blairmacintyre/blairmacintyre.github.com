@@ -1,6 +1,6 @@
 ---
 title: 'Twitch, Youtube, Video and Photogrammetry'
-date: '2018-04-27T16:32:15-04:00'
+date: '2018-04-27T17:32:15-04:00'
 author: blair
 layout: post-full-width
 categories:
