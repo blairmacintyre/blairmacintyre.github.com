@@ -17,7 +17,8 @@ I just ran across an article and demo from earlier this month, that [uses the iP
 
 The author even published the demo as a [free iOS app](https://itunes.apple.com/app/theparallaxview/id1352818700), so you can download it and give it a go.
 
-These techniques are not new: viewpoint dependent rendering, where a 3D image is rendered on a flat (monoscopic or stereoscopic) display is the basis of a myriad of research and commercial systems. CAVE systems (VR systems formed by projecting graphics onto 3 or more walls and floors of a space to create the illusion of being inside the space) typically rely on those techniques (even though they limit the system to one viewer at a time).  3D movies and 3D TV's would do this if they could, but you can only render convincingly for one viewer at a time.
+{% capture ca-cite2 %}{% reference Cruz-Neira:1992:CAV:129888.129892 %}{% endcapture %} 
+These techniques are not new: viewpoint dependent rendering, where a 3D image is rendered on a flat (monoscopic or stereoscopic) display is the basis of a myriad of research and commercial systems. CAVE{% sidenotevar "arclass" ca-cite2 %} systems (VR systems formed by projecting graphics onto 3 or more walls and floors of a space to create the illusion of being inside the space) typically rely on those techniques (even though they limit the system to one viewer at a time).  3D movies and 3D TV's would do this if they could, but you can only render convincingly for one viewer at a time.
 
 A version of these techniques went viral on youtube back in 2007, when Johnny Lee showed how to do an inexpensive version of these techniques using a WiiRemote for tracking.  His demo was pretty slick (although a community of graphics and VR researchers were frustrated that people got the impression from his video that he invented the idea).  Here's his video, it's pretty similar idea.
 
