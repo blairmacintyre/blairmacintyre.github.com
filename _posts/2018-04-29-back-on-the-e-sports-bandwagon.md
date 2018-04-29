@@ -14,4 +14,4 @@ In a [post last month](/2018/03/20/i-love-esports-games-but-i-m-giving-up-on-the
 
 That said, I ended the last season with my highest ranking ever, breaking out of bronze and finishing just below my season high in very-low-silver.  So, perhaps this is for the best. 
 
-{% maincolumn 'assets/uploads/screenshot-14-.png' "Finally ended an Overwatch Season out of Bronze. It's the small things." %}
+{% maincolumn 'assets/uploads/overwatch-season-9.png' "Finally ended an Overwatch Season out of Bronze. It's the small things." %}
