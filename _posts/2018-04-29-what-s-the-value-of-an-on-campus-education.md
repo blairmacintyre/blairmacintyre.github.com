@@ -1,5 +1,5 @@
 ---
-title: What's the Value of an On-Campus Education?
+title: How to Maximize the Value of an On-Campus Education?
 date: '2018-04-29T16:39:14-04:00'
 author: blair
 layout: post
