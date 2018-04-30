@@ -23,7 +23,7 @@ There are plenty of articles comparing online classes to traditional classes; pl
 
 {% newthought "Hopefully we can agree" %} that  "online" vs "on-campus" is actually a false choice.  If the breadth our our discussion (and the limit of our imagination) is "do we deliver 3-credit-hour classes online or on campus" there's not much interesting to discuss. 
 
-Rather, I'd like to see more discussion that assumes post-secondary education will be a mix many things, and see Universities embrace ways of maximizing the value to the students of all of them, even if this means that students may spend much less time on campus, and not need to be paying anything to the University for some of these off campus activities.{% marginnote "money" "Money can be dealt with, but it's a big reason this problem can't be tackled by Universities alone and requires a more wholistic discussion with all stakeholders."%}
+{% marginnote "money" "Money can be dealt with, but it's a big reason this problem can't be tackled by Universities alone and requires a more wholistic discussion with all stakeholders."%} Rather, I'd like to see more discussion that assumes post-secondary education will be a mix many things, and see Universities embrace ways of maximizing the value to the students of all of them, even if this means that students may spend much less time on campus, and not need to be paying anything to the University for some of these off campus activities.
 
 There is a lot of activity around ways of structuring online education and non-traditional certfication, such as micro-degrees or competency-based certification. These activities are very much works-in-progress, especially in regard to how they integrate with traditional degrees. They point to one part of the puzzle.  
 
