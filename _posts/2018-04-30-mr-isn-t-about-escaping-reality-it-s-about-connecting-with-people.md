@@ -10,7 +10,7 @@ tags:
   - social MR
 permalink: 2018/04/30/mr-is-about-connection
 ---
-As part of the Mixed Reality team at Mozilla, I've been watching the development and release of [Mozilla Hubs](https://hubs.mozilla.com/) with excitement. I've thought about using VR and AR for collaboration for years, going back to the work we did creating an AR client for SecondLife many years ago.  Just last week, I wrote about [why I found Hubs so exciting](/2018/04/26/bespoke-social-xr), and the idea of enabling new ways of creating social experiences was one of the core ideas.
+As part of the Mixed Reality team at Mozilla, I've been watching the development and release of [Mozilla Hubs](https://hubs.mozilla.com/) with excitement. I've thought about using VR and AR for collaboration for years, going back to the work we did creating an [AR client for SecondLife](http://ael.gatech.edu/arsecondlife/) many years ago.  Just last week, I wrote about [why I found Hubs so exciting](/2018/04/26/bespoke-social-xr), and the idea of enabling new ways of creating social experiences was one of the core ideas.
 
 When we look back in the future, I think we'll see that the most significant impact of social AR and VR will be on access; to people, places, experiences and situations.  VR enthusiasts tend to talk about VR letting people go places they couldn't otherwise go and experience those _places_, but I think that will be a minor aspect of MR.
 
@@ -25,4 +25,3 @@ Using VR for meetings and education will be problematic for a while; mundane tas
 For me, I've always been more interested in AR than VR, and the potential for mixing AR and VR with traditional devices is the most exciting, and allows us to sidestep some of the problems with VR while still getting the advantages of immersive experiences with other people.  I can be more present in a remote meeting or classroom if the attendees see me in the room using AR displays, and have full access to the physical world as I need it.  
 
 This sort of flexible mixture of MR modalities to bring people together and give people access to people, places and experiences is where I believe the true value of MR lies.  And Hubs points a way toward this future, in a way the myriad of VR-only social applications do not.
-
