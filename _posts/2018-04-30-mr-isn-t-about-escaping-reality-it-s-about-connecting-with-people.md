@@ -15,7 +15,7 @@ As part of the Mixed Reality team at Mozilla, I've been watching the development
 One of the most significant impacts of social AR and VR will be on access; to people, places, experiences and situations.  VR enthusiasts tend to talk about VR letting people go places they couldn't otherwise go
 
 
-
+ 
 
 
 . That's   in the age of MOOCs and VR.  Conicidentally, Ready Player One was released recently, which paints a quite bleak picture of the future of online education via VR; perhaps it paints a bleak picture of the future, with online education in VR being a bright spot, it depends on your viewpoint.
