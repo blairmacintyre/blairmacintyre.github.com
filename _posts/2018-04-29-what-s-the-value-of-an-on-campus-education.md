@@ -33,7 +33,7 @@ For example, in addition to online classes, they could create "remote" offerings
 
 Rather than trying to train high school and regional college teachers to teach these advanced topics, we could let students attending small regional schools take classes from the top schools with a local teacher and cohort of students working together to learn the material.  
 
-{% newthought "As more gets done away from campus" %}, it should be possible to rethink on-campus classwork.  With less to cover, and perhaps less students on campus, perhaps the remaining material doesn't have to be broken down into quarter- or semester-at-a-time units.  That's currently done for logistical and historical reasons, but if we break off a large part of our current degrees into online, remote or self-directed study, could whatever is left be delivered in entirely different ways?
+{% newthought "As more gets done away from campus" %}, it should be possible to rethink on-campus classwork.  With less to cover, and perhaps less students on campus, the remaining material may not longer need to be broken down into quarter- or semester-at-a-time units.  That's currently done for logistical and historical reasons, but if we break off a large part of our current degrees into online, remote or self-directed study, could whatever is left be delivered in entirely different ways?
 
 Ways that **maximize the value of being on campus.**  
 
