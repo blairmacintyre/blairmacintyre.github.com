@@ -23,7 +23,7 @@ But this was the first time I'd tried using one of them for a fast paced, rapid 
 
 This is something I'd worried about with inside-out tracking;  that and the potential to lose track of the controllers.  I was a bit surprised it happened here, but on reflection, the movement in Beat Saber is mostly side to side, which is perhaps more difficult for an inside out tracker since the inertial sensors likely won't help as much when there's motion blur.
 
-{% newthought "I'm going to"%} give it another go, because the game is really well done.  I may plug the Rift back in this time, though (which I'm loath to do, given the data Facebook collects).
+{% newthought "I'm going to"%} give it another go, because the game is really well done.  I don't want to move the Vive back downstairs;  I may dig out the Rift and plug it back in this time (something I'm loath to do, given the data Facebook collects).
 
 Here's a more recent video, you should give it a try!  {% marginnote "vive" "Perhaps on a Vive, though?" %}
 
