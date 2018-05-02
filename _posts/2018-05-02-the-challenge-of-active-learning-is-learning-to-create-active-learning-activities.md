@@ -19,7 +19,7 @@ I was reading my email over my morning coffee, and clicked through to a [Chronic
 
 Every article on active learning has a quote like this in them{% marginnote "active" "I'm beginning to wonder if there's an exercise in courses on learning active learning methods that has the class come up with these statements." %}, and I'm starting to dread seeing them. "Yes, I get it!" I want to yell. But "how?"
 
-When I experience other teachers' examples of active learning, they usually seem straightfoward. They've been talking about topic A, so here's a little exercise to put the material related to A into practice, or a small multiple choice question to see what the students think about some part of the topic (followed by some "discussion with a person near you").  
+When I experience other teachers' examples of active learning, they usually seem straightfoward. They've been talking about topic A, so here's a little exercise to put the material related to A into practice, or a small multiple choice question to see what the students think about some part of the topic, perhaps followed by some discussion with a person nearby.  It's easy to see why this works.
 
 {% newthought "The problem I have" %} is actually coming up with those activities and questions.  When the rubber hits the road and I'm confronted by "last years notes" for a few lectures on a topic, I find myself going through them thinking "No, I can't ask that, it's too obvious" or "How do a come up with an exercise related to this that the students could do in a short time?".  I wonder if it's the advanced technical nature of the topic (the last class I taught was an upper year 3D graphics class), but I know that's a cop-out ... lots of people teach advanced technical topics using these techniques.
 
