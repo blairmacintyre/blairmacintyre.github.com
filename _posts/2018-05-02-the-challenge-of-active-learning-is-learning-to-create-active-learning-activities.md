@@ -23,7 +23,7 @@ When I experience other teachers' examples of active learning, they usually seem
 
 {% newthought "The problem I have" %} is actually coming up with those activities and questions.  When the rubber hits the road and I'm confronted by last years notes for a few lectures on a topic, I find myself going through them thinking "No, I can't ask that, it's too obvious" or "How do I come up with an exercise related to this that the students could do in a short time?".  I sometimes wonder if it's the advanced technical nature of the topic (the last class I taught was an upper year 3D graphics class), but I know that's a cop-out ... lots of people teach advanced topics using these techniques.
 
-> In the end, I assume it's like the topic itself: we learn to create active learning situations by creating active learning situations, not by having people tell us the value of active learning {% marginnote "really" "Ok, I'm sorry, I know: this meta-thought is groan-worthy and trite.  But it's true." %}. The hard part is starting.  
+> In the end, I assume it's like the topic itself: we learn to create active learning situations by creating active learning situations, not by having people tell us the value of active learning{% marginnote "really" "Ok, I'm sorry, I know: this meta-thought is groan-worthy and trite.  But it's true." %}. The hard part is starting.  
 
 I managed to add some active learning activities to my 3D graphics a few years ago, but as the semester rolled on and time got tighter, it became harder and harder.  Perhaps the next time it will be easier?
 
