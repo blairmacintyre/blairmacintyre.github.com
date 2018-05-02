@@ -17,7 +17,7 @@ I was reading my email over my morning coffee, and clicked through to a [Chronic
 
 > We have to go beyond the idea that the perfect presentation of the relevant facts will be enough to help the majority of our students learn. Such pedagogy (whether or not we call it lecturing) will work for some students. But for most students, we need to shift our focus from what it is we say to what it is they do.
 
-Every article on active learning has a quote like this in them{% marginenote "active" "I'm beginning to wonder if there's an exercise in courses on learning active learning methods that has the class come up with them?" %}, and I'm starting to dread seeing them. "Yes, I get it!" I want to scream. But "how?"
+Every article on active learning has a quote like this in them{% marginnote "active" "I'm beginning to wonder if there's an exercise in courses on learning active learning methods that has the class come up with them?" %}, and I'm starting to dread seeing them. "Yes, I get it!" I want to scream. But "how?"
 
 When I experience other teachers examples of active learning, they usually seem straightfoward. They've been talking about topic A, so here's a little exercise to put the material related to A into practice, or a small multiple choice question to see what the students think about some part of the topic (followed by some "discussion with a person near you").  
 
