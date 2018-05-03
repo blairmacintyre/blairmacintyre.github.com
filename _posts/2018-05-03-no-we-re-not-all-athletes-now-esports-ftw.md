@@ -26,8 +26,8 @@ So, yes, I totally get this rise in the popularity of watching games.
 
 {% newthought "The one thing" %} the New York Times article gets wrong is the section headline, down near the end, "We're All Athletes Now."   No, we aren't. When we call someone "an athlete" we tend to imply they are athletic, not just that they are "part of a group of people that could, if they wanted, do athletic things." Just because anyone can play games doesn't make everyone "eAthletes", any more than the ubiquitous soccer fields and basketball courts, or the nets many of us have in our backyards, made us all athelets in the past.    
 
-Don't believe me, but haven't played these games much? Meet my son in Fortnite, and you will get a little taste of what it's like for a duffer to play some pickup basketball with an "eAthlete".  He'll be nice, too (we don't tolerate trolls in our house.)
+Don't believe me, but haven't played these games much? Put in some time on Fortnite, get someone to teach you the controls, and some strategy. You can do it, but it'll be a while before you're something comparable to what we'd call an athlete in the non-digital world.
 
-While we all can't be eAthletes, we can definitely all be players now, just as most of us could be with traditional sports in the past, even as those ubiquitous basketball nets get used less and less.
+But so what? While we all can't be eAthletes, just like we can't all be athletes, we can definitely all be players now, just as many of us could be with traditional sports if we wanted to, even as those ubiquitous basketball nets see less and less play time.
 
 {% maincolumn 'assets/uploads/unused-hoop.jpg' "The hoop in our backyard doesn't get used much anymore." %}
