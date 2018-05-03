@@ -34,7 +34,7 @@ module Jekyll
       "ustream" => ->(id) { "https://ustream.tv/embed/#{id}" },
       "vimeo"   => ->(id) { "https://player.vimeo.com/video/#{id}" },
       "youtube" => ->(id) { "https://youtube.com/embed/#{id}" },
-      "youtubes" => ->(id) { "https://youtube.com/embed/#{id}" }
+      "youtubes" => ->(id) { "https://youtube.com/embed/#{id}" },
       "twitch" => ->(id) { "https://player.twitch.tv/?video=#{id}&autoplay=false"}
     }
 
