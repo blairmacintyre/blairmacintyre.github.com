@@ -24,7 +24,7 @@ When I listen to my son play online with his friends, I'm struck about the simil
 
 So, yes, I totally get this rise in the popularity of watching games.
 
-The one thing the New York Times article gets wrong is the section headline, down near the end, "We're All Athletes Now."   No, we aren't. When we call someone "an athlete" we tend to imply they are athletic, not just that they "are able to do athletic things." Just because anyone can play games doesn't make everyone athletes, any more than the ubiquitous soccer fields and basketball courts, or the nets many of us have in our backyards, made us all athelets in the past.    
+{% newthought "The one thing" %} the New York Times article gets wrong is the section headline, down near the end, "We're All Athletes Now."   No, we aren't. When we call someone "an athlete" we tend to imply they are athletic, not just that they "are able to do athletic things." Just because anyone can play games doesn't make everyone athletes, any more than the ubiquitous soccer fields and basketball courts, or the nets many of us have in our backyards, made us all athelets in the past.    
 
 Don't believe me, but haven't played these games much? Meet my son in Fortnite, and you will get a little taste of what it's like for a duffer to play some pickup basketball with an "eAthlete".  He'll be nice, too (we don't tolerate trolls in our house.)
 
