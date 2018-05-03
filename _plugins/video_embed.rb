@@ -35,6 +35,7 @@ module Jekyll
       "vimeo"   => ->(id) { "https://player.vimeo.com/video/#{id}" },
       "youtube" => ->(id) { "https://youtube.com/embed/#{id}" },
       "youtubes" => ->(id) { "https://youtube.com/embed/#{id}" }
+      "twitch" => ->(id) { "https://player.twitch.tv/?video=#{id}&autoplay=false"}
     }
 
     def initialize(tag_name, markup, tokens)
