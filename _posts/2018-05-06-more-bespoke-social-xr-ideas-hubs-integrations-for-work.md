@@ -25,4 +25,4 @@ There are some big challenges to make this work completely seamlessly. For examp
 
 At the end of the day, social XR has the potential to provide a smooth way to have a social experience with a group of people that builds on norms from the physical world, hopefully in a way that's more engaging and effective than video conferencing or audio-only chat. The key to making it useful, however, is having spaces that make these social experiences smoother and more effective than other approaches;  tightly integrating with the tools being used to get work done will be one key to this effectiveness, and web-based social XR is far more likely to accomplish that than closed monolithic systems.
 
-{% marginnote "social" "I'm on of them. So much promise, so much pain."%}Just ask anyone who tried to hold a meeting in Second Life back in its heyday.
+{% marginnote "social" "I'm one of them. There was so much promise, and so much pain."%}Just ask anyone who tried to hold a meeting in Second Life back in its heyday.
