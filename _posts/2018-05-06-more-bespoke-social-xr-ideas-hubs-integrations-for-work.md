@@ -2,7 +2,7 @@
 title: 'More Bespoke Social XR Ideas:  Hubs Integrations for Work'
 date: '2018-05-05T09:41:46-04:00'
 author: blair
-layout: post-full-width
+layout: post
 categories:
   - webxr
 tags:
