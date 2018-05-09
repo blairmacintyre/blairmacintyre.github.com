@@ -121,18 +121,49 @@ h3 { font-style: italic;
 
 p, ol, ul { font-size: 1.4rem; }
 
-p, li { line-height: 2rem;
+p, li, iframe { line-height: 2rem;
         margin-top: 1.4rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; }
 
-blockquote p {  font-size: 1.1rem;
+blockquote p, blockquote li { line-height: 2rem;
+          margin-top: 1.4rem;
+          vertical-align: baseline; }
+
+
+blockquote p, blockquote ol, blockquote ul {  
+                font-size: 1.1rem; 
                 line-height: 1.78181818;
                 margin-top: 1.78181818rem;
-                margin-bottom: 1.78181818rem;
+                margin-left:  1.78181818rem;
                 width: 45%;
                 padding-left: 2.5%;
                 padding-right: 2.5%; }
+
+blockquote ol, blockquote ul {  
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+blockquote li {
+                  margin-top: 0.5rem;
+                  margin-bottom: 0.5rem;
+                  margin-left: 5%;
+                  padding-left: 2.5%;
+                  padding-right: 2.5%;
+                 }
+                
+blockquote ul ul {
+                      margin-top: 0.5rem;
+                      margin-bottom: 0.5rem;
+                      width: 100%;
+}
+blockquote p ul {
+  width: 100%;
+}
+blockquote p p {
+  width: 100%;
+}
 
 blockquote footer { width: 45%;
                     text-align: right; }
@@ -209,10 +240,12 @@ section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
 
-ul { width: 45%;
+ul, ol { width: 55%;
+    margin-left: 2rem;
      -webkit-padding-start: 5%;
      -webkit-padding-end: 5%;
-     list-style-type: none; }
+     //list-style-type: none; 
+    }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
@@ -277,13 +310,13 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
-p, footer, div.table-wrapper, div.mathblock { width: 55%; }
+p, footer, iframe, div.table-wrapper, div.mathblock { width: 55%; }
 
 div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 
-@media screen and (max-width: 760px) { p, footer,div.mathblock { width: 90%; }
+@media screen and (max-width: 760px) { p, iframe, footer,div.mathblock { width: 90%; }
                                        pre code { width: 87.5%; }
-                                       ul { width: 85%; }
+                                       blockquote p, blockquote ol, blockquote ul, ul { width: 85%; }
                                        figure { max-width: 90%;     
                                                 --fig-width: 0.81;}
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;

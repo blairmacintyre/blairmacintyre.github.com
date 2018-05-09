@@ -18,14 +18,14 @@ At [Google I/O today](https://events.google.com/io/) Google announced [ARCore Cl
 
 This is one of the big goals of people pushing the idea of a crowd-sourced ARCloud, and probably the most important one:  multi-user experiences are going to be critical to the success of AR (and VR).  Cloud Anchors (as described) don't address the other goals of the ARCloud fans (long term persistence and precise geospatial positing, for example), but those may not be far behind.
 
-{% marginnote "arcloudcos" "The various ARCloud startups don't provide any information or assurances on what they are collecting and how you might opt out, for example. To me, it seems like most are really aiming for acquisition, to augment systems like this that companies like Google and Apple and others want to build.  But that's a discussion for a different blog post." %}The question, of course, is what data is Google collecting, how is it being stored and what are they using it for?  I've been pretty clear about my [concerns about the privacy implications of the ARCloud](/2018/03/13/webxr-reflecting-on-the-needs-for-real-ar-on-the-web/), and while Google doesn't come out and say if they are or are not using this data to build a crowd-sourced model of the world (the fantasy of the ARCloud proponents), it would be very nice if they came out and were explicit about it.
+{% marginnote "arcloudcos" "The various ARCloud startups aren't providing much information or assurances on what they are collecting and how you might opt out, either. To me, it seems like most are really aiming for acquisition, to be folded into systems that companies like Google and Apple and others want to build.  But that's a discussion for a different blog post." %}{% newthought "The question" %}, of course, is "what data is Google collecting, how is it being stored and what are they using it for?"  I've alluded to my [concerns about the privacy implications of the ARCloud](/2018/03/13/webxr-reflecting-on-the-needs-for-real-ar-on-the-web/), and Google doesn't come out and say if they are or are not using this data to build a crowd-sourced model of the world (the fantasy of the ARCloud proponents).  It would be very nice if they came out and were explicit about what they are doing;  it would be even better if they explicitly said they weren't keeping or aggregating data.
 
 A quick reading of [their Cloud Anchor documentation for iOS](https://developers.google.com/ar/develop/ios/cloud-anchors-developer-guide-ios) points to some concerning recommendations:
 
 > General
 >
 > * Avoid hosting or resolving cloud anchors on flat, shiny surfaces.
->   > * For best results, avoid reflective surfaces or surfaces without visual features, such as a blank, smooth, white wall.
+>   * For best results, avoid reflective surfaces or surfaces without visual features, such as a blank, smooth, white wall.
 > * Make sure that the lighting in the room is sufficient.
 > * For best results, lighting conditions should be consistent between anchor host and resolve requests.
 > * Pass ARFrames to your GARSession before you try to host or resolve anchors.
@@ -36,17 +36,19 @@ A quick reading of [their Cloud Anchor documentation for iOS](https://developers
 > * Move around the anchor for at least a few seconds.
 > * Make sure you are not too far away from the anchor.
 
-ARKit and ARCore do not have similar needs (visual features, shiny surfaces, consistent lighting, etc.), which leads me to wonder if they are uploading images from the camera, or generating their own features and/or models and uploading those.  
+ARKit and ARCore do not have similar needs (looking from many angles, concern about visual features, avoiding shiny surfaces, consistent lighting, etc.), which leads me to wonder if they are uploading images from the camera, or generating their own features and/or models and uploading those.  
 
-Put another way:  _when you run ARCore (or use Google's ARCore SDK on iOS), are you helping Google build a model of the spaces you are running AR apps in? _
+Put another way:  _when you run ARCore (or use Google's ARCore SDK on iOS), are you helping Google build a model of the spaces you are running AR apps in?_
 
-I've talked to multiple high-level Google employees involved in ARCore over the past year about my concerns about the ARCloud and privacy, so I'm sure Google understands the issues here.  There are simple implementations of this that are privacy preserving, but may not be as robust. When I've chatted to Google folks, I've described one such approach, which may be what they are doing:
+I've talked to multiple Google employees involved in ARCore over the past year about my concerns about the ARCloud and privacy, so I'm sure Google understands the issues here.  There are simple implementations of this that are privacy preserving, but may not be as robust as matching against a full ARCloud. 
+
+When I've chatted to Google folks, I've described one such approach, which may be what they are doing:
 
 * Save the spatial data around an anchor (generated by ARKit or ARCore), keyframe images and other feature points (of the sort used by [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) algorithms like [PTAM](http://www.robots.ox.ac.uk/~gk/PTAM/))
 * When additional clients request the anchor, they upload their corresponding structural and feature information expressed in that clients' current local coordinates
 * Align additional clients' information with the stored information for that anchor if possible
-* The pose of the anchor _ in the additional clients local coordinates_ is returned.
+* The pose of the anchor _in the additional clients local coordinates_ is returned.
 
-There is no need for this spatial information to be merged or used in any other way, nor is it ever sent to the additional clients. Such a scheme does not expose the information uploaded by any of the clients to anyone aside from Google, nor does it require that information from multiple Anchors is merged.  
+There is no need for this spatial information to be merged or used in any other way, nor should it ever be sent to the additional clients. Such a scheme does not expose the information uploaded by any of the clients to anyone aside from Google, nor does it require that information from multiple Anchors is merged.  
 
-{% marginnote "wiggle" "In their \"assurance\" that Nest's customer data would not be merged, Google left themselves an easy out by saying \"Our privacy policy clearly limits the use of customer information to providing and improving Nest's products and services.\" Everything Google might do with Nest customer data could be covered by that." %} Of course, even assuming Google provides assurances they aren't building models by aggregating this data (which I would like clarification on, as I'm sure others would), there is no guarantee they won't keep this data and change their mind:  that's [just what they did with Nest](https://www.blog.google/topics/hardware/nest-join-forces-googles-hardware-team/) a few years after assurin[g customers that Nest and the data it has about you and your home would remain separate from the rest of Google's data](https://nest.com/blog/2014/01/13/nest-google-and-you/).
+{% marginnote "wiggle" "In their \"assurance\" that Nest's customer data would not be merged, Google left themselves an easy out by saying \"Our privacy policy clearly limits the use of customer information to providing and improving Nest's products and services.\" Everything Google might do with Nest customer data could be covered by that." %} Of course, even assuming Google provides assurances they aren't building models by aggregating this data (which I would like clarification on, as I'm sure others would), there is no guarantee they won't keep this data and change their mind:  that's [just what they did with Nest](https://www.blog.google/topics/hardware/nest-join-forces-googles-hardware-team/) a few years after assuring [customers that Nest and the data it has about you and your home would remain separate from the rest of Google's data](https://nest.com/blog/2014/01/13/nest-google-and-you/).
