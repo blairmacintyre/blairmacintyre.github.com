@@ -1,6 +1,6 @@
 ---
 title: ARCore Cloud Anchors ... Googles AR Cloud?
-date: '2018-05-09T06:41:10-04:00'
+date: '2018-05-08T21:41:10-04:00'
 author: blair
 layout: post
 categories:
@@ -10,7 +10,7 @@ tags:
   - arcore
   - arcloud
   - cloud
-permalink: 2018/05/09/arcore-cloud-anchors
+permalink: 2018/05/08/arcore-cloud-anchors
 ---
 At [Google I/O today](https://events.google.com/io/) Google announced [ARCore Cloud Anchors](https://www.blog.google/products/google-vr/experience-augmented-reality-together-new-updates-arcore/) among other updates to ARCore.  The purpose is to simplify creating shared experiences:
 
