@@ -22,7 +22,7 @@ I think these are great, especially 1 and 3, but (2) seems hopelessly naive and 
 
 How will they decide who owns what? And what about the vast majority of the people in the world who won't want to deal with exerting "control over their private property data"?
 
-And for those that do, what does this even mean. When I sell a home, how do I transfer it?  When I'm renting a home, who gets to decide what is shared?  Me?  My roomate?  The landlord?  And what about businesses?  Who gets to control the data in a shopping mall?  Perhaps the Mall owner, but what about inside the stores?  The backrooms of the stores?
+{% marginnote "onandon" "These examples are just the tip of the iceberg. A naive US-centric notion of property rights will defeat any scheme like this. And that's without imagining the nightmare that will come when criminals or data squaters mark your property as \"ok to map\" and then demand ransom for the digital keys.\" %}And for those that do, what does this even mean. When I sell a home, how do I transfer it?  When I'm renting a home, who gets to decide what is shared?  Me?  My roomate?  The landlord?  And what about businesses?  Who gets to control the data in a shopping mall?  Perhaps the Mall owner, but what about inside the stores?  The backrooms of the stores?
 
-And how in the world will a tiny startup manage this?  Massive Google can't even deal with effectively with complaints on their search engines or issues with Youtube video and audio ownship. And that's without even factoring in Europe's data privacy laws.
+And how in the world will a tiny startup manage this?  Massive Google can't even deal effectively with complaints on their search engine content or issues with Youtube video and audio ownship. And that's without even factoring in Europe's data privacy laws ... watching systems like this crash and burn as they try to comply with [GDPR](https://www.eugdpr.org/) is going to be amusing, to say the least.
 
