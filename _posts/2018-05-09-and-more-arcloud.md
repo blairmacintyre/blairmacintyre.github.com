@@ -10,7 +10,7 @@ tags:
   - arcloud
 permalink: 2018/05/09/fantasmo-arcloud
 ---
-It's looking like ARCloud news is going to be coming faster and faster.  [Fantasmo](https://techcrunch.com/2018/05/09/fantasmo/) just came out of stealth mode, and at least they (unlike many of the other ARCloud companies) are acknowledging that there is a need to not just crowd-source everything into one big model.
+It's looking like ARCloud news is going to be coming faster and faster. {% marginnote "anecdote" "Funny story. Someone at \<big name company\> told me a story where they asked one of these ARCloud companies how they planned to comply with [GDPR](https://www.eugdpr.org/).  Their response: what's GDPR?" %}[Fantasmo](https://techcrunch.com/2018/05/09/fantasmo/) just came out of stealth mode, and at least they (unlike many of the other ARCloud companies) are acknowledging that there is a need to not just crowd-source everything into one big model.
 
 From [their announcement](https://blog.fantasmo.io/the-planet-is-theplatform-dd2716b5e33d):
 > We need an open infrastructure for 3D spatial data to break out of these silos and unlock the potential of the next era of maps. This infrastructure must include:
