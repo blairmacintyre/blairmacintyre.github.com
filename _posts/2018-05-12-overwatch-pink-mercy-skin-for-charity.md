@@ -13,7 +13,7 @@ tags:
   - cancer
 permalink: 2018/05/11/pink-mercy
 ---
-{% marginnote "mercy" "For those who don't play the game, Mercy is the main healer in Overwatch, and in the backstory, she was a gifted doctor  and scientist."%}I'm pretty happy to see the [positive reception](https://kotaku.com/overwatch-fans-react-to-the-new-pink-mercy-skin-1825886604) that Blizzard is getting for [running a charity event to raise money for breast cancer](https://playoverwatch.com/en-us/blog/21758132).
+{% marginnote "mercy" "For those who don't play the game, [Mercy](https://overwatch.gamepedia.com/Mercy) is the main healer in Overwatch, and in the backstory, she was a gifted doctor  and scientist."%}I'm pretty happy to see the [positive reception](https://kotaku.com/overwatch-fans-react-to-the-new-pink-mercy-skin-1825886604) that Blizzard is getting for [running a charity event to raise money for breast cancer](https://playoverwatch.com/en-us/blog/21758132).
 
 > We believe in creating a better world, and as part of that mission we’ve teamed up with the Breast Cancer Research Foundation to release a special charity skin in Overwatch: Pink Mercy! 
 
