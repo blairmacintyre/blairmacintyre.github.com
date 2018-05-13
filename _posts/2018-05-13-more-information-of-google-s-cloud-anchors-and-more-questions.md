@@ -40,11 +40,10 @@ On the surface, this looks promising, but the devil is in the details, and with 
 
 {% twitter https://twitter.com/nobbis/status/994692740737839105 %}
 
-Beyond that, there is a more fundamental question here:  the limitations expressed above are **not** presented as guarantees, but _limitations developers should be aware of_.
+{% marginnote "privacy" "If Google meant these as privacy guarantees, they would most certainly be presented that way;  as a company, Google is quite aware of privacy (as their [GDPR-related emails](2018/05/12/gdpr-privacy-notices) over the past week show)." %}
+Beyond that, there is a more fundamental question here:  the limitations expressed above are **not** presented as guarantees, but _limitations developers should be aware of_. And, that means they could change at any time. 
 
-If Google meant these as privacy guarantees, they would most certainly be presented that way;  as a company, Google is quite aware of privacy (as their [GDPR-related emails](2018/05/12/gdpr-privacy-notices) over the past week show). 
-
-Rather, this information is a summary of current implementation limitations and could change at any time. Accepting the way data is used in the current implementation as anything more may come back to bite developers at any time in the future:  once there is enough critical mass around this service (assuming it gets adopted), there's no reason Google couldn't change how the data is used.
+Accepting the way data is used in the current implementation as anything more may come back to bite developers at any time in the future:  once there is enough critical mass around this service (assuming it gets adopted), there's no reason Google couldn't change how the data is used.
 
 {% newthought "So, before I'm willing" %} to use this service, I'd like to see Google make some more explicite _guarantees_ about how the data will be used, not just now but in the future.  They could easily do this.  Will they?
 
