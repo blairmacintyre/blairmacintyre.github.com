@@ -34,8 +34,6 @@ In a section on "Data Storage and access limitations", we see:
 
 On the surface, this looks promising, but the devil is in the details, and with companies like Google (who make their living aggregating and processing data), it's not clear that these guarantees are really as rosy as they might appear.  Tim raised some concerns in a few tweets
 
-{% twitter https://twitter.com/nobbis/status/994649456128811008 %}
-
 {% twitter https://twitter.com/nobbis/status/994692740737839105 %}
 
 {% marginnote "privacy" "If Google meant these as privacy guarantees, they would most certainly be presented that way;  as a company, Google is quite aware of privacy (as their [GDPR-related emails](2018/05/12/gdpr-privacy-notices) over the past week show)." %}
