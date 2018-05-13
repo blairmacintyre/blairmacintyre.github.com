@@ -15,9 +15,7 @@ permalink: 2018/05/13/more-arcloud-questions
 ---
 In a [post earlier this week](2018/05/08/arcore-cloud-anchors) I outlined some concerns I had about Google's Cloud Anchors, specifically about what kind of data they were collecting, and what they were doing with it.
 
-[Tim Field](https://twitter.com/nobbis) pointed me at [more information on how cloud anchors work](https://developers.google.com/ar/develop/ios/overview#hosting_anchors){% marginnote "me" "I'm not sure if I just I missed this page, or if it wasn't there when I first looked."%}, which fills in some gaps but still leaves questions.
-
-The page confirms that they are uploading relatively dense visual mapping data and converting it to a common data format:
+[Tim Field](https://twitter.com/nobbis) pointed me at [more information on how cloud anchors work](https://developers.google.com/ar/develop/ios/overview#hosting_anchors){% marginnote "me" "I'm not sure if I just I missed this page, or if it wasn't there when I first looked."%}, which fills in some gaps but still leaves questions. The page confirms that they are uploading relatively dense visual mapping data and converting it to a common data format:
 
 > When you host an anchor, ARCore sends relevant visual mapping data from a user's environment to Google servers. 
 
