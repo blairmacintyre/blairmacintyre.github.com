@@ -36,9 +36,9 @@ In a section on "Data Storage and access limitations", we see:
 
 On the surface, this looks promising, but the devil is in the details, and with companies like Google (who make their living aggregating and processing data), it's not clear that these guarantees are really as rosy as they might appear.  Tim raised some concerns in a few tweets
 
-{% twitter 994649456128811008 %}
+{% twitter https://twitter.com/nobbis/status/994649456128811008 %}
 
-{% twitter 994692740737839105 %}
+{% twitter https://twitter.com/nobbis/status/994692740737839105 %}
 
 Beyond that, there is a more fundamental question here:  the limitations expressed above are **not** presented as guarantees, but _limitations developers should be aware of_.
 
