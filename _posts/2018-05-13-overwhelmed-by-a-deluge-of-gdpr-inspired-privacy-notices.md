@@ -16,11 +16,11 @@ I'm a big fan of the EU's strict electronic privacy laws, and while I haven't re
 
 {% marginnote "bad" "Contrast this to here in the US, where business has much more freedom to do what they want and little worry about penalties when things go wrong, as evidenced by scant punishment or negative effects of data breaches (even massive ones like [Equifax's careless handling of our data](https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)) or outright abuse of people's trust (such as [Facebook happily sharing all your info in ways a normal person wouldn't expect, and asserting it wasn't their fault partner companies didn't do the right thing](https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)).  Even worse, contrast it to [China's Social Credit System](https://www.cbsnews.com/news/china-social-credit-system-surveillance-cameras/), a real-world manifestation of the dystopian ideas behind so much science fiction (from an episode of [Black Mirror](https://www.fastcompany.com/40563225/chinas-terrifying-social-credit-surveillance-system-is-expanding) to uncountable numbers of novels and movies)."%}
 The GDPR has some [lofty goals](https://gdpr-info.eu/art-1-gdpr/):
-> 1. This Regulation lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data.
+> * This Regulation lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data.
 
-> 2. This Regulation protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.
+> * This Regulation protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.
 
-> 3. The free movement of personal data within the Union shall be neither restricted nor prohibited for reasons connected with the protection of natural persons with regard to the processing of personal data.
+> * The free movement of personal data within the Union shall be neither restricted nor prohibited for reasons connected with the protection of natural persons with regard to the processing of personal data.
 
 And as the deadline for compliance approaches, companies are starting to change their systems and send out updates to their policies.  Some are going so far as to write up how they changed their systems to comply (MailerLite has a [nice writeup on their blog](https://blog.mailerlite.com/new-mailerlite-gdpr-features-are-here-part-1-of-3/), for example).
 
