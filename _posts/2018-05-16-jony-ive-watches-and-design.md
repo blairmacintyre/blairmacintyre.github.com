@@ -12,7 +12,7 @@ tags:
   - design
 permalink: 2018/05/16/ive-watch-design
 ---
-{% marginnote "ive" "And by "ran across" I mean a friend sent it to me.  I hadn't heard of HODINKEE, but it describes itself as "a robust online magazine featuring in-depth reviews, critiques, and reports on watches of a particularly high quality."  I have an affection for mechanical watches, so I'm surprised I hadn't noticed this before." %} I ran across [an article in Hodinkee](https://www.hodinkee.com/magazine/jony-ive-apple) featuing an interview with Jony Ive on watches and design.  The article is interesting if you're interested in technology, design and Apple in particular.
+{% marginnote "ive" "And by \"ran across\" I mean a friend sent it to me.  I hadn't heard of HODINKEE, but it describes itself as "a robust online magazine featuring in-depth reviews, critiques, and reports on watches of a particularly high quality."  I have an affection for mechanical watches, so I'm surprised I hadn't noticed this before." %} I ran across [an article in Hodinkee](https://www.hodinkee.com/magazine/jony-ive-apple) featuing an interview with Jony Ive on watches and design.  The article is interesting if you're interested in technology, design and Apple in particular.
 
 {% maincolumn 'assets/uploads/ive-interview-masthead.jpg' "Ive talks watches." %}
 
