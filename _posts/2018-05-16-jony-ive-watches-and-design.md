@@ -16,7 +16,7 @@ permalink: 2018/05/16/ive-watch-design
 
 {% maincolumn 'assets/uploads/ive-interview-masthead.jpg' "Ive talks watches." %}
 
-It's interesting to read interviews with folks like Ive, from a different perspective that you might get in the usual tech venues like Ars, Wired, FastCo, etc.  Here, the audience is people who love high end watches.  It's clear the author has a viewpoint, and wants to push back against the perception that Apple and other companies creating electonic watches are  "the enemy" of high-end mechanical watch lovers and makers.  It's an interesting read just for that perspective. 
+It's interesting to read interviews with folks like Ive, from a different perspective that you might get in the usual tech venues like Ars, Wired, or FastCo.  Here, the audience is people who love high end watches.  It's clear the author has a viewpoint, and wants to push back against the perception that Apple and other companies creating electonic watches are  "the enemy" of high-end mechanical watch lovers and makers.  It's an interesting read just for that perspective. 
 
 {% newthought "A few things" %} about the article prompted me to post something here.  The first was that one of the things Ive said  reasonated with me:
 
