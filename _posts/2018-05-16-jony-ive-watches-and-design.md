@@ -1,5 +1,5 @@
 ---
-title: 'Jony Ive, Watches and Design'
+title: 'Jony Ive, Watches and Web Stats'
 date: '2018-05-16T09:58:00-05:00'
 author: blair
 layout: post
