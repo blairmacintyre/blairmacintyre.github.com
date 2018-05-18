@@ -1,6 +1,6 @@
 ---
 title: 'Overwatch Pink Mercy Skin for Charity '
-date: '2018-05-11T22:03:00-04:00'
+date: '2018-05-11T20:03:00-04:00'
 author: blair
 layout: post
 categories:
@@ -21,7 +21,7 @@ permalink: 2018/05/11/pink-mercy
 
 {% youtube BIQBvOGspmw %}
 
-{% marginnote "money" "Ok, maybe I've bought some loot crates in Rocket League and Overwatch in past.  Perhaps.  I'm not admitting anything."%} I generally don't spend money on in-game cosmetic items (and I really avoid pay-to-play and pay-to-win games, where spending money is required to skip countdown timers or get items you need to be competative). 
+{% marginnote "money" "Ok, maybe I've bought some loot crates in Rocket League and Overwatch in past.  Perhaps.  I'm not admitting anything."%} I generally don't spend money on in-game cosmetic items (and I really avoid pay-to-play and pay-to-win games, where spending money is required to skip countdown timers or get items you need to be competitive). 
 
 {% newthought "But, I'm all in"%} on this sort of thing.  The money goes to charity, and as a bonus, you get to wear the skin in the game to further raise awareness for the cause. Given the male dominated culture of video games, the focus on issues like this in-game can only be a good thing.
 
