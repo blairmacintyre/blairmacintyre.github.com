@@ -13,7 +13,7 @@ permalink: 2018/05/21/scientific-paper
 ---
 I ran across an ambitiously titled article in the Atlantic, "[The Scientific Paper Is Obsolete (Here’s what’s next)](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)". The title felt a bit like click-bait, but as an academic, that kind of bold pronouncement is hard to resist.
 
-**TL;DR**: Static papers will be replaced by papers with interactive figures.
+**TL;DR**: *Static papers will be replaced by papers with interactive figures.*
 
 Yep, that's pretty much the gist of it. Nothing new here, really, and certainly no insight as to "what's next."  
 
