@@ -15,7 +15,7 @@ I ran across an ambitiously titled article in the Atlantic, "[The Scientific Pap
 
 The **TL;DR** version of the paper is this: *Static papers will be replaced by papers with interactive figures.*
 
-Yep, that's pretty much the gist of it. Nothing new here, really, and certainly no insight as to "what's next."  
+That's pretty much the gist of it. There's nothing new offered here, really, and certainly no insight as to "what's next."  
 
 Worse, the article ignores the biggest obstacles to widespread adoption of interactive articles.  Not the tools or the technology (which is what the article focuses on) but serious issues like avoiding misleading readers and how to review and vet procedural content.
 
