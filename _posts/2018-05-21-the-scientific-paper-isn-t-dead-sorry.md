@@ -36,4 +36,4 @@ The author makes clear his stance:  the only reason we have static papers is bec
 
 > Until journals require scientists to submit notebooks, and until sharing your work and your data becomes the way to earn prestige, or funding, people will likely just keep doing what they’re doing.
 
-Ironically, I'm a big fan of embedding interactive content in documents; the ability of anyone to create and share whatever they want is one of the things that draws me to the web.  But this sort of simplistic article doesn't help.
+I'm a big fan of interactive content in documents; the ability for anyone to create and share whatever they want is one of the things that draws me to the web. But there are serious roadblocks to widespread adoption of interactive content in scientific publications, and we'd be better off attacking those problems than assuming it's academic culture and incentives that are the problem.
