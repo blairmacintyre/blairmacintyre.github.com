@@ -32,7 +32,7 @@ Reviewing is time consuming, and hard work as it is. With interactive content, a
 Bogost writes convincingly about [procedural rhetoric and the need for procedural literacy](http://bogost.com/books/unit_operations/); but, in a world where people aren't educated about basic facts, and can't tell the difference between a news site and one pushing propaganda and lies, interactive content would need to be created with great care and skill if it is not going to be misleading. The above excel bug would probably have been much more compelling if the figures had sliders to change the inputs to the simulations, or if they'd been illustrated with [mesmerizing dynamic graphs](https://medium.com/@EvanSinar/use-animation-to-supercharge-data-visualization-cd905a882ad4). 
 {% marginnote "lies" "And this doesn't even consider authors who might be *intentionally* misleading the reader.  In many ways, interactive figures can be amazing, but can also be an horrifying combination of \"a picture is worth a thousand words\" and \"lies, damn lies, and statistics\"." %}
 
-The author makes clear his stance:  the only reason we have static papers is because there is no incentive for academics to jump on board, and if only they were required to do so, we'd move into a brave new world of interactive exposition in science:
+{% newthought "None" %} of these questions feature prominently in the article. Rather, the author seems to believe that if academics just had the right incentives to create and share interactive comment, they would.  
 
 > Until journals require scientists to submit notebooks, and until sharing your work and your data becomes the way to earn prestige, or funding, people will likely just keep doing what they’re doing.
 
