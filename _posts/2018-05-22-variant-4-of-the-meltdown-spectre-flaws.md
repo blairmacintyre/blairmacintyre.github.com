@@ -1,5 +1,5 @@
 ---
-title: Variant 4 of the Meltdown-Spectre flaws
+title: Variant 4 of the Meltdown-Spectre Processor Flaws Revealed
 date: '2018-05-22T09:53:31-04:00'
 author: blair
 layout: post
