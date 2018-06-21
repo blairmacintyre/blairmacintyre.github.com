@@ -23,6 +23,6 @@ Folks replied with their thoughts, and some links to some articles, such at this
 
 Given the possible value of linking possibly a lifetime of verifiable activity to individuals, and the vast amounts of data that might be fed into such a system, I don't see how anyone can assert that blockchain identies would ever be private.
 
-I'm not saying that blockchain-based systems are bad, for some things.  But, I'm dubious of these approaches to preserving privacy and, by extension, using them for anything for which privacy might (at some point) be desired. 
+I'm not saying that blockchain-based systems are bad, for some things.  But, I'm dubious of these approaches to preserving privacy and, by extension, using them for anything for which privacy might (at some point) be desired.{% marginnote "note" "I'd be happy to be wrong, of course;  please drop me a note and explain to me what I'm missing!  (Bonus points if you can give me a serious answer to the problem of proof-of-work being feasible without consuming tons of energy)."%}
 
 As we look at China's [ramping up its social credit system](https://www.brookings.edu/blog/techtank/2018/06/18/chinas-social-credit-system-spreads-to-more-daily-transactions/), and consider how other countries might consider similar systems in the future, it's unclear to me what kinds of activities any of us should want to be on any blockchain, now and forever.
