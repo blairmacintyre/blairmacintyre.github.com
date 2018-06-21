@@ -11,7 +11,7 @@ tags:
   - identity
 permalink: 2018/06/21/privacy-blockchain
 ---
-You might have heard of blockchain technology{% marginnote "kidding "Just kidding. I can't imagine anyone reading this hasn't heard of blockchain.  Just in case, here's one [layman's introduction that Forbes Magazing published](https://www.forbes.com/sites/bernardmarr/2017/01/24/a-complete-beginners-guide-to-blockchain/#5e330fc56e60)."%}
+You might have heard of blockchain technology{% marginnote "kidding" "Just kidding. I can't imagine anyone reading this hasn't heard of blockchain.  Just in case, here's one [layman's introduction that Forbes Magazing published](https://www.forbes.com/sites/bernardmarr/2017/01/24/a-complete-beginners-guide-to-blockchain/#5e330fc56e60)."%}
 
 One thing that's been bugging me about all the "blockchain for this and that" proposals is the "permanent public record" nature of the ledger.  Given how easy it is to correlate data when you have a lot of it, it seems to me that over time, it is inconceivable that any given blockchain identity wouldn't end up being correlated with a real person behind it.  I posed this worry to some friends:
 
