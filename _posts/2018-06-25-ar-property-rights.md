@@ -41,6 +41,8 @@ In contrast, applications and websites that must be downloaded or visited and ru
  
 The question of user choice and explicit action weighs heavily here, to me.
  
-## I'm not a Lawyer
+## As the Saying Goes, "I'm no Lawyer..."
 
-I'm not claiming these arguments are valid under any legal jurisdiction or set of precedents. 
+I'm not claiming these arguments are based on any particular legal framework or precedents, or are watertight under any legal jurisdiction. I've read some legal views on these issues (and the Slate article references a few of them), and haven't found any particularly compelling.  Rather, these are based on my views of fair use, privacy and free speech.
+
+I'd love to hear what others think about all this, it's going to be a big topic in the coming years.
