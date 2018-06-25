@@ -43,7 +43,7 @@ In contrast, consider applications and websites that must be downloaded or visit
 
 This seems different.  
 
-In that case, an individual has chosen to augment their view of the world with a certain kind of content, and if that content isn't otherwise illegal, who's to say they can't view it. If someone chooses to give everyone beards, hide all detected advertisements (from billboards to t-shirts and hats) or add social commentary to the detected faces or yard signs of political figures, that should be their business.  
+In that case, an individual has chosen to augment their view of the world with a certain kind of content, and if that content isn't otherwise illegal, who's to say they can't view it? If someone chooses to give everyone beards, hide all detected advertisements (from billboards to t-shirts and hats) or add social commentary to the detected faces or yard signs of political figures, that should be their business.  
  
 The question of user choice and explicit action weighs heavily here, to me.
  
