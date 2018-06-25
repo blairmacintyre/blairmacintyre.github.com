@@ -49,6 +49,9 @@ The question of user choice and explicit action carries a lot of weight for me.
  
 ## As the Saying Goes, "I'm no Lawyer..."
 
-I'm not claiming these arguments are based on any particular legal framework or precedents, or are watertight under any legal jurisdiction. I've read some legal views on these issues (the Slate article references a few of them), and haven't found any particularly compelling.  Rather, these are based on my views of fair use, privacy and free speech.
+I'm not claiming these arguments are based on any particular legal framework or precedents, or are watertight under any legal jurisdiction. Rather, these are based on my views of fair use, privacy and free speech.
+
+I've read some legal views on these issues (the Slate article references a few of them), and haven't found any particularly compelling arguments that cover all AR without distinguishing between these two situations.  
+
 
 I'd love to hear what others think about all this, it's going to be a big topic in the coming years.
