@@ -31,7 +31,7 @@ To me, there are two very different situations: _push_ vs _pull_.
 
 ## Content _Pushed_ to You
 
-If AR glasses have a content feed that is seen by all users by default, as the base stream of data, the argument that this is akin to "putting the content out in the physical world" begins to carry some weight in a world where many people are wearing these glasses.  At the extreme, when everyone is "wearing", and everyone sees the virtual graffiti on your house with no action on their part, this sounds unreasonable.  
+If AR glasses have a content feed that is seen by all users by default, as the base stream of data, the argument that this is akin to "putting the content out in the physical world" begins to carry some weight for me. At the extreme, when everyone is "wearing", and everyone sees the same virtual graffiti on your house with no explicit action on their part to retrieve and display the content, perhaps you should have some say in what is displayed on your property.  
 
 Similarly, if all of the content from McMansion Hell was superimposed on everyone's view of the houses in question, it starts to become akin to posting the commentary on a banner in front of the house.  This feels to me very different than posting it on a website (not least of all because McMansion Hell doesn't post the addresses of the houses on their site, even though a little searching on Zillow in the town in question could likely uncover the location).
 
