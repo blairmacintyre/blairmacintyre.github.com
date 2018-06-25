@@ -23,9 +23,9 @@ But, people can already take picture, mark them up and share them, without AR. T
 
 At the other extreme, creators and many individuals think it's absurd that someone can't run an application on their personal device that changes the appearance of what they see, perhaps adding funny glasses or mustaches to everybody's face.  
 
-Complicating all of this is that what is considered "reasonable" (and legal) varies from country to country, so having this discussion in absence of a specific jurisdiction is difficult.
+{% newthought "Complicating"%} all of this is that what is considered "reasonable" (and legal) varies from country to country, so having this discussion in the absence of a specific jurisdiction is difficult. 
 
-{% newthought "Some of this"%} was triggered by Pokemon Go incidents, where people were frustrated at players engaging in the game on private property, or in inappropriate places like memorials or churches.  But the issue here isn't the augmentations, it's player behavior.  If a group of strangers decided to have a party in your backyard, or juggle flaming torches in your church during services, you'd be equally bothered.
+Some of these discussions were triggered by Pokemon Go incidents, where people were frustrated at players engaging in the game on private property, or in inappropriate places like memorials or churches.  But the issue here isn't really the little Pokemon augmentations, it's player behavior.  If a group of strangers decided to have a party in your backyard, or juggle flaming torches in your church during services, you'd be equally bothered.  The use of AR (or not) isn't really the issue.
 
 To me, there are two very different situations: _push_ vs _pull_.
 
