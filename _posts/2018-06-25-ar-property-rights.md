@@ -33,7 +33,7 @@ To me, there are two very different situations: _push_ vs _pull_.
 
 If AR glasses have a content feed that is seen by all users by default, as the base stream of data, the argument that this is akin to "putting the content out in the physical world" begins to carry some weight for me. At the extreme, when everyone is "wearing", and everyone sees the same virtual graffiti on your house with no explicit action on their part to retrieve and display the content, perhaps you should have some say in what is displayed on your property.  
 
-If all of the content from McMansion Hell was superimposed on everyone's view of the houses in the articles, it starts to become akin to posting the commentary on a banner or billboard in front of these houses.  This feels to me very different than posting it on a website (not least of all because McMansion Hell doesn't post the addresses of the houses on their site, even though a little searching on Zillow in the town in question could likely uncover the location).
+If all of the content from McMansion Hell was superimposed on everyone's view of the houses in the articles, it starts to become akin to posting the commentary on a banner or billboard in front of these houses.  This feels very different to me than posting it on a website (not least of all because McMansion Hell doesn't post the addresses of the houses on their site, even though a little searching on Zillow in the town in question could likely uncover the location).
 
 By way of analogy, consider Google (and Apple, MapQuest and Microsoft) Maps.  If someone put a fake business, or point of interest, on my house that I didn't agree with, I should have a reasonable expectation that I could request to have it taken down.
 
