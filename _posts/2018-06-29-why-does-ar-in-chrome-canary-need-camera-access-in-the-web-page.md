@@ -38,7 +38,7 @@ When I give talks about WebXR, one of the key advantages of web-based AR over na
 
 {% newthought "When we created" %} the [WebXR Viewer](https://github.com/mozilla-mobile/webxr-io) to experiment with ideas for WebXR, one of the questions we struggled with was how to help people understand what information web pages had access to, and what information the browser (but not the web page) had access to.
 
-It's clear that users need to give permission to _the browser_ to access the camera; any ARKit or ARCore app needs user permission.  It should be made clear to the user why the browser needs access, **but** it should also be made clear to the user that _the web page does not have access to that data_.
+It's clear that users need to give permission to _the browser_ to access the camera; any ARKit or ARCore app needs user permission.  It should be made clear to the user why the browser needs access, **but** it should also be made clear to the user when _the web page does or does not have access to that data_.
 
 In the WebXR Viewer, we had one advantage: the whole point of the app was to run WebXR AR web apps, so we lead the user through the permissions we need once when they install the app, just as most apps do.  The image on the left shows the initial permissions screen.
 
