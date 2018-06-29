@@ -16,7 +16,7 @@ I finally got around to digging out one of my Android dev phones (a Pixel), rech
 
 {% maincolumn 'assets/uploads/demos-chrome.png' "Two of the Chrome Canary WebXR AR demos." %}
 
-Well, almost everything.  
+There is one thing I'd like to see changed, though.  
 
 The first time I ran each demo, it asked for camera permissions.  
 
