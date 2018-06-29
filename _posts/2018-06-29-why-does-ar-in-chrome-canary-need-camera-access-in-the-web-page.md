@@ -32,7 +32,7 @@ I understand that the browser needs access to the camera, in order to render the
 
 {% newthought "Let me repeat" %} this, more strongly: the difference I'm calling out is _critically important_.  
 
-When I give talks about WebXR, one of the key advantages of web-based AR over native app AR that I highlight is that you, a user, can get the benefits of AR applications without giving the authors of those applications access to detailed knowledge of the world around you (detailed meshes, camera frames, etc). If you run native AR apps (such as those written with ARKit or ARCore, or SDK's like Vuforia), you have to "give away the farm" in terms of privacy.  Want to play a cute little AR game?  I hope you've checked out the author of that app to make sure you trust them having the full 3D reconstruction structure of the space you play it in, because it's trivial for them to do it in an ARKit app.
+When I give talks about WebXR, one of the key advantages of web-based AR over native app AR that I highlight is that you, a user, can get the benefits of AR applications without giving the authors of those applications access to detailed knowledge of the world around you (detailed meshes, camera frames, etc). If you run native AR apps (such as those written with ARKit or ARCore, or SDK's like Vuforia), you have to "give away the farm" in terms of privacy.  Want to play a cute little AR game?  I hope you've checked out the author of that app to make sure you trust them having the full 3D reconstruction of the space you play it in, because it's trivial for them to do it in an ARKit app.
 
 {% twitter https://twitter.com/nobbis/status/972298968574013440 %}
 
