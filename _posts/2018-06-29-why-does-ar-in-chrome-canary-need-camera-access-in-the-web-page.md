@@ -12,7 +12,7 @@ tags:
   - permissions
 permalink: 2018/06/29/camera-access-webxr
 ---
-I finally got around to digging out one of my Android dev phones (a Pixel), recharging it, updating it (a non-trivial endeavor, it's been off for months!) and installing the [AR-capable via WebXR](https://developers.google.com/web/updates/2018/06/ar-for-the-web) version of Chrome Canary.  I was [pleased when Google announced it](/2018/05/14/-canary-webxr) last month, and the demos don't disappoint: everything seems to work just as you'd expect.
+I finally got around to digging out one of my Android dev phones (a Pixel), recharging it, updating it (a non-trivial endeavor, it's been off for months!) and installing the [AR-capable via WebXR](https://developers.google.com/web/updates/2018/06/ar-for-the-web) version of Chrome Canary.  I was [pleased when Google announced it](/2018/05/14/-canary-webxr) last month, and the demos don't disappoint: everything seems to work just as you'd expect.  It's every bit as cool as all of us hoped it would be!  Congrats to the team!
 
 {% maincolumn 'assets/uploads/demos-chrome.png' "Two of the Chrome Canary WebXR AR demos." %}
 
