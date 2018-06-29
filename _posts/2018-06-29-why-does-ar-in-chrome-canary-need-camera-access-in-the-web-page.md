@@ -22,15 +22,15 @@ The first time I ran each demo, it asked for camera permissions.
 
 {% maincolumn 'assets/uploads/permissions-chrome.png' "When I click \"Start AR\" in the web page, Chrome asks me for permission to let the web page access the camera." %}
 
-Why should a WebXR _web page_ need camera permission? 
+Why should a WebXR _web page_ need permission to "use your camera"?  What does that mean?  It sure sounds like the web page is asking for access to the camera, and will be able to see the video.   
 
-{% newthought "I understand" %} that if users can see the camera video, they may not distinguish between _the browser_ having access to the camera and _the web page_ having access to it.
+{% newthought "I understand" %} that if users can see the camera video, they may not distinguish between _the browser_ having access to (using) the camera and _the web page_ having access to it.  And I know the Chrome team is the first group to struggle with this question: I'm only "picking on them" to dive into this issue a bit, because this difference is important.  I don't want AR web pages accessing my camera frames all the time, unless I trust the page, and know that it is using the video frames to provide value to me. 
 
-But, this difference is important.  I don't want AR web pages accessing my camera frames all the time, unless I trust the page, and know that it is using the video frames to provide value to me. 
+We need to help users understand that the browser needs access to the camera, in order to render the video and to run ARCore, but that the web page may not get the same information. 
 
-I understand that the browser needs access to the camera, in order to render the video and to run ARCore. And while I realize I'm much more "AR tech saavy" that the average person,  it seems to me that it will be confusing to users in the long run, since it implies the web page has access to the camera _data_, rather than the web browser having access.  
+And while I realize I'm much more "AR tech saavy" that the average person,  it seems to me that it will be confusing to users in the long run if we don't make these distinctions, since it implies the web page has access to the camera _data_, when it may not.  
 
-{% newthought "Let me repeat" %} this, more strongly: the difference I'm calling out is _critically important_.  
+{% newthought "Let me repeat" %} this, more strongly: I  think the difference I'm calling out is _critically important_ for users, and for the success of the Web as a platform for AR.
 
 When I give talks about WebXR, one of the key advantages of web-based AR over native app AR that I highlight is that you, a user, can get the benefits of AR applications without giving the authors of those applications access to detailed knowledge of the world around you (detailed meshes, camera frames, etc). If you run native AR apps (such as those written with ARKit or ARCore, or SDK's like Vuforia), you have to "give away the farm" in terms of privacy.  Want to play a cute little AR game?  I hope you've checked out the author of that app to make sure you trust them having the full 3D reconstruction of the space you play it in, because it's trivial for them to get this kind of model of your space in an ARKit or ARCore app.{% marginnote "recon" "ARKit and ARCore don't provide this 3D structure directly, but the process shown in the video in this tweet is well known in the computer vision community.  It's been difficult to do in practice with just a camera, but when you have an accurate 3D position of each camera frame provided by ARKit or ARCore, the difficulty goes away."%} 
 
@@ -48,8 +48,10 @@ The image on the right shows the permissions we ask for if the web page _actuall
 
 As I said above, I understand that if users can see the camera video, they may not **yet** distinguish between the browser and the web page having access to it. But, it is our job to educate them and help them understand what they are actually consenting to.  By not distinguishing between these two cases, and helping users understand the difference, where are doing users a massive disservice. People need to understand what data they are giving away, and when; they need to understand that native AR apps have access to shocking amounts of data, and that web-based AR apps can provide a range of access, such as:
 
-* Just the pose data of the camera, and the 3D location of places in the room the user taps on the screen.
-* Abstract structural information about the world, such as planes or illumination, and eventually access to native sensing (like detecting certain images, or faces like on the iPhoneX).
-* Full access to camera and sensor data, with the corresponding privacy and security risks.
+* Just the pose data of the camera, and the 3D location of places in the room the user taps on the screen.  A permission could ask "Chrome wants to use the camera to display video and provide AR capabilities to immersive-web.github.io".
+* Abstract structural information about the world, such as planes or illumination, and eventually access to native sensing (like detecting certain images, or faces like on the iPhoneX).  A permission could ask "Chrome wants to use the camera to display video and provide information it detects about the world around you to immersive-web.github.io".
+* Full access to camera and sensor data, with the corresponding privacy and security risks. A permission could ask "Chrome wants to use the camera to display video and provide video frames to immersive-web.github.io".
 
-We other companies integrate web-based AR (via WebXR) into mainstream browsers, I hope we can do a better job of helping users understand these differences and provide informed consent to web applications.
+(I'm not tied to the exact wording, but I think the difference is important.)
+
+As other companies integrate web-based AR (via WebXR) into mainstream browsers, I hope we can all try to help users understand these differences and provide informed consent to web applications.
