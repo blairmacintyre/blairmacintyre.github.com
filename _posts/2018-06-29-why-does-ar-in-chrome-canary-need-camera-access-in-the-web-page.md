@@ -24,7 +24,9 @@ The first time I ran each demo, it asked for camera permissions.
 
 Why should a WebXR _web page_ need permission to "use your camera"?  What does that mean?  It sure sounds like the web page is asking for access to the camera, and will be able to see the video.   
 
-{% newthought "I understand" %} that if users can see the camera video, they may not distinguish between _the browser_ having access to (using) the camera and _the web page_ having access to it.  And I know the Chrome team is the first group to struggle with this question: I'm only "picking on them" to dive into this issue a bit, because this difference is important.  I don't want AR web pages accessing my camera frames all the time, unless I trust the page, and know that it is using the video frames to provide value to me. 
+{% newthought "I understand" %} that if users can see the camera video, they may not distinguish between _the browser_ having access to (using) the camera and _the web page_ having access to it.  And I know the Chrome team is the first group to struggle with this difficult question: I'm picking on Chrome's approach to dive into this issue a bit, because this difference is important.  
+
+> I don't want AR web pages accessing my camera frames all the time, unless I trust the page, and know that it is using the video frames to provide value to me. 
 
 We need to help users understand that the browser needs access to the camera, in order to render the video and to run ARCore, but that the web page may not get the same information. 
 
