@@ -30,7 +30,7 @@ Why should a WebXR _web page_ need permission to "use your camera"?  What does t
 
 > We need to help users understand that the browser needs access to the camera, in order to render the video and to run ARCore, but that the web page may not get the same information. 
 
-And while I realize I'm much more "AR tech saavy" that the average person,  it seems to me that it will be confusing to users in the long run if we don't make these distinctions, since it implies the web page has access to the camera _data_, when it may not.  
+And while I realize I'm much more "AR tech savvy" that the average person,  it seems to me that it will be confusing to users in the long run if we don't make these distinctions, since it implies the web page has access to the camera _data_, when it may not.  
 
 {% newthought "Let me repeat" %} this, more strongly: I  think the difference I'm calling out is _critically important for users, and for the success of the Web as a platform for AR_.
 
