@@ -18,7 +18,7 @@ A friend, Andy Phelps, posted [a few brief thoughts on eSports and Universities]
 
 {% newthought "Funny" %}, I was drafting an article in response to the Akron/Chronicle article as well, but mine was quite a bit shorter, and quite a bit different.
 
-Many discussions of eSports in college (i.e., not just played by students, but more formal, like other NCAA sports) presuppose there is value in varsity sports and college athletics, and try and relate eSports to traditioanl sports. I also agree that eSports and traditional sports have a lot in common, but start from a very different perspective on the place of sport in college.
+Many discussions of eSports in college (i.e., not just played by students, but more formal, like other NCAA sports) presuppose there is value in varsity sports and college athletics, and try and relate eSports to traditional sports. I also agree that eSports and traditional sports have a lot in common, but start from a very different perspective on the place of sport in college.
 
 My hypothetical article start by pointing out that I disagree with the place sports have taken in North American universities. I love sports (I played many as a kid) see great value in clubs and intramural sports (I joined in many as an undergrad and grad student). I’m in favor of universities supporting these, as well as many other forms of student-led informal social and academic activities that let students meet similar minded students outside of class, grow as people and have well balanced lives.
 
