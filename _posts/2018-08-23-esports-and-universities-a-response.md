@@ -2,7 +2,7 @@
 title: 'eSports and Universities, a response'
 date: '2018-08-23T11:01:19-04:00'
 author: blair
-layout: post-full-width
+layout: post
 categories:
   - personal
   - educational
