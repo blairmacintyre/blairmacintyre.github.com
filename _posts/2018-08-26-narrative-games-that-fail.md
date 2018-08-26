@@ -11,3 +11,5 @@ tags:
 permalink: 2018/08/26/games-that-fail
 ---
 <iframe src="https://macmynatt.social/@blair/100616697080181293/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%"></iframe><script src="https://macmynatt.social/embed.js" async="async"></script>
+
+<iframe src="https://macmynatt.social/@blair/100616697080181293/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://macmynatt.social/embed.js" async="async"></script>
