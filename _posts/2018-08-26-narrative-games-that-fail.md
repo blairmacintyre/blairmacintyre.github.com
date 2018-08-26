@@ -10,14 +10,13 @@ tags:
   - games
 permalink: 2018/08/26/games-that-fail
 ---
-I've set Overwatch aside for a while, and have been revisting old games I never finished (or hadn't even started).  Sadly, I've found the experience less than satisfying, as I summarized on Mastodon this morning:
+I've set Overwatch aside for a while, and have been revisting old games I never finished (or hadn't even started).  Sadly, I've found the experience less than satisfying, as I summarized on Mastodon this morning:{% marginnote "dug" "Don't even get me started on some of the more purely narrative games, like Dear Esther and Gone Home."%}
 
 
 <iframe src="https://macmynatt.social/@blair/100616697080181293/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://macmynatt.social/embed.js" async="async"></script>
 
 <iframe src="https://macmynatt.social/@blair/100616705417766695/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://macmynatt.social/embed.js" async="async"></script>
 
-(Don't even get me started on arty narrative games like Dear Esther)
 
 I'm going to try something newer soon, though. 
 
