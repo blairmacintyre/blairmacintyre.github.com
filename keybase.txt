@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/roadkill
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blairmacintyre.me
+  * I am roadkill (https://keybase.io/roadkill) on keybase.
+  * I have a public key ASC6Ir0Wv96zUre9s0FlmNB00Ou9aO9NtLyJSx7ngN-rKwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201a876265386a0d0d6b9aa4234527516db749f0f0ad50478dc7ed88f2d476e8950a",
+      "host": "keybase.io",
+      "kid": "0120ba22bd16bfdeb352b7bdb3416598d074d0ebbd68ef4db4bc894b1ee780dfab2b0a",
+      "uid": "9bab4a316550f8d40bd110eea7706a19",
+      "username": "roadkill"
+    },
+    "merkle_root": {
+      "ctime": 1536161701,
+      "hash": "8124d6ddc82fd815844bdd13c3fa254a157ed57d724c4ebe0eda99e7db9a1d345ae82fe8b087bbfe24f719f0fdcdf78250600b56884b17868016663af69d81bb",
+      "hash_meta": "60b6b332d69f50c033a9bdc9574fdfd1c5bfc6db7dac874ef27c35ab92fd7e75",
+      "seqno": 3566831
+    },
+    "service": {
+      "entropy": "udZtUwXgh20JsVoorTd9rrgh",
+      "hostname": "blairmacintyre.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.1"
+  },
+  "ctime": 1536161724,
+  "expire_in": 504576000,
+  "prev": "780176a9abd1220b84cb8226012944d964aae0851f6cb484619c50f872929b03",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguiK9Fr/es1K3vbNBZZjQdNDrvWjvTbS8iUse54DfqysKp3BheWxvYWTESpcCCsQgeAF2qavRIguEy4ImASlE2WSq4IUfbLSEYZxQ+HKSmwPEINTBQaGTvw7JKMqpm5Qppv/NtaXl8fOBLvQLkp71LcPpAgHCo3NpZ8RAf/wA2nqW/c3WNpjnBgAlPUlz9TRHanLBJCZ5Mijl/OEe9NtzwbTLmHisyXZB74gz436NKVep+u7g+I7H+1YADqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICdxgAq4nx8vuGsxgc++Uc0Ik+JWHtY5lDVmYTicsaeYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/roadkill
+
+==================================================================
