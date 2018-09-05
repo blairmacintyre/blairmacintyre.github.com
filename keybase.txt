@@ -1,32 +1,32 @@
 ==================================================================
-https://keybase.io/roadkill
+https://keybase.io/blairmacintyre
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://blairmacintyre.me
-  * I am roadkill (https://keybase.io/roadkill) on keybase.
-  * I have a public key ASC6Ir0Wv96zUre9s0FlmNB00Ou9aO9NtLyJSx7ngN-rKwo
+  * I am blairmacintyre (https://keybase.io/blairmacintyre) on keybase.
+  * I have a public key ASCRrR3cpomNndbLwOcxPe_jXjWPaHBiEslrEZ94Xc7tbQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01201a876265386a0d0d6b9aa4234527516db749f0f0ad50478dc7ed88f2d476e8950a",
+      "eldest_kid": "012091ad1ddca6898d9dd6cbc0e7313defe35e358f68706212c96b119f785dceed6d0a",
       "host": "keybase.io",
-      "kid": "0120ba22bd16bfdeb352b7bdb3416598d074d0ebbd68ef4db4bc894b1ee780dfab2b0a",
-      "uid": "9bab4a316550f8d40bd110eea7706a19",
-      "username": "roadkill"
+      "kid": "012091ad1ddca6898d9dd6cbc0e7313defe35e358f68706212c96b119f785dceed6d0a",
+      "uid": "e4573ec66992648aaeec534a1845ec19",
+      "username": "blairmacintyre"
     },
     "merkle_root": {
-      "ctime": 1536161701,
-      "hash": "8124d6ddc82fd815844bdd13c3fa254a157ed57d724c4ebe0eda99e7db9a1d345ae82fe8b087bbfe24f719f0fdcdf78250600b56884b17868016663af69d81bb",
-      "hash_meta": "60b6b332d69f50c033a9bdc9574fdfd1c5bfc6db7dac874ef27c35ab92fd7e75",
-      "seqno": 3566831
+      "ctime": 1536162954,
+      "hash": "9ff45b0b616d7d60566f6cea5a438f3e535e6d71a3b39b1b57870a1b2deef686f836dbb4aff73c9b88fbbe75607eca03113dbb1b5175abba83a9262dca23e16d",
+      "hash_meta": "76cd62ffd73d9061fc0a7225f82fb8cb225924494b11f071d6b1ef969f153c7e",
+      "seqno": 3566964
     },
     "service": {
-      "entropy": "udZtUwXgh20JsVoorTd9rrgh",
+      "entropy": "Ssl/NicBR5za1tQMBrro5udx",
       "hostname": "blairmacintyre.me",
       "protocol": "https:"
     },
@@ -37,20 +37,20 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "2.5.1"
   },
-  "ctime": 1536161724,
+  "ctime": 1536162970,
   "expire_in": 504576000,
-  "prev": "780176a9abd1220b84cb8226012944d964aae0851f6cb484619c50f872929b03",
-  "seqno": 10,
+  "prev": "e615b6a75f9faa5e723d42377831161285af5bbe6b51bb879c64a7b3227b0660",
+  "seqno": 6,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguiK9Fr/es1K3vbNBZZjQdNDrvWjvTbS8iUse54DfqysKp3BheWxvYWTESpcCCsQgeAF2qavRIguEy4ImASlE2WSq4IUfbLSEYZxQ+HKSmwPEINTBQaGTvw7JKMqpm5Qppv/NtaXl8fOBLvQLkp71LcPpAgHCo3NpZ8RAf/wA2nqW/c3WNpjnBgAlPUlz9TRHanLBJCZ5Mijl/OEe9NtzwbTLmHisyXZB74gz436NKVep+u7g+I7H+1YADqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICdxgAq4nx8vuGsxgc++Uc0Ik+JWHtY5lDVmYTicsaeYo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgka0d3KaJjZ3Wy8DnMT3v4141j2hwYhLJaxGfeF3O7W0Kp3BheWxvYWTESpcCBsQg5hW2p1+fql5yPUI3eDEWEoWvW75rUbuHnGSnsyJ7BmDEIBy7zKQBU9Ar2YHtFl1tIUSa3R5CNJ0gO1vTBTEK6/BVAgHCo3NpZ8RAzS9kc1TA/RTRalVYVW9hHSP9iAvS44LnAt/SimrGSkc0SwNn+beNEfrNs8V3BRbRSbOsUNIeMuN7zxqRNuJVCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPGvP6cRdpAizHDUijf6gsG4XVkarJSGf9yYSz+Jd3OXo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/roadkill
+View my publicly-auditable identity here: https://keybase.io/blairmacintyre
 
 ==================================================================
