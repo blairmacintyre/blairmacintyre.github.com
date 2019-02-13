@@ -12,7 +12,9 @@ tags:
   - maps
 permalink: 2019/02/13/global-localization
 ---
-Interesting post Interesting post today on the Google AI Blog on [Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html). Google is attempting to solve one of the thorniest problems with outdoor navigation, namely the unreliability and inaccuracy of the GPS and orientation sensors on mobile devices.  As they say,   > One of the consistent challenges when navigating with Google Maps is figuring out the right direction to go: sure, the app tells you to go north - but many times you're left wondering, "Where exactly am I, and which way is north?" Over the years, we've attempted to improve the accuracy of the blue dot with tools like GPS and compass, but found that both have physical limitations that make solving this challenge difficult, especially in urban environments. 
+Interesting post Interesting post today on the Google AI Blog on [Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html). Google is attempting to solve one of the thorniest problems with outdoor navigation, namely the unreliability and inaccuracy of the GPS and orientation sensors on mobile devices.  As they say,   
+
+> One of the consistent challenges when navigating with Google Maps is figuring out the right direction to go: sure, the app tells you to go north - but many times you're left wondering, "Where exactly am I, and which way is north?" Over the years, we've attempted to improve the accuracy of the blue dot with tools like GPS and compass, but found that both have physical limitations that make solving this challenge difficult, especially in urban environments. 
 >
 > We're experimenting with a way to solve this problem using a technique we call global localization, which combines Visual Positioning Service (VPS), Street View, and machine learning to more accurately identify position and orientation. Using the smartphone camera as a sensor, this technology enables a more powerful and intuitive way to help people quickly determine which way to go.
 
