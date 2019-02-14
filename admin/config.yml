@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     folder: "pages"
-    create: "true"
+    create: true
     fields:
       - {label: Title, name: title, widget: string}
       - {label: "Layout", name: "layout", widget: "select", options: ["post", "post-full-width"]}
