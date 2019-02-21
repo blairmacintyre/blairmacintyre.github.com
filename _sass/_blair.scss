@@ -28,8 +28,7 @@ $light-text-color: #666;
 }
 
 #webmentions h2 {
-    font-size: 1em;
-    margin: 0;
+    font-size: 1.5em;
     padding: 2px;
 }
 
@@ -45,7 +44,9 @@ $light-text-color: #666;
 
 #webmentions li {
     text-indent: -1em;
+    margin: 2;
     padding-left: 1em;
+    line-height: 1.2rem;
 }
 
 #webmentions a.reaction {
