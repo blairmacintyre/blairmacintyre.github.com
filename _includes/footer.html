@@ -22,9 +22,10 @@
     <li><a href="mailto:blair@cc.gatech.edu"><span class="icon-mail"></span></a></li>    
     {% for entry in site.data.social %}
       <li>
-        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+        <a href="{{ entry.link }}" rel="me"><span class="{{ entry.icon }}"></span></a>
       </li>
     {% endfor %}  
+    <li><a href="/feed.xml"><span class="icon-feed"></span></a></li>    
   </ul>
 <div class="credits">
 <span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
