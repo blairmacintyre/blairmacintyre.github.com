@@ -16,7 +16,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-    permalink: "/assets/uploads/:path" # replace "images" with the name of your choice
+    permalink: "/assets/uploads/:path"
 defaults:
 - scope:
     path: ''
@@ -33,7 +33,7 @@ name: Blair MacIntyre
 author: Blair MacIntyre
 simple_search: http://google.com/search
 email: blair@macmynatt.com
-description: 'Professor, Designer, Husband, Father'
+description: Professor, Designer, Husband, Father
 baseurl: ''
 url: https://blairmacintyre.me
 disqusURL: http://blairmacintyre.me
