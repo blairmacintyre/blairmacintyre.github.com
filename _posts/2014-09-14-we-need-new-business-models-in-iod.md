@@ -13,13 +13,12 @@ id: 720
 author: blair
 layout: post
 guid: http://blairmacintyre.me/?p=720
-excerpt: Today, I gave a talk at the Ubiquitous Computing conference’s [Workshop on Usable Privacy & Security for wearable and domestic ubIquitous DEvices (UPSIDE)](http://appanalysis.org/upside/), modestly titled "_Augmented Reality + Internet of Devices + Big Data: The End of Privacy?_”
-I’ll post something else about this talk soon, but
 ---
 
-{% capture ca-cite %}{% reference rutledge-massey-anton-swire-2014 --file others %} This paper introduces the idea of _Internet of Devices_ (IoD), a term I like more than _Internet of Things_{% endcapture %}
 Today, I gave a talk at the Ubiquitous Computing conference’s [Workshop on Usable Privacy & Security for wearable and domestic ubIquitous DEvices (UPSIDE)](http://appanalysis.org/upside/), modestly titled "_Augmented Reality + Internet of Devices + Big Data: The End of Privacy?_”
 I’ll post something else about this talk soon, but one of the goals was
+
+{% capture ca-cite %}{% reference rutledge-massey-anton-swire-2014 --file others %} This paper introduces the idea of _Internet of Devices_ (IoD), a term I like more than _Internet of Things_{% endcapture %}
 
 >to urge people to develop architectures for IoD{% sidenotevar "chang-ungar" ca-cite %} + AR that allow us to keep and control our data, sharing it or not as we see fit.  It may be that we choose to keep all our data local, or only share anonymous or agregated data.
 
