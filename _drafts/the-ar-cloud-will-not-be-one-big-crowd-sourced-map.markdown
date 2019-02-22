@@ -16,7 +16,7 @@ My friend [Trevor](https://trevor.smith.name/) started twitter thread on archite
 {% twitter https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
 
 There's a lot going on in this thread.  As with all discussions of the AR cloud, there's a segment of folks who can't get past "the AR cloud requires we scoop up data and build big maps."  I think the point of Trevor poking at this is to counter (or at least stir up discussion) of this.  
-
+ 
 There are some fundamental things I disagree with many folks advocating for automated data collection. For example, I do not believe that any representation of the features/structure in a space is inherently private:  if it can be used for relocalization in the space, then some ML/DL system could conceivably extract structure from it, especially as it's updated over time.
 
 There are two very different arguments presented in response to privacy concerns with these approaches.  
