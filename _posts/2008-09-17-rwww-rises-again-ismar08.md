@@ -1,6 +1,6 @@
 ---
 title: 'The Real-World Wide Web Rises Again:  ISMAR 2008 panel on the Future of AR'
-date: 2008-09-17 04:57:51 -04:00
+date: 2008-09-17 05:57:00 -04:00
 permalink: "/2008/09/17/rwww-rises-again-ismar08/"
 categories:
 - ismar
@@ -10,7 +10,7 @@ tags:
 - real-world wide web
 id: 26
 author: blair
-exceprt: As I sit in the ISMAR  panelon "the future of AR", I'm reminded of work I
+excerpt: As I sit in the ISMAR  panelon "the future of AR", I'm reminded of work I
   did with Rob Kooper (a former student in my lab) back around 2000, on the "Real-world
   wide web"
 layout: post
