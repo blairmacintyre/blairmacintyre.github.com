@@ -10,9 +10,6 @@ tags:
 - real-world wide web
 id: 26
 author: blair
-excerpt: As I sit in the ISMAR  panelon "the future of AR", I'm reminded of work I
-  did with Rob Kooper (a former student in my lab) back around 2000, on the "Real-world
-  wide web"
 layout: post
 ---
 
