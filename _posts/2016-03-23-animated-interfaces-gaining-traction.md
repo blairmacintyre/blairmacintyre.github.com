@@ -10,6 +10,10 @@ tags:
 - animation
 author: blair
 layout: post
+excerpt: 'I''ve been a fan of animated interfaces for years, going back to the amazing work that Sun''s _Self_ team did on the _Self_ user interface.  
+    The _Morphic_ user interface used in _Self_ was interesting in a lot of ways, especially how it bent over backwards to make the 
+    interface feel alive and like you were truly directly manipulating the objects you were creating and working with, 
+    both as you programmed and as you used it.'
 ---
 
 {% capture ca-cite %}{% reference Chang:1993:ACU:168642.168647 --file others %}{% endcapture %}
