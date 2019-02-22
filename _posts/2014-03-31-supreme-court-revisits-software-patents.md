@@ -1,6 +1,6 @@
 ---
 title: 'Supreme Court Revisits the Question: Should software be patentable?'
-date: 2014-03-31 20:58:53 -04:00
+date: 2014-03-31 20:58:00 -04:00
 permalink: "/2014/04/01/supreme-court-revisits-software-patents/"
 categories:
 - commercial
@@ -9,11 +9,11 @@ tags:
 - software
 id: 630
 author: blair
-layout: post
 guid: http://www.blairmacintyre.me/?p=630
+layout: post
 ---
 
-{% marginfigure "junk"1 "http://upload.wikimedia.org/wikipedia/commons/a/a5/TV_and_Computer_Monitor_Recycling_Pen_-_geograph.org.uk_-_1025508.jpg" "It's uses a computer, it must be patentable!" %}
+{% marginfigure "junk" "http://upload.wikimedia.org/wikipedia/commons/a/a5/TV_and_Computer_Monitor_Recycling_Pen_-_geograph.org.uk_-_1025508.jpg" "It's uses a computer, it must be patentable!" %}
 The question of whether software should be patentable or not is hotly debated in the computer industry.  Another case is now before the supreme court, _Alice Corp. v. CLS Bank_, where the plaintiff argues that because their patent uses a computer, it amounts to an invention that is patentable. According to this [quite nice article in the Washington Post](http://www.washingtonpost.com/business/in-new-case-supreme-court-revisits-the-question-of-software-patents/2014/03/28/a3da1c52-ad3a-11e3-9627-c65021d6d572_story.html), this is a big step, as previous rulings by the high court that upheld software patents said that they must have some tangible interaction with the world, not just be algorithms run on computers.  The article concludes:
 
 > The arguments about software patents in the 1970s and 1990s were theoretical. Opponents predicted that software patents would have a detrimental impact on software innovation. But the concept was so new that they couldn’t know for certain.
