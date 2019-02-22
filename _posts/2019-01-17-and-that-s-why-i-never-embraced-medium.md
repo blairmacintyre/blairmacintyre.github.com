@@ -9,6 +9,7 @@ tags:
   - blogging
   - publishing
 permalink: 2019/01/17/never-embraced-medium
+comments: false
 ---
 When [Medium](https://medium.com) came on the scene, I created an account and fiddled with it, but I was never really comfortable with the downside of jumping on that platform.  I worried what their eventual end-goal would be, how they would make money, and what would become of my content ... would I, for example, ever be able to pull comments and discussions out of the platform if I wanted to leave?
 

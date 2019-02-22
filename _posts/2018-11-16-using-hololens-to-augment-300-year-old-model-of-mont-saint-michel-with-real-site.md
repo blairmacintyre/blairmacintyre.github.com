@@ -12,6 +12,7 @@ tags:
   - hololens
   - education
 permalink: 2018/11/16/mont-saint-michel-hololens
+comments: false
 ---
 I ran across an article on Geekwire ([Microsoft HoloLens brings 300-year-old 3D model to life and offers new view of French landmark](https://www.geekwire.com/2018/microsoft-hololens-brings-300-year-old-3d-model-life-offers-new-view-french-landmark/)) about using Hololens and photogrammetry to create an augmented reality experience of the combined historic 3D relief map and real site of Mont-Saint-Michel in Normandy, France.  The videos Microsoft create are worth watching; really inspiring work!
 

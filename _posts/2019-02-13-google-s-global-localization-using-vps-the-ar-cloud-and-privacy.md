@@ -11,6 +11,7 @@ tags:
   - vps
   - maps
 permalink: 2019/02/13/global-localization
+comments: false
 ---
 Interesting post Interesting post today on the Google AI Blog on [Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html). Google is attempting to solve one of the thorniest problems with outdoor navigation, namely the unreliability and inaccuracy of the GPS and orientation sensors on mobile devices.  As they say,   
 

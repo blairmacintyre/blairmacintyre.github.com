@@ -11,6 +11,7 @@ tags:
   - esports
   - ncaa
 permalink: 2018/08/23/esports-and-universities
+comments: false
 ---
 A friend, Andy Phelps, posted [a few brief thoughts on eSports and Universities](https://medium.com/@Andy_at_RITMAGIC/a-few-brief-thoughts-on-esports-and-universities-11b3f89b8de2) over on Medium.  I replied there, but I'd like to preserve that reply, so I'm posting it here, too.{% marginnote "history" "Both Andy's article, and my article-turned-response, where triggered by a [story the Chronicle of Higher Education ran](https://www.chronicle.com/article/U-of-Akron-Will-Phase-Out-80/244293) about University of Akron discontinuing a bunch of academic programs but investing a ton of money into new facilities for eSports at the same time."%}
 
