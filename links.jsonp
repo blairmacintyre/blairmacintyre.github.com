@@ -3,7 +3,8 @@ nav_exclude: 1
 ---
 
 callback([
-{% for post in site.posts reversed | sort: title %}
+{% assign sortedPosts = site.posts reversed | sort: 'title' %}
+{% for post in sortedPosts %}
   {
     "text": "{{post.title | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{post.url}}"
