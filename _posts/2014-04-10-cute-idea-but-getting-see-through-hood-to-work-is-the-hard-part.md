@@ -16,13 +16,13 @@ layout: post
 guid: http://www.blairmacintyre.me/?p=666
 ---
 
-{% capture ca-cite %}{% reference hill2011virtual  %}{% endcapture %}
 I saw a nice concept over on Mashable in this article, [Land Rover's 'See-Through' Hood Shows the Road Under Your Wheels](http://mashable.com/2014/04/09/land-rovers-see-through-hood-shows-the-road-under-your-wheels/).  Here's the video (which is the key part):
 
 {% youtubes 1OlqditIsoM %}
 
 As with most of these concept mock-ups (yes, this is a mockup), the slickness of the video hides some serious technical challenges.  In particular, since the center-of-projection of the camera is no where near the driver's eye, the video of the road would be _very_ difficult to blend so seamlessly with the drivers view of the road.
 
+{% capture ca-cite %}{% reference hill2011virtual  %}{% endcapture %}
 We actually explored a very similar problem a number of years back, which we called _virtual transparency_ (we presented this as a poster at ISMAR 2011]{% sidenotevar "ismar2011" ca-cite %}).  The idea in our system was to use a wide field-of-view (fisheye, in our case) camera on the back of a tablet or phone, and then track the user's head relative to the phone.  By tracking the head, we can extract a sub-rectangle of the image to display that approximates what the user would be seeing if they were looking through the screen of the device.  The effect worked pretty well.  If you moved the device left or right, the subregion of the video moved in the opposite direction.  Move closer to the device and a wider view is seen; a smaller part of the video is seen if you move your head away from the phone.  And if the user tilted the phone left or right, we'd show an appropriately distorted view.  Here's a video of the system in action:
 
 {% youtubes vj2CvgeZD3M %}
