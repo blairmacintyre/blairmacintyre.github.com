@@ -10,11 +10,12 @@ tags:
 - real-world wide web
 id: 26
 author: blair
+exceprt: 'As I sit in the ISMAR  panelon "the future of AR", I''m reminded of work I did with Rob Kooper (a former student in my lab) back around 2000, on the "Real-world wide web"'
 layout: post
 ---
 
 {% capture ca-cite %}{% reference kooper2003browsing %}{% endcapture %}
-As I sit in the ISMAR panel on "the future of AR", I'm reminded of work I did with Rob Kooper (a former student in my lab) back around 2000, on the "Real-world wide web"{% sidenotevar "chang-ungar" ca-cite %}.
+As I sit in the ISMAR  panelon "the future of AR", I'm reminded of work I did with Rob Kooper (a former student in my lab) back around 2000, on the "Real-world wide web"{% sidenotevar "chang-ungar" ca-cite %}.
 
 The idea behind the real-world wide web (admittedly, not a great name) is to create a wearable AR interface to the web;  the fundamental assumption on which it is based was that you could author and query information based on location, not just content.  In that work, we brought up a lot of issues that would need to be addressed to make such an interface work, to make it safe and to make authoring and query practical.
 
