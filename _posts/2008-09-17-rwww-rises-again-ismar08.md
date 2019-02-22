@@ -15,6 +15,7 @@ excerpt: As I sit in the ISMAR  panelon "the future of AR", I'm reminded of work
   wide web"
 layout: post
 ---
+
 As I sit in the ISMAR  panelon "the future of AR", I'm reminded of work I did with Rob Kooper (a former student in my lab) back around 2000, on the "Real-world wide web".
 
 The idea behind the real-world wide web (admittedly, not a great name) is to create a wearable AR interface to the web;  
