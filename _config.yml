@@ -22,6 +22,7 @@ defaults:
     type: posts
   values:
     comments: true
+    layout: "post"
 - scope:
     path: ''
     type: articles
