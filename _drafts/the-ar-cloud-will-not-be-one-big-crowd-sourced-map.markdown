@@ -44,7 +44,7 @@ My preferred way of thinking about global localization is to combine a few eleme
 - _the ability for people to share local maps_ with others on-demand (with or without linking them to the full map) to facilitate local co-located experiences
 
 Most of the so-called AR Cloud mapping solutions being developed will work quite well to create private data clouds for individuals. When my collection of local maps is linked to the global map, I can localize globally within my map;  I can know it's geoposition and geoorientation precisely.  
-
+ 
 {% newthought "Hololens and ML1"%} (the two major AR HMD's right now) both create and save representations of spaces they are used in; ARKit allows maps to be shared and re-used;  Google's Cloud Anchors support local maps.   Of of these create spaces without leveraging global localization, for now.  But it's pretty easy to see that if the underlying platform could globally precisely localize itself (globally) while in a public space, it would be relatively easy to set up a relationship between global and local coordinate frames, and thus know the precise global pose of the device when _inside a map that's been global localized_.
 
 Clearly, this approach isn't as sexy as "The One True Map", and has some limitations right now, when most AR is smart-phone-based and (thus) ephemeral. On a phone, I'm unlikely to be "doing AR continuously" as I walk from the street, through a building and up to my office, so the private AR map in my office or lab is unlikely to be linked to the global map.  
