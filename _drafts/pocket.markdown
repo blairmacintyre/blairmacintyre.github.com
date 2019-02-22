@@ -9,4 +9,4 @@ author: blair
 layout: post
 ---
 
-I often think about how much I like Pocket; today it suggested this story about how the fastest path to happiness is being grateful. Silly, but true. So, let me say I'm grateful for Pocket. https://dariusforoux.com/the-quickest-hack-to-happiness/
+I often think about how much I like Pocket; today it suggested this story about how [the fastest path to happiness is being grateful](https://dariusforoux.com/the-quickest-hack-to-happiness/). Silly, but true. So, let me say I'm grateful for Pocket. 
