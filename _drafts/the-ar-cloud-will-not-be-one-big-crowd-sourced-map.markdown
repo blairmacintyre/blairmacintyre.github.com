@@ -47,5 +47,3 @@ Consider Google's [Global Localization that I talked about previous](), which ta
 Relying on such an approach has some very nice properties. The base data (geolocated images) is visible and human understandable. It's relatively obvious what data is used and existing processes (and policies and social norms) are in place to deal with conflicts over content in the images.  Rather than throwing up our hands on privacy, saying "no small company can compete, so we need to crowdsource our own private data in an uncontrolled, careless and haphazard manner", and storing this data in private, opaque, non-decomposable, formats, perhaps we should step back and ask how the open web could accomplish something similar?
 
 Consider [OpenStreetMap]()'s nascent effort to add panoramic images to its street data. If we take the long view, it should be possible to enhance something like OSM to include the data needed for global localization.  The properties of OSM are even better than Google's StreetView.  New data can be added, old data deleted or edited, by anyone who cares to do it, allowing problems to be fixed on the ground by motivated parties.  
-
-
