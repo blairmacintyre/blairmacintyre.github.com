@@ -16,7 +16,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-    permalink: "/assets/uploads/:year/:month/:day/:title/" # replace "images" with the name of your choice
+    permalink: "/assets/uploads/:year/:month/:day/:title/"
 defaults:
 - scope:
     path: ''
