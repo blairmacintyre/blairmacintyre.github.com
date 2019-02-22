@@ -15,7 +15,6 @@ layout: post
 guid: http://www.blairmacintyre.me/?p=635
 ---
 
-{% capture ca-cite %}{% reference macintyre2013walled %}{% endcapture %}
 Last week I gave a couple of talks about the challenges and opportunities that arise when using web technologies to create augmented reality experiences.  (This was the same talk I mentioned in a [previous post](http://www.blairmacintyre.me/2014/03/29/a-spectrum-of-web-technology-uses-for-ar/).)  As I was preparing the talks, I found myself creating a slide imploring the audience to stop focusing on technology features (i.e., incrementally better tracking, getting-better-but-still-not-usable see-through head-worn displays) and start considering the big picture of what it will take for AR to move from being a niche technology to more widely used.  Here's the slide, pulled out of the context of the talk (so please don't critique it in isolation), with two points highlighted in bold:
 
 {% maincolumn assets/uploads/2014/04/ar-web-programming.001.jpg "A slide suggesting some things holding AR back." %}
