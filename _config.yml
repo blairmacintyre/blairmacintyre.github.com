@@ -16,6 +16,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+    permalink: "/images/:path" # replace "images" with the name of your choice
+
 defaults:
 - scope:
     path: ''
