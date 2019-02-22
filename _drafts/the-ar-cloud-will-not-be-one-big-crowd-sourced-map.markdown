@@ -5,13 +5,13 @@ categories:
 - musings
 - commercial
 tags:
-- ar cloud
+- arcloud
 - crowdsourced
 - permissions
 - privacy
 ---
 
-My friend [Trevor](https://trevor.smith.name/) started twitter thread on architectural alternatives to "One Big Map" for the so-called "AR Cloud", it's an interesting read:
+My friend [Trevor](https://trevor.smith.name/) started twitter thread on architectural alternatives to "One Big Map" for the so-called "AR Cloud", it's an interesting read: 
 
 {% twitter https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
 
