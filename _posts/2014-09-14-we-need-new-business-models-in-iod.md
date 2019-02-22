@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_posts/2014-09-14-we-need-new-business-models-in-iod.md
 title: We Need New Business Models in IoD
 date: 2014-09-14 16:55:15 -04:00
 permalink: "/2014/09/14/we-need-new-business-models-in-iod/"
@@ -13,6 +14,8 @@ id: 720
 author: blair
 layout: post
 guid: http://blairmacintyre.me/?p=720
+=======
+>>>>>>> 9180871364c1934a5667181643909c3cf23a20be:_posts/we-need-new-business-models-in-iod.md
 ---
 
 Today, I gave a talk at the Ubiquitous Computing conference’s [Workshop on Usable Privacy & Security for wearable and domestic ubIquitous DEvices (UPSIDE)](http://appanalysis.org/upside/), modestly titled "_Augmented Reality + Internet of Devices + Big Data: The End of Privacy?_”
