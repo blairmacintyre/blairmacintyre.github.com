@@ -1,14 +1,14 @@
 ---
-id: 422
 title: 'Game Education:  Lipstick on a Pig?'
-date: 2010-01-15T07:43:41+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=138
-permalink: /2010/01/15/game-education-lipstick-on-a-pig/
+date: 2010-01-15 02:43:41 -05:00
+permalink: "/2010/01/15/game-education-lipstick-on-a-pig/"
 categories:
 - education
 - musings
+id: 422
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=138
 ---
 
 I was just reading Mike Zyda's article in the December [CACM](http://cacm.acm.org/) on games and computer science education.  It discusses the technical game education program they've created at USC in the CS department, and gives a nice overview of why they are doing things the way they are.  Seems like a reasonable degree.

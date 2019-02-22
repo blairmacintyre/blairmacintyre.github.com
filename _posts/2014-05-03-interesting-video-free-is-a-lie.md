@@ -1,17 +1,17 @@
 ---
-id: 708
 title: 'Interesting Video:  Free is a Lie'
-date: 2014-05-03T13:20:10+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=708
-permalink: /2014/05/03/interesting-video-free-is-a-lie/
+date: 2014-05-03 09:20:10 -04:00
+permalink: "/2014/05/03/interesting-video-free-is-a-lie/"
 categories:
 - privacy
 tags:
 - design thinking
 - freedom
 - privacy
+id: 708
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=708
 ---
 
 Lance Weatherby posted a link to this video on [his blog](http://blog.weatherby.net/2014/05/free-is-a-lie.html), and I agree with him that it's interesting and worth watching.

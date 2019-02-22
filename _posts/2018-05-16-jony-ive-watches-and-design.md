@@ -1,17 +1,18 @@
 ---
-title: 'Jony Ive, Watches and Web Stats'
-date: '2018-05-16T09:58:00-05:00'
+title: Jony Ive, Watches and Web Stats
+date: 2018-05-16 10:58:00 -04:00
+permalink: 2018/05/16/ive-watch-design
+categories:
+- personal
+- musings
+tags:
+- apple
+- watches
+- design
 author: blair
 layout: post
-categories:
-  - personal
-  - musings
-tags:
-  - apple
-  - watches
-  - design
-permalink: 2018/05/16/ive-watch-design
 ---
+
 {% marginnote "ive" "And by \"ran across\" I mean a friend sent it to me.  I hadn't heard of HODINKEE, but it describes itself as \"a robust online magazine featuring in-depth reviews, critiques, and reports on watches of a particularly high quality.\"  I have an affection for mechanical watches, so I'm surprised I hadn't noticed this before." %} I ran across [an article in Hodinkee](https://www.hodinkee.com/magazine/jony-ive-apple) featuing an interview with Jony Ive on Apple, watches and design.  
 
 The article is a fun read if you're interested in technology, design and Apple in particular.

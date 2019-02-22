@@ -1,17 +1,18 @@
 ---
 title: 'Overwhelmed by a deluge of GDPR-inspired privacy notices '
-date: '2018-05-12T07:38:43-04:00'
+date: 2018-05-12 07:38:43 -04:00
+permalink: 2018/05/12/gdpr-privacy-notices
+categories:
+- privacy
+tags:
+- gdpr
+- privacy
+- google
+- kickstarter
 author: blair
 layout: post
-categories:
-  - privacy
-tags:
-  - gdpr
-  - privacy
-  - google
-  - kickstarter
-permalink: 2018/05/12/gdpr-privacy-notices
 ---
+
 I'm a big fan of the EU's strict electronic privacy laws, and while I haven't read the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) in detail, it's good that at least one of the major political entities in the world is trying to codify strong protections for the rights and dignity of individuals.  
 
 {% marginnote "bad" "Contrast this to here in the US, where business has much more freedom to do what they want and little worry about penalties when things go wrong, as evidenced by scant punishment or negative effects of data breaches (even massive ones like [Equifax's careless handling of our data](https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)) or outright abuse of people's trust (such as [Facebook happily sharing all your info in ways a normal person wouldn't expect, and asserting it wasn't their fault partner companies didn't do the right thing](https://www.consumer.ftc.gov/blog/2017/09/equifax-data-breach-what-do)).  Even worse, contrast it to [China's Social Credit System](https://www.cbsnews.com/news/china-social-credit-system-surveillance-cameras/), a real-world manifestation of the dystopian ideas behind so much science fiction (from an episode of [Black Mirror](https://www.fastcompany.com/40563225/chinas-terrifying-social-credit-surveillance-system-is-expanding) to uncountable numbers of novels and movies)."%}

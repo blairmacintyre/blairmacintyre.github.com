@@ -1,15 +1,16 @@
 ---
 title: 'Another ARCloud Player: Fantasmo '
-date: '2018-05-09T12:47:21-04:00'
+date: 2018-05-09 12:47:21 -04:00
+permalink: 2018/05/09/fantasmo-arcloud
+categories:
+- commercial
+- privacy
+tags:
+- arcloud
 author: blair
 layout: post
-categories:
-  - commercial
-  - privacy
-tags:
-  - arcloud
-permalink: 2018/05/09/fantasmo-arcloud
 ---
+
 It's looking like ARCloud news is going to be coming faster and faster. {% marginnote "anecdote" "Funny story. Someone at &lt;big name company&gt; told me a story where they asked one of these ARCloud companies how they planned to comply with [GDPR](https://www.eugdpr.org/).  Their response: what's GDPR?" %}[Fantasmo](https://techcrunch.com/2018/05/09/fantasmo/) just came out of stealth mode, and at least they (unlike many of the other ARCloud companies) are acknowledging that there is a need to not just crowd-source everything into one big model.
 
 From [their announcement](https://blog.fantasmo.io/the-planet-is-theplatform-dd2716b5e33d):

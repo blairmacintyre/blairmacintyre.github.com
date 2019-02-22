@@ -1,17 +1,17 @@
 ---
-id: 424
-title: '&#8220;Jigsaw Live:  AR Puzzle&#8221; &#8230; let the silly AR apps continue'
-date: 2010-05-01T13:05:56+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=142
-permalink: /2010/05/01/jigsaw-live-ar-puzzle-let-the-silly-ar-apps-continue/
+title: "&#8220;Jigsaw Live:  AR Puzzle&#8221; &#8230; let the silly AR apps continue"
+date: 2010-05-01 09:05:56 -04:00
+permalink: "/2010/05/01/jigsaw-live-ar-puzzle-let-the-silly-ar-apps-continue/"
 categories:
 - commercial
 tags:
 - iphone
 - puzzle
 - video
+id: 424
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=142
 ---
 
 I was looking at the video of [this app](http://www.xmgstudio.com/?page_id=792), "Jigsaw Live," as I look at most potentially interesting AR apps.  On the surface, it sounds interesting:  " an AR jigsaw puzzle."   I've been interested in making AR jigsaw puzzles for a while (heck, I even went to the extreme of sending mail to my favorite puzzle company, [Stave](http://www.stavepuzzles.com/), to see if I could interest them, to no avail).  But, to me, the concept is about augmenting a puzzle.

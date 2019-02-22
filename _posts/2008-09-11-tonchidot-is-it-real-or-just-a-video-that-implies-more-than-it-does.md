@@ -1,16 +1,16 @@
 ---
-id: 14
 title: 'Tonchidot:  is it real, or just a video that implies more than it does?'
-date: 2008-09-11T18:36:16+00:00
-author: blair
-layout: post
-permalink: /2008/09/11/tonchidot-is-it-real-or-just-a-video-that-implies-more-than-it-does/
+date: 2008-09-11 14:36:16 -04:00
+permalink: "/2008/09/11/tonchidot-is-it-real-or-just-a-video-that-implies-more-than-it-does/"
 categories:
 - commercial
 tags:
 - geotagging
 - iphone
 - prototype
+id: 14
+author: blair
+layout: post
 ---
 
 While popping into Ori's blog, I say this post: [Unveiling Tonchidot: A Cool Parallel World - on the iPhone](http://gamesalfresco.com/2008/09/10/unveiling-tonchidot-a-cool-parallel-world-on-the-iphone/)

@@ -1,17 +1,18 @@
 ---
 title: Variant 4 of the Meltdown-Spectre Processor Flaws Revealed
-date: '2018-05-22T09:53:31-04:00'
+date: 2018-05-22 09:53:31 -04:00
+permalink: 2018/05/22/variant-4
+categories:
+- commercial
+- privacy
+tags:
+- spectre
+- meltdown
+- intel
 author: blair
 layout: post
-categories:
-  - commercial
-  - privacy
-tags:
-  - spectre
-  - meltdown
-  - intel
-permalink: 2018/05/22/variant-4
 ---
+
 And the CPU bug revelations continue to be found: a fourth variation of the Meltdown-Spectre security flaws has been reveal, and is referred to as _speculative store bypass_. 
 
 Essentially, if the CPU speculatively fetches some memory into the cache as part of trying to execute an out-of-order instruction, and then decides to abandon it because the memory might be wrong (i.e., due to a pending write), the old memory values are left in the cache, and can possibly be read.

@@ -1,16 +1,16 @@
 ---
-id: 98
-title: 'USPS uses AR for &#8230; real?'
-date: 2009-05-26T19:25:20+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=98
-permalink: /2009/05/26/usps-uses-ar-for-real/
+title: USPS uses AR for &#8230; real?
+date: 2009-05-26 15:25:20 -04:00
+permalink: "/2009/05/26/usps-uses-ar-for-real/"
 categories:
 - commercial
 tags:
 - useful
 - usps
+id: 98
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=98
 ---
 
 Ok, this is cute.  I wish I thought of it.  A use of FLAR (Flash AR) for something ... almost useful?  And, most ironic of all, it's by the US Postal Service!  I'm almost giddy, just a simple web page at www.prioritymail.com/simulator.asp.

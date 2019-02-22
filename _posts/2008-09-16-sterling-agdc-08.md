@@ -1,16 +1,16 @@
 ---
-id: 24
 title: Bruce Sterling pushes AR games at Austin GDC Keynote
-date: 2008-09-16T15:28:27+00:00
-author: blair
-layout: post
-permalink: /2008/09/16/sterling-agdc-08/
+date: 2008-09-16 11:28:27 -04:00
+permalink: "/2008/09/16/sterling-agdc-08/"
 categories:
 - games
 - gdc
 tags:
 - gdc
 - sterling
+id: 24
+author: blair
+layout: post
 ---
 
 In his keynote at AGDC, Bruce Sterling pushed the idea that in the future, [all games will be AR games](http://www.gamasutra.com/php-bin/news_index.php?story=20267).  His premise of coming back from the future as a student sent by his older self, to talk about the industry in 2043 (35 years from now) is a bit trite, but how can I argue with the observation that

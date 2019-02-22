@@ -1,11 +1,7 @@
 ---
-id: 80
 title: Dr. Blair goes to GDC
-date: 2009-03-26T08:54:30+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=80
-permalink: /2009/03/26/dr-blair-goes-to-gdc/
+date: 2009-03-26 04:54:30 -04:00
+permalink: "/2009/03/26/dr-blair-goes-to-gdc/"
 categories:
 - demos
 tags:
@@ -13,6 +9,10 @@ tags:
 - zombies
 - games
 - gdc
+id: 80
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=80
 ---
 
 Ok, I've tried to avoid focusing on my own work here, but it's been a fun week at GDC 2009 so far (the Game Developer's Conference).  I gave a talk on Handheld AR Games on Monday at the GDC Mobile Summit (Ori [wrote about that](http://gamesalfresco.com/2009/03/24/gdc-2009-i-have-seen-the-future-of-games-and-i-wasnt-alone/)), and met a lot of interesting people after it.  There is clearly a growing understanding that AR is going to be a significant feature in the landscape of mobile AR, which is really exciting!

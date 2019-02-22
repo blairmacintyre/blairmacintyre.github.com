@@ -1,16 +1,16 @@
 ---
-id: 30
 title: Hoping to avoid the hype bubble!
-date: 2008-09-26T06:16:50+00:00
-author: blair
-layout: post
-permalink: /2008/09/26/hoping-to-avoid-the-hype-bubble/
-dsq_thread_id:
-  - 4525158614
+date: 2008-09-26 02:16:50 -04:00
+permalink: "/2008/09/26/hoping-to-avoid-the-hype-bubble/"
 categories:
 - personal
 tags:
 - hype
+id: 30
+author: blair
+layout: post
+dsq_thread_id:
+- 4525158614
 ---
 
 Lately, there have been a lot of folks getting into the "AR excitement", especially with the iPhone SDK becoming available (i.e., all kinds of folks _have_ to have an AR demo on the iPhone, even though the camera sucks and you can't even distribute an app that uses video legally because the SDK doesn't support it and it's not "legal" to reverse engineer unsupported APIs).  "Sekai Camera" has gotten a ton of press, for example.  As did "Enkin" before that (a mockup of an Android app on a mac, pre-Android phone release).  Various companies have "point and know" kinds of technology, where the pitch is "using GPS and orientation information, combined with our vast wonderful backend database, you can point your phone at things and learn what they are."

@@ -1,16 +1,17 @@
 ---
-title: 'Bespoke Social XR is getting closer, Mozilla Hubs points the way'
-date: '2018-04-26T10:10:00-04:00'
+title: Bespoke Social XR is getting closer, Mozilla Hubs points the way
+date: 2018-04-26 10:10:00 -04:00
+permalink: 2018/04/26/bespoke-social-xr
+categories:
+- webxr, commercial, research, education
+tags:
+- mozilla
+- hubs
+- social
 author: blair
 layout: post
-categories:
-  - 'webxr, commercial, research, education'
-tags:
-  - mozilla
-  - hubs
-  - social
-permalink: 2018/04/26/bespoke-social-xr
 ---
+
 The MR team I'm part of at Mozilla finally [released it's first social product](https://blog.mozvr.com/introducing-hubs-a-new-way-to-get-together-online/), the beta of [Mozilla Hubs](http://hubs.mozilla.com/).  Needless to say, we're all pretty excited!
 
 {% twitter https://twitter.com/mozillareality/status/989494878110453760 %} 

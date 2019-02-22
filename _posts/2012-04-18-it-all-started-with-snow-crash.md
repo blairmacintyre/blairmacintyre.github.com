@@ -1,11 +1,7 @@
 ---
-id: 430
-title: 'It all started with Snow Crash &#8230;'
-date: 2012-04-18T10:41:22+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=196
-permalink: /2012/04/18/it-all-started-with-snow-crash/
+title: It all started with Snow Crash &#8230;
+date: 2012-04-18 06:41:22 -04:00
+permalink: "/2012/04/18/it-all-started-with-snow-crash/"
 categories:
 - commercial
 - musings
@@ -13,6 +9,10 @@ tags:
 - experiences
 - games
 - valve
+id: 430
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=196
 ---
 
 Ok, I know I'm either going to love or hate a blog post about an internal research project on mobile AR, when the first line is

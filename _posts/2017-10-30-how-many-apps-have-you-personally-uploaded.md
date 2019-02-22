@@ -1,15 +1,16 @@
 ---
 title: How many apps have you personally uploaded?
-date: 2017-10-30T20:17:28.180Z
+date: 2017-10-30 16:17:28.180000000 -04:00
+categories:
+- personal
+tags:
+- webar
+- apps
+- ios
 author: blair
 layout: post
-categories:
-  - personal
-tags:
-  - webar
-  - apps
-  - ios
 ---
+
 {% marginnote "webxr-ios" "The source for the app, our WebXR Viewer, is [open on github, let me know if you see any issues](http://github.com/mozilla-mobile/webxr-ios)." %} I tweeted a complaint that Apple was taking too long (two weeks and counting!) to approve an app I'd submitted, and a friend replied:
 
 {% twitter https://twitter.com/Frank_McG/status/924960741991395329 %}

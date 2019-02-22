@@ -1,11 +1,12 @@
 ---
-layout: full-width
-permalink: /articles/
 title: Articles
+permalink: "/articles/"
+layout: full-width
 headmenu: Articles
 nav_exclude: true
 description: Longer articles than might be appropriate for the blog.
 ---
+
 Coming soon:  longer articles independent of my blog.
 
 <!--

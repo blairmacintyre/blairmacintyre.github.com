@@ -1,17 +1,17 @@
 ---
-id: 703
 title: 'Aside:  Reforming Money in Politics'
-date: 2014-05-01T12:52:32+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=703
-permalink: /2014/05/01/aside-reforming-money-in-politics/
+date: 2014-05-01 08:52:32 -04:00
+permalink: "/2014/05/01/aside-reforming-money-in-politics/"
 categories:
 - personal
 tags:
 - lessig
 - mayday
 - political
+id: 703
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=703
 ---
 
 _[For those who don't agree with campaign, please forgive me posting this in my blog;  I prefer to focus here on technology and design issues.  However, I believe strongly in this issue and want to help spread the word!]_

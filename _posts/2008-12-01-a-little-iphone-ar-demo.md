@@ -1,16 +1,16 @@
 ---
-id: 49
 title: a little iPhone AR demo
-date: 2008-12-01T06:47:38+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=49
-permalink: /2008/12/01/a-little-iphone-ar-demo/
-pcategories:
-- demos
+date: 2008-12-01 01:47:38 -05:00
+permalink: "/2008/12/01/a-little-iphone-ar-demo/"
 tags:
 - iphone
 - virtual pet
+id: 49
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=49
+pcategories:
+- demos
 ---
 
 First, in the spirit of full disclosure, I will point out that one of the students in my lab built this demo.  So, I'm obviously biased.  

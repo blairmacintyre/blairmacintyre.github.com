@@ -1,11 +1,7 @@
 ---
-id: 425
 title: How will people play augmented board or card games?
-date: 2010-05-01T18:24:39+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=144
-permalink: /2010/05/01/how-will-people-play-augmented-board-or-card-games/
+date: 2010-05-01 14:24:39 -04:00
+permalink: "/2010/05/01/how-will-people-play-augmented-board-or-card-games/"
 categories:
 - games
 - musings
@@ -14,6 +10,10 @@ tags:
 - board games
 - card games
 - play
+id: 425
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=144
 ---
 
 I've been thinking about board games and card games recently (ok, I've been thinking about them for years, but over the past few days, I've been thinking about them more than I have all semester).  Part of the motivation I have for creating "AR board games" (AR games that combine computer games and board/card games) is to recreate the social play experience of these games.  The experience I imagine is that of sitting around a table, playing a game with friends, where you are looking at each other and playing in the same physical space.  These experiences seem qualitatively different than the experience of multiplayer computer/console games, even games on the Wii.

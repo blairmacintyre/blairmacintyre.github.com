@@ -1,16 +1,16 @@
 ---
-id: 61
-title: 'AR is about to break wide open, and it&#8217;s not because of handhelds'
-date: 2009-02-01T12:00:59+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=61
-permalink: /2009/02/01/ar-is-about-to-break-wide-open-and-its-not-because-of-handhelds/
+title: AR is about to break wide open, and it&#8217;s not because of handhelds
+date: 2009-02-01 07:00:59 -05:00
+permalink: "/2009/02/01/ar-is-about-to-break-wide-open-and-its-not-because-of-handhelds/"
 categories:
 - art
 - demos
 tags:
 - flartoolkit
+id: 61
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=61
 ---
 
 I'm a big proponent of handheld augmented reality;  I think that AR is going to be a key technology and conceptual framework for mobile applications.  After all, many of the things we imagine doing on mobile devices relate to the world we are moving through, so AR seems a natural fit.  When practical headmounts finally arrive, things will only become more compelling.

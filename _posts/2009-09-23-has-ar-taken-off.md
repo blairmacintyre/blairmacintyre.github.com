@@ -1,11 +1,7 @@
 ---
-id: 104
-title: 'Has AR taken off?  Is it finally here?'
-date: 2009-09-23T20:28:38+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=104
-permalink: /2009/09/23/has-ar-taken-off/
+title: Has AR taken off?  Is it finally here?
+date: 2009-09-23 16:28:38 -04:00
+permalink: "/2009/09/23/has-ar-taken-off/"
 categories:
 - commercial
 - personal
@@ -14,6 +10,10 @@ tags:
 - android
 - iphone
 - yelp
+id: 104
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=104
 ---
 
 Looking back over the summer, it's almost comical to re-read the sometimes-frenzied excitement at the possibility that the [iPhone will support AR](http://gamesalfresco.com/2009/07/14/has-augmented-reality-arrived-to-the-iphone/) with OS 3.1.  The possibility was exciting, even to those of us not trying to keep a small company afloat;  the idea that there would finally be a platform that would let us get our ideas, games and products to millions of eager customers was an unfamiliar feeling for those of us who have been doing AR for a (very long) while. And for the dozen or so small AR companies, surviving on contract work for movies web sites and eye-candy web advertising, it must have been intoxicating.

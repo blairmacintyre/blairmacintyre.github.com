@@ -1,11 +1,7 @@
 ---
-id: 433
 title: Could the Achilles Heel of Project Glass be the Camera?
-date: 2012-09-17T09:39:14+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=213
-permalink: /2012/09/17/the-achilles-heel-of-project-glass-the-camera/
+date: 2012-09-17 05:39:14 -04:00
+permalink: "/2012/09/17/the-achilles-heel-of-project-glass-the-camera/"
 categories:
 - commercial
 tags:
@@ -13,6 +9,10 @@ tags:
 - camera
 - Glass
 - privacy
+id: 433
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=213
 ---
 
 I've been contemplating Project Glass recently, imagining what the user experience of wearing one might be.  While I'm increasingly looking forward to trying one out, one problem that keeps coming to mind is the social acceptability of walking around with a camera pointing at everything I look at.   The more I ponder it, the more concerned I am that if Google isn't careful, Project Glass may crash and burn, and set back public acceptance of head-worn displays quite a bit, because of that darn camera.

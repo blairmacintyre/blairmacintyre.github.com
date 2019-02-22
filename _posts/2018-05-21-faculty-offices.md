@@ -1,16 +1,17 @@
 ---
 title: Faculty Offices
-date: '2018-05-21T10:06:36-04:00'
+date: 2018-05-21 10:06:36 -04:00
+permalink: 2018/05/21/faculty-offices
+categories:
+- personal
+tags:
+- offices
+- space
+- academy
 author: blair
 layout: post
-categories:
-  - personal
-tags:
-  - offices
-  - space
-  - academy
-permalink: 2018/05/21/faculty-offices
 ---
+
 Ah, the third rail of the academy: space.
 
 An [article in the Chronicle of Higher Ed](https://www.chronicle.com/article/Does-the-Faculty-Office-Have-a/243305) talked about the changing attitudes toward faculty offices ... well, at least the changing attitudes (and hopes) of the administration.  I suspect most faculty (at least the ones I know) haven't changed their opinion of the need for offices, they would like to keep them.  

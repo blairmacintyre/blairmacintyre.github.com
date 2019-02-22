@@ -1,16 +1,17 @@
 ---
-title: 'Twitch, Youtube, Video and Photogrammetry'
-date: '2018-04-27T17:32:15-04:00'
+title: Twitch, Youtube, Video and Photogrammetry
+date: 2018-04-27 17:32:15 -04:00
+permalink: 2018/04/27/photogrammetry-twitch-youtube
+categories:
+- personal
+- musings
+tags:
+- Photogrammetry
+- video
 author: blair
 layout: post-full-width
-categories:
-  - personal
-  - musings
-tags:
-  - Photogrammetry
-  - video
-permalink: 2018/04/27/photogrammetry-twitch-youtube
 ---
+
  Every now and again, I run across cool things people do with [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry); todays example is this real-time demo that leverages ARKit on an iPhone
 
 {% twitter https://mobile.twitter.com/nobbis/status/972298968574013440 %}

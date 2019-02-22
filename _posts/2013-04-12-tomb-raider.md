@@ -1,17 +1,17 @@
 ---
-id: 148
 title: 'Tomb Raider:  Pleasantly Surprised!'
-date: 2013-04-12T07:15:59+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.com/?p=148
-permalink: /2013/04/12/tomb-raider/
+date: 2013-04-12 03:15:59 -04:00
+permalink: "/2013/04/12/tomb-raider/"
 categories:
 - personal
 tags:
 - games
 - tomb raider
 - xbox
+id: 148
+author: blair
+layout: post
+guid: http://www.blairmacintyre.com/?p=148
 ---
 
 I don't get a lot of time to play "big" games;  sometimes it feels like the only time I can find the time to play these games is late at night when my wife is traveling on business (post "spend the evening with kids, then put in the usual few more hours of work").   As my students are tired of me saying, I almost never finish big AAA games (I've finished 2 in recent memory, both during the brief time I tried to play games on the XBox360 while riding an exercise bike).  It's just too hard to justify the time.

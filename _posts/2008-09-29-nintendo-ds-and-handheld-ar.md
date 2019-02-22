@@ -1,17 +1,17 @@
 ---
-id: 32
 title: Nintendo DS and handheld AR?
-date: 2008-09-29T08:24:14+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=32
-permalink: /2008/09/29/nintendo-ds-and-handheld-ar/
+date: 2008-09-29 04:24:14 -04:00
+permalink: "/2008/09/29/nintendo-ds-and-handheld-ar/"
 categories:
 - commercial
 - games
 tags:
 - handheld ar
 - nintendo
+id: 32
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=32
 ---
 
 Over on [Wired](http://blog.wired.com/games/2008/09/nikkei-new-nint.html) there is an article about a new Nintendo DS possibly having a camera and other support for creating AR games. Ori also [comments](http://gamesalfresco.com/2008/09/28/nintendo-ds-wants-to-augmented-your-reality/) on this.

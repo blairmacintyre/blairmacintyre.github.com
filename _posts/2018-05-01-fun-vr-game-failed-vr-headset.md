@@ -1,16 +1,17 @@
 ---
 title: 'Fun VR Game, Failed VR Headset '
-date: '2018-05-01T21:23:08-04:00'
+date: 2018-05-01 21:23:08 -04:00
+permalink: 2018/05/01/beat-saber-windows-mr-fail
+categories:
+- commercial
+- games
+tags:
+- beat saber
+- windows mr
 author: blair
 layout: post
-categories:
-  - commercial
-  - games
-tags:
-  - beat saber
-  - windows mr
-permalink: 2018/05/01/beat-saber-windows-mr-fail
 ---
+
 I've been waiting for [Beat Saber](http://www.beatsaber.com/) to drop on Steam ever since it was announced.  The promo video looked awesome!
 
 {% youtube 3rIjcRK_BNU %}

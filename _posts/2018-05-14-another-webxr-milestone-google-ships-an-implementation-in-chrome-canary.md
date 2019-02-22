@@ -1,16 +1,17 @@
 ---
 title: 'Another WebXR Milestone:  Google Ships an Implementation in Chrome Canary '
-date: '2018-05-14T13:43:50-05:00'
+date: 2018-05-14 14:43:50 -04:00
+permalink: 2018/05/14/-canary-webxr
+categories:
+- webxr
+tags:
+- chrome
+- canery
+- webxr
 author: blair
 layout: post
-categories:
-  - webxr
-tags:
-  - chrome
-  - canery
-  - webxr
-permalink: 2018/05/14/-canary-webxr
 ---
+
 It's exciting to see us cross another threshold on the way to pervasive Web-based AR/VR:  last week at Google IO, Google [released an experimental version of WebXR in Chrome](https://developers.google.com/web/updates/2018/05/welcome-to-immersive).
 
 For me, this has been a long time coming. My research group at Georgia Tech started working on web-based AR browsers when we started the [Argon Project](http://argon.gatech.edu) back in 2009, and we're now on the fourth version of the browser on iOS and Android (including having a pretty nice [open source AR framework called argon.js](https://argonjs.io)). WebVR started more than three years ago, with implementations available now in most major browsers. Last year, Trevor Smith and I [proposed some initial ideas for a WebXR API](https://github.com/mozilla/webxr-api)  that supported both AR and VR, and implemented it in an [experimental web framework](https://mozilla/webxr-polyfill) and browser for iOS (the [WebXR Viewer](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?mt=8)) that we and others are using to do Web-based AR experiements, and explore ideas for future capabilities for WebXR.

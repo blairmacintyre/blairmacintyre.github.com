@@ -1,15 +1,15 @@
 ---
-id: 647
-title: 'POI&#8217;s are Pointless'
-date: 2014-04-02T21:46:24+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=647
-permalink: /2014/04/02/pois-are-pointless/
+title: POI&#8217;s are Pointless
+date: 2014-04-02 17:46:24 -04:00
+permalink: "/2014/04/02/pois-are-pointless/"
 categories:
 - musings
 tags:
 - POI
+id: 647
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=647
 ---
 
 I was reminded today about something thats been bugging me for a while:  POIs, as a central data element for AR, are terrible.  (They have their place, of course, but I'm thinking about them as the "main" data type in an AR experience).

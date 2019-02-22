@@ -1,17 +1,18 @@
 ---
 title: Food Blogs and the Future of MR on the Web
-date: 2018-01-18T19:01:52.291Z
+date: 2018-01-18 14:01:52.291000000 -05:00
+categories:
+- webxr
+- musings
+tags:
+- photogrammetry
+- volumetric video
+- end-user content creation
+- blogging
 author: blair
 layout: post
-categories:
-  - webxr
-  - musings
-tags:
-  - photogrammetry
-  - volumetric video
-  - end-user content creation
-  - blogging
 ---
+
 {% marginfigure 'dl1' 'assets/uploads/davidlebovitz.png' "David Lebovitz's [Pasta recipe](https://www.davidlebovitz.com/how-to-make-fresh-pasta-homemade-recipe/)." %}
 Last year, I posted some musings on the question ["What is an MR Blog?"](/2017/11/14/what-is-an-mr-blog/). Perhaps this question would be better phrased as "what will the equivalent of the common blog be for MR content?", since "blog" is really just a placeholder for "non-trivial collection of content that lots of people can create and share". 
 

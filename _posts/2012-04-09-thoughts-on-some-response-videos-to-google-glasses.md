@@ -1,17 +1,17 @@
 ---
-id: 428
 title: Thoughts on some response videos to Google Glasses
-date: 2012-04-09T10:50:12+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=191
-permalink: /2012/04/09/thoughts-on-some-response-videos-to-google-glasses/
+date: 2012-04-09 06:50:12 -04:00
+permalink: "/2012/04/09/thoughts-on-some-response-videos-to-google-glasses/"
 categories:
 - commercial
 - musings
 tags:
 - google glasses
 - parody
+id: 428
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=191
 ---
 
 Almost immediately after posting their [video on the Glasses project](https://plus.google.com/u/0/111626127367496192147/posts), creative folks around the world began posting knock-off videos, expressing their thoughts on the projects through pictures rather than words.  Because of my [rather negative](http://ael.gatech.edu/blair/2012/04/05/185/) comments on the video, I've had a few people send me links to them.  I wanted to reply to a few here, since I think both of these videos (and ones like them) miss the point.

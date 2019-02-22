@@ -1,17 +1,18 @@
 ---
 title: How to Maximize the Value of an On-Campus Education?
-date: '2018-04-29T16:39:14-04:00'
+date: 2018-04-29 16:39:14 -04:00
+permalink: 2018/04/29/on-campus-education
+categories:
+- personal
+- musings
+- education
+tags:
+- online education
+- on-campus education
 author: blair
 layout: post
-categories:
-  - personal
-  - musings
-  - education
-tags:
-  - online education
-  - on-campus education
-permalink: 2018/04/29/on-campus-education
 ---
+
 If you enter the right keywords into your favorite search engine, you can read endless articles about distance education, on-campus (resident) education, online education, flipped classrooms, and other intertwined topics like state vs private vs for-profit schools, vocational vs liberal arts education, the costs of college, and on and on.
 
 Technology is making it easier to deliver online classes, and there are a lot of folks bullish about the possibilities as technology become cheaper and more pervasive. One of the reasons I'm excited about our recent [Mozilla Hubs release](https://hubs.mozilla.com) is my long-standing interest in using AR/VR for supporting education.

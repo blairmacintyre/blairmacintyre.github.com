@@ -1,16 +1,16 @@
 ---
-id: 420
 title: Aura Interactive launches SantaVision, an Augmented Reality Social Toy
-date: 2009-12-17T23:26:04+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=134
-permalink: /2009/12/17/aura-interactive-launches-santavision/
+date: 2009-12-17 18:26:04 -05:00
+permalink: "/2009/12/17/aura-interactive-launches-santavision/"
 categories:
 - commercial
 tags:
 - aura
 - santavision
+id: 420
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=134
 ---
 
 While I usually reserve this spot to comment on the AR stuff other folks are working on, I thought I'd take this opportunity to comment on something we just released.

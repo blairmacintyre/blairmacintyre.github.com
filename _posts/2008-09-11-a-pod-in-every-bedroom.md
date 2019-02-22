@@ -1,15 +1,15 @@
 ---
-id: 11
 title: A pod in every bedroom!
-date: 2008-09-11T18:17:25+00:00
-author: blair
-layout: post
-permalink: /2008/09/11/a-pod-in-every-bedroom/
+date: 2008-09-11 14:17:25 -04:00
+permalink: "/2008/09/11/a-pod-in-every-bedroom/"
 categories:
 - commercial
 tags:
 - hype
 - vr
+id: 11
+author: blair
+layout: post
 ---
 
 Ok, this isn't really focused on AR, but I'll get to that.  Check out the article on "[the cocoon](http://www.cnn.com/2008/TECH/09/11/immersive.cocoon/)" and ask yourself "why, why, please why?"

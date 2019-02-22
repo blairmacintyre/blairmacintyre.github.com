@@ -1,16 +1,16 @@
 ---
-id: 419
-title: 'Interesting article, interesting misquote &#8230;'
-date: 2009-11-03T22:14:22+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=125
-permalink: /2009/11/03/interesting-article-interesting-misquote/
+title: Interesting article, interesting misquote &#8230;
+date: 2009-11-03 17:14:22 -05:00
+permalink: "/2009/11/03/interesting-article-interesting-misquote/"
 categories:
 - musings
 tags:
 - aura
 - misquotes
+id: 419
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=125
 ---
 
 If I look at the misquote in [this article](http://www.digitaltrends.com/mobile/augmented-reality-state-of-the-art-vr-technology-today/), I'm struck by what a difference a small concept makes.

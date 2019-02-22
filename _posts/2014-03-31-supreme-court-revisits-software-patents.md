@@ -1,16 +1,16 @@
 ---
-id: 630
 title: 'Supreme Court Revisits the Question: Should software be patentable?'
-date: 2014-04-01T00:58:53+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=630
-permalink: /2014/04/01/supreme-court-revisits-software-patents/
+date: 2014-03-31 20:58:53 -04:00
+permalink: "/2014/04/01/supreme-court-revisits-software-patents/"
 categories:
 - commercial
 tags:
 - patents
 - software
+id: 630
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=630
 ---
 
 {% marginfigure "junk"1 "http://upload.wikimedia.org/wikipedia/commons/a/a5/TV_and_Computer_Monitor_Recycling_Pen_-_geograph.org.uk_-_1025508.jpg" "It's uses a computer, it must be patentable!" %}

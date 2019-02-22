@@ -1,16 +1,17 @@
 ---
-title: 'The Scientific Paper isn''t Dead, Sorry'
-date: '2018-05-21T06:53:19-04:00'
+title: The Scientific Paper isn't Dead, Sorry
+date: 2018-05-21 06:53:19 -04:00
+permalink: 2018/05/21/scientific-paper
+categories:
+- education
+- research
+tags:
+- paper
+- computational notebooks
 author: blair
 layout: post
-categories:
-  - education
-  - research
-tags:
-  - paper
-  - computational notebooks
-permalink: 2018/05/21/scientific-paper
 ---
+
 I ran across an ambitiously titled article in the Atlantic, "[The Scientific Paper Is Obsolete (Here’s what’s next)](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)". The title felt a bit like click-bait, but as an academic, that kind of bold pronouncement is hard to resist.
 
 The **TL;DR** version of the paper is this: *Static papers will be replaced by papers with interactive figures.*

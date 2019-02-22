@@ -1,16 +1,16 @@
 ---
-id: 57
-title: 'The next head-worn-display I&#8217;ll be buying some of!'
-date: 2009-01-16T07:54:20+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=57
-permalink: /2009/01/16/the-next-head-worn-display-ill-be-buying-some-of/
+title: The next head-worn-display I&#8217;ll be buying some of!
+date: 2009-01-16 02:54:20 -05:00
+permalink: "/2009/01/16/the-next-head-worn-display-ill-be-buying-some-of/"
 categories:
 - commercial
 - displays
 tags:
 - vuzix
+id: 57
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=57
 ---
 
 I have to admit I'm both optimistic and pessimistic at the same time about the [Vuzix Wrap 920AV](http://vuzix.com/iwear/products_wrap920av.html) that was annouced at CES this year.  

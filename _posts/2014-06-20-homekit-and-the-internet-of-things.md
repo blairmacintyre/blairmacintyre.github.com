@@ -1,11 +1,7 @@
 ---
-id: 714
 title: HomeKit, Google, Facebook, Privacy and the Internet of Things
-date: 2014-06-20T10:43:41+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=714
-permalink: /2014/06/20/homekit-and-the-internet-of-things/
+date: 2014-06-20 06:43:41 -04:00
+permalink: "/2014/06/20/homekit-and-the-internet-of-things/"
 categories:
 - musings
 - privacy
@@ -14,6 +10,10 @@ tags:
 - google
 - homekit
 - lyric
+id: 714
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=714
 ---
 
 While there is much that can be said about privacy, security, policy and the Internet of Things (in fact, I'm going to be co-teaching a graduate class at Georgia Tech on this very topic next spring), here I want to focus on one thing:  the invasion of your home and my hope Apple and their partners take privacy seriously.

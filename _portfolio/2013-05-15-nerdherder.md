@@ -1,13 +1,14 @@
 ---
-id: 439
 title: Nerdherder
-date: 2013-05-15T20:59:03+00:00
+date: 2013-05-15 16:59:03 -04:00
+permalink: "/project/nerdherder/"
+id: 439
 author: blair
 layout: portfolio
-permalink: /project/nerdherder/
 subtitle: a motion-controlled table-top augmented reality puzzle game
-img: /assets/uploads/2012/05/NH_Poster_Aug14_27x40_Crop-466x350.jpg 
+img: "/assets/uploads/2012/05/NH_Poster_Aug14_27x40_Crop-466x350.jpg"
 ---
+
 NerdHerder is a motion-based puzzle game that leverages handheld Augmented Reality (AR) interfaces. Nerderher was first developed as part of on ongoing exploration of interaction mechanics in AR games, that started with<a title="NerdFerno" href="http://ael.gatech.edu/argamestudio/2010/12/09/nerdferno/" target="_blank">NerdFerno</a>.. The current game’s premise is that you are hired as an IT manager, and your job is to use “management skills” to get the nerd employees back to work in their cubicles. The game description and video can be found on [www.MicroNerd.net](http://www.micronerd.net/).
 
 Many handheld AR games at the time focused on action game mechanics, especially shooting games. With NerdHerder, we opted instead to experiment with a different genre of gameplay that closely combines the cognitive skills of puzzle solving with dexterity and fine-motor skills.

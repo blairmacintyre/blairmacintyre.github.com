@@ -1,17 +1,17 @@
 ---
-id: 727
 title: Apple Claims the High Ground on Privacy
-date: 2014-09-18T09:14:00+00:00
-author: blair
-layout: post
-guid: http://blairmacintyre.me/?p=727
-permalink: /2014/09/18/apple-claims-the-high-ground-on-privacy/
+date: 2014-09-18 05:14:00 -04:00
+permalink: "/2014/09/18/apple-claims-the-high-ground-on-privacy/"
 categories:
 - commercial
 - privacy
 tags:
 - apple
 - microsoft
+id: 727
+author: blair
+layout: post
+guid: http://blairmacintyre.me/?p=727
 ---
 
 Yesterday, [I blogged about an interview with Tim Cook](http://blairmacintyre.me/2014/09/16/you-are-not-an-iproduct/) where he made some great claims about Apple’s stance on privacy.  More keeps coming.  They are pushing everyone to two-factor authentication on iCloud, for example. Now, Apple posted a web page talking about how [privacy is built into iOS and their services](http://www.apple.com/privacy/privacy-built-in/), which is chock full of wonderful things (and repleat with jabs at “their competitors”).

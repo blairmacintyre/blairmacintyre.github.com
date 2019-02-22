@@ -1,17 +1,17 @@
 ---
-id: 620
 title: A spectrum of web technology uses for AR
-date: 2014-03-29T23:25:48+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=620
-permalink: /2014/03/29/a-spectrum-of-web-technology-uses-for-ar/
+date: 2014-03-29 19:25:48 -04:00
+permalink: "/2014/03/29/a-spectrum-of-web-technology-uses-for-ar/"
 categories:
 - argon
 tags:
 - AEL
 - html5
 - web
+id: 620
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=620
 ---
 
 Last week I gave a few talks on AR technology and the web (at the [AWE-NY AR meetup](http://awe-ny.com) in New York, and the [AR Community Meeting](http://www.perey.com/ARStandards/march-2014-ar-community-agenda/) at the OGC Annual Meeting in DC), based on our work on the [Argon Web Browser](http://argon.gatech.edu), a project I run at Georgia Tech.  Argon is interesting, I think, because we are exploring what it means to add AR technology to a web browser, and what it would mean for both the programmer API's and user experience.

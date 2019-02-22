@@ -1,13 +1,13 @@
 ---
+title: Some thoughts on AR
+date: 2009-11-03 17:04:15 -05:00
+permalink: "/2009/11/03/some-thoughts-on-ar/"
+categories:
+- musings
 id: 123
-title: "Some thoughts on AR"
-date: 2009-11-03T22:04:15+00:00
 author: blair
 layout: post
 guid: http://www.augmentedenvironments.org/blair/?p=123
-permalink: /2009/11/03/some-thoughts-on-ar/
-categories:
-- musings
 ---
 
 Over the last few months, I've talked to countless reporters, and answered questions via phone and email.  It occurred to me the other day that it might be good to start sharing some of these questions and answers here, so more people can see them;  if I'm going to the trouble to explain AR and my views on it, why never put those ideas out there?   So, without further ado, here are some current thoughts on AR.

@@ -1,14 +1,15 @@
 ---
-id: 491
 title: AR SecondLife
+date: 2009-09-26 06:45:22 -04:00
+permalink: "/project/ar-secondlife/"
+id: 491
 subtitle: Mixed an MMO with the physical world
-date: 2009-09-26T10:45:22+00:00
 author: blair
 layout: portfolio
-guid: 'http://www.blairmacintyre.me/?post_type=portfolio&#038;p=491'
-permalink: /project/ar-secondlife/
-img: /assets/uploads/2013/09/armachinima-466x350.png
+guid: http://www.blairmacintyre.me/?post_type=portfolio&#038;p=491
+img: "/assets/uploads/2013/09/armachinima-466x350.png"
 ---
+
 Massively Multiplayer Online Worlds (MMO) are persistent virtual environments where people play, experiment and socially interact.  Second Life was unique among early MMOs in that residents were free to create whatever content they wanted.  While the tools were limited and sometimes awkward, a huge amount of experimentation was done with in SL, exploring how to use MMOs for art, education, commerce, collaboration and play.  
 
 In [AR Second Life](http://ael.gatech.edu/arsecondlife) research project, we show that MMOs can also provide a powerful platform for Augmented Reality (AR) applications, by aligning a part of the MMO with a part of the physical world. We introduce the notion of  AR Stages, persistent, evolving spaces which encapsulate AR experiences in online three dimensional virtual worlds.

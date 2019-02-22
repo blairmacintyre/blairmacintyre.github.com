@@ -1,11 +1,7 @@
 ---
-id: 686
 title: Oculus + Facebook = social virtual, or a stepping stone?
-date: 2014-04-28T19:58:28+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=686
-permalink: /2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/
+date: 2014-04-28 15:58:28 -04:00
+permalink: "/2014/04/28/oculus-facebook-social-virtual-or-a-stepping-stone-2/"
 categories:
 - commercial
 - musings
@@ -14,6 +10,10 @@ tags:
 - metaverse
 - mirror worlds
 - oculus
+id: 686
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=686
 ---
 
 I've made no secret that I'm not optimistic about the prospect for VR's success as a consumer product, this time 'round, any more than I thought it was going to work for consumers last time 'round (i.e., the 80's and 90's, when I first played with it).  So, while I have some dev kits (to hack for AR!) and have an Oculus "VR" sticker on my care (because it's weird), I was definitely in the camp of folks dumbfounded when Facebook bought Oculus.

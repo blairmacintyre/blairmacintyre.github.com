@@ -1,16 +1,17 @@
 ---
 title: Narrative Games that Fail
-date: '2018-08-26T09:43:00-04:00'
+date: 2018-08-26 09:43:00 -04:00
+permalink: 2018/08/26/games-that-fail
+categories:
+- personal
+- musings
+tags:
+- games
 author: blair
 layout: post
-categories:
-  - personal
-  - musings
-tags:
-  - games
-permalink: 2018/08/26/games-that-fail
 comments: false
 ---
+
 I've set Overwatch aside for a while, and have been revisting old games I never finished (or hadn't even started).  Sadly, I've found the experience less than satisfying, as I summarized on Mastodon this morning:{% marginnote "dug" "Don't even get me started on some of the more purely narrative games, like Dear Esther and Gone Home."%}
 
 

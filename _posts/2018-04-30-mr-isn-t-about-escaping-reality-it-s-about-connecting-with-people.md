@@ -1,15 +1,16 @@
 ---
 title: 'MR isn''t About Escaping Reality, it''s About Connecting with People   '
-date: '2018-04-30T08:24:56-04:00'
+date: 2018-04-30 08:24:56 -04:00
+permalink: 2018/04/30/mr-is-about-connection
+categories:
+- musings
+- social
+tags:
+- social MR
 author: blair
 layout: post
-categories:
-  - musings
-  - social
-tags:
-  - social MR
-permalink: 2018/04/30/mr-is-about-connection
 ---
+
 As part of the Mixed Reality team at Mozilla, I've been watching the development and release of [Mozilla Hubs](https://hubs.mozilla.com/) with excitement. I've thought about using VR and AR for collaboration for years, going back to the work we did creating an [AR client for SecondLife](http://ael.gatech.edu/arsecondlife/) many years ago.  Just last week, I wrote about [why I found Hubs so exciting](/2018/04/26/bespoke-social-xr), and the idea of enabling new ways of creating social experiences was one of the core ideas.
 
 When we look back in the future, I think we'll see that the most significant impact of social AR and VR will be on access; to people, places, experiences and situations.  VR enthusiasts tend to talk about VR letting people go places they couldn't otherwise go and experience those _places_, but I think that will be a minor aspect of MR.

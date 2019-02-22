@@ -1,18 +1,19 @@
 ---
 title: A Goodbye Letter to eSports
-date: '2018-03-20T17:40:06-04:00'
-author: blair
-layout: post
+date: 2018-03-20 17:40:06 -04:00
 permalink: "/2018/03/20/i-love-esports-games-but-i-m-giving-up-on-them/"
 categories:
-  - personal
-  - musings
+- personal
+- musings
 tags:
-  - games
-  - esports
-  - rocket league
-  - overwatch
+- games
+- esports
+- rocket league
+- overwatch
+author: blair
+layout: post
 ---
+
 So long, farewell, auf Wiedersehen, goodbye{% sidenote "goodbye" "If you haven't seen The Sound of Music, you should."%}.
 
 > Dear eSports,

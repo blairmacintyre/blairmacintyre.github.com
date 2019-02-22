@@ -1,8 +1,6 @@
 ---
-title: "Valid SSL certs for local HTTPS webdev" 
-date: "2017-06-14 08:53:38 -0400" 
-author: blair
-layout: post
+title: Valid SSL certs for local HTTPS webdev
+date: 2017-06-14 08:53:38 -04:00
 permalink: "/2017/06/14/valid-ssl-certs-for-local-https-webdev/"
 categories:
 - personal
@@ -10,7 +8,10 @@ tags:
 - webdev
 - ssl
 - letsencrypt
+author: blair
+layout: post
 ---
+
 {% marginnote "justification" "I decided to deal with it for a practical reason:  I have been giving presentation about our WebAR work using the web, combining the [reveal.js](http://lab.hakim.se/reveal-js/#/) web presentation package with our [argon.js](https://argonjs.io) AR web framework, and running the presentation (with embedded AR demos) in our [Argon4](https://app.argonjs.io) AR-capable mobile web browser. When presenting, it's best to run the server locally, to avoid being at the mercy of whatever net connection is available at a conference, but to access the web location API, websites must be hosted securely.  And, while invalid certficate warnings are annoying, Argon4 currently does not work with invalid certficates at all.  After running into problems with a very slow conference network last week, I decided to fix this." %} In the category of "technical things that are mildly annoying, but I never get around to fixing", the inability to use `https://` with a valid SSL certficate when doing local webdev on my laptop is way up there.  Or, was. 
 
 To have a valid SSL certificate for `https://` the certificate needs to be signed by a real Certficate Authority, and (thus) needs to have a well defined DNS hostname.  Both of these appear challenging on laptops, but turn out to be "not so bad."

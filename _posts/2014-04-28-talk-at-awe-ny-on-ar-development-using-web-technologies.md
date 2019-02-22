@@ -1,11 +1,7 @@
 ---
-id: 688
-title: 'Talk at AWE-NY on &#8220;AR Development using Web Technologies&#8221;'
-date: 2014-04-28T20:17:27+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=688
-permalink: /2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/
+title: Talk at AWE-NY on &#8220;AR Development using Web Technologies&#8221;
+date: 2014-04-28 16:17:27 -04:00
+permalink: "/2014/04/28/talk-at-awe-ny-on-ar-development-using-web-technologies/"
 categories:
 - argon
 - conference
@@ -13,6 +9,10 @@ categories:
 tags:
 - awe-ny
 - webar
+id: 688
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=688
 ---
 
 On March 25th, I gave a short talk at AWE-NY covering some thoughts on developing AR applications using web technologies.  I am particularly interested in developing AR for web browsers, not using web technologies as the development environment for building custom applications.  Of course, I focused on our work on the Argon AR-enabled web browser and the argon.js Javascript toolkit, but I also touched on how these technologies fit without the spectrum, and trajectory, of AR technologies for the web.

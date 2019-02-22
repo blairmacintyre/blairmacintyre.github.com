@@ -1,16 +1,17 @@
 ---
 title: What's the AR/VR/3D Web.  How about "The Web"?
-date: '2018-04-25T20:10:47-04:00'
+date: 2018-04-25 20:10:47 -04:00
+permalink: 2018/04/25/the-web-is-the-web
+categories:
+- musings
+tags:
+- immersive web
+- webxr
+- responsive
 author: blair
 layout: post-full-width
-categories:
-  - musings
-tags:
-  - immersive web
-  - webxr
-  - responsive
-permalink: 2018/04/25/the-web-is-the-web
 ---
+
 My super-awesome colleague [Trevor](https://trevor.smith.name/) raised the question  "What’s a name for the web after we start supporting AR/VR headsets?"   He even posted the question to Twitter (you can go read responses there if you'd like, and chime in if you want).
 
 {% twitter https://twitter.com/TrevorFSmith/status/989269106858774529 %} 

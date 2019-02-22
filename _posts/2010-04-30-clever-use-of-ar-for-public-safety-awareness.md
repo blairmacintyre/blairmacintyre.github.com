@@ -1,17 +1,17 @@
 ---
-id: 423
 title: Clever use of AR for public safety awareness
-date: 2010-04-30T06:10:23+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=140
-permalink: /2010/04/30/clever-use-of-ar-for-public-safety-awareness/
+date: 2010-04-30 02:10:23 -04:00
+permalink: "/2010/04/30/clever-use-of-ar-for-public-safety-awareness/"
 categories:
 - commercial
 - musings
 tags:
 - magic mirror
 - public installation
+id: 423
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=140
 ---
 
 This [link](http://www.fastcompany.com/1633702/dutch-government-uses-augmented-reality-to-shame-citizens) wandered into my inbox this morning, and I must say, I'm impressed.  It's the first use of AR I've seen in a long time that seems genuinely novel and interesting;  not just a gimmick or a trite repacking of an old idea.  On the video, it seems like it would be upsetting and jarring (in sharp contrast with the novelty and "awe" of seeing this hybrid scene).

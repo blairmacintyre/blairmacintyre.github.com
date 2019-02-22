@@ -1,17 +1,17 @@
 ---
-id: 426
-title: 'What?  You want us to be your Dancing Bears?'
-date: 2012-03-14T11:07:21+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=180
-permalink: /2012/03/14/what-you-want-us-to-be-your-dancing-bears/
+title: What?  You want us to be your Dancing Bears?
+date: 2012-03-14 07:07:21 -04:00
+permalink: "/2012/03/14/what-you-want-us-to-be-your-dancing-bears/"
 categories:
 - conferences
 - musings
 tags:
 - chi
 - dancing bears
+id: 426
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=180
 ---
 
 In the most recent issue of ACM Interactions, there was a short article by the ACM CHI Program chair titled ["A Cry for More Tech at CHI!"](http://dl.acm.org/citation.cfm?id=2090154&CFID=70499449&CFTOKEN=98520342). Since Interaction is not a blog, where you can't reply, I'm replying here, because the article struck a nerve.

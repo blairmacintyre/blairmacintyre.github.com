@@ -1,8 +1,6 @@
 ---
-title: 
-date: 
 author: blair
 layout: full-width
 header: true
-permalink: 
 ---
+

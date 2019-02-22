@@ -1,18 +1,17 @@
 ---
-title: >-
-  The Challenge of Active Learning is Learning to Create Active Learning
-  Activities
-date: '2018-05-02T06:17:50-04:00'
+title: The Challenge of Active Learning is Learning to Create Active Learning Activities
+date: 2018-05-02 06:17:50 -04:00
+permalink: 2018/05/02/learning-to-teach-with-active-learning
+categories:
+- personal
+- educational
+tags:
+- active learning
+- challenges
 author: blair
 layout: post
-categories:
-  - personal
-  - educational
-tags:
-  - active learning
-  - challenges
-permalink: 2018/05/02/learning-to-teach-with-active-learning
 ---
+
 I was reading my email over my morning coffee, and clicked through to a [Chronicle of High Ed](https://www.chronicle.com/){% marginnote "highered" "I've subscribed to the Chronicle for years; even though I've been on leave from Georgia Tech for more than 2 years, I still find myself reading an article or two each day. For anyone in, or interested in, higher education, I recommend subscribe!"%} article titled [Your Students Learn by Doing, Not by Listening](https://www.chronicle.com/article/Your-Students-Learn-by-Doing/243277?cid=at&utm_source=at&utm_medium=en&elqTrackId=321a1079c8304acf99971271a838cda4&elq=3056675d3cb74c97a94aa092dcc039f3&elqaid=18900&elqat=1&elqCampaignId=8526) with a faint sense of hope and dread.  You see, I'm one of those teachers that fully understands the value of [active learning](https://en.wikipedia.org/wiki/Active_learning) but finds it extremely difficult to implement in practice.
 
 > We have to go beyond the idea that the perfect presentation of the relevant facts will be enough to help the majority of our students learn. Such pedagogy (whether or not we call it lecturing) will work for some students. But for most students, we need to shift our focus from what it is we say to what it is they do.

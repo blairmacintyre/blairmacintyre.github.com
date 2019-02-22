@@ -1,16 +1,16 @@
 ---
-id: 131
 title: Is it time for academic conferences to leave print proceedings behind?
-date: 2012-08-10T00:20:37+00:00
-author: blair
-layout: post
-guid: http://blairmacintyre.com/?p=131
-permalink: /2012/08/10/ditch-the-print-proceedings/
+date: 2012-08-09 20:20:37 -04:00
+permalink: "/2012/08/10/ditch-the-print-proceedings/"
 categories:
 - research
 tags:
 - conferences
 - interactivity
+id: 131
+author: blair
+layout: post
+guid: http://blairmacintyre.com/?p=131
 ---
 
 This year, I'm co-chair of IEEE [ISMAR 2012](http://ismar.vgtc.org) (International Symposium on Mixed and Augmented Reality), which will take place here in Atlanta at the Georgia Tech Hotel and Conference Center in early November.

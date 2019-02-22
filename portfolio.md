@@ -1,8 +1,8 @@
 ---
-layout: full-width
 title: Portfolio
+permalink: "/portfolio/"
+layout: full-width
 headmenu: Portfolio
-permalink: /portfolio/
 ---
 
 {% for project in site.portfolio reversed %}

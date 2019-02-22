@@ -1,11 +1,11 @@
 ---
-title: "Putting Virtual Art in the World" 
-date: "2017-05-14 08:51:48 -0400" 
-author: blair
-layout: post
+title: Putting Virtual Art in the World
+date: 2017-05-14 08:51:48 -04:00
 permalink: "/2017/05/14/putting-virtual-art-in-the-world/"
 categories:
 - 
-tags:
-- 
+- ''
+author: blair
+layout: post
 ---
+

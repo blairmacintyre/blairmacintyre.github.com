@@ -1,12 +1,7 @@
 ---
-id: 737
-title: 'Preparing for UIST 2014 &#8230; decade-old technology rises from the dead!'
-date: 2014-09-23T21:43:24+00:00
-author: blair
-layout: post
-comments: true
-guid: http://blairmacintyre.me/?p=737
-permalink: /2014/09/23/preparing-for-uist-2014/
+title: Preparing for UIST 2014 &#8230; decade-old technology rises from the dead!
+date: 2014-09-23 17:43:24 -04:00
+permalink: "/2014/09/23/preparing-for-uist-2014/"
 categories:
 - conference
 - research
@@ -14,6 +9,11 @@ tags:
 - AEL
 - DART
 - Four Angry Men
+id: 737
+author: blair
+layout: post
+comments: true
+guid: http://blairmacintyre.me/?p=737
 ---
 
 {% marginfigure "uist-dart" "assets/uploads/2014/09/2014-09-23-15.45.35-1024x1024.jpg" "Our old laptop, freshly awoken from 2007." %}

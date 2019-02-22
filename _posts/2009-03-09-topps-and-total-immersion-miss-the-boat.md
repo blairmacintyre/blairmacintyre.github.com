@@ -1,10 +1,7 @@
 ---
-id: 417
 title: Topps and Total Immersion miss the boat
-date: 2009-03-09T06:38:20+00:00
-author: blair
-layout: post
-permalink: /2009/03/09/topps-and-total-immersion-miss-the-boat/
+date: 2009-03-09 02:38:20 -04:00
+permalink: "/2009/03/09/topps-and-total-immersion-miss-the-boat/"
 categories:
 - commercial
 - demos
@@ -12,6 +9,9 @@ tags:
 - cards
 - topps
 - total immersion
+id: 417
+author: blair
+layout: post
 ---
 
 It really is such a shame to see such a potentially good idea miss the mark.  A bunch of stories are running around the blog-o-sphere today, likely fueled by the article in the [New York Times](http://www.nytimes.com/2009/03/09/technology/09topps.html) about Topps' idea to save the baseball trading card business: AR baseball cards (go [here](http://www.wilson-graf.com/w/?p=26491) and [here](http://www.buzzup.com/us/story.php?title=Topps-3D-Live-Brings-Augmented-Reality-to-Baseball-Cards-Augmented-Reality) and [here,](http://i.gizmodo.com/5166565/topps-3d-live-brings-augmented-reality-to-baseball-cards) for example.  I like the blogs, since many of the comments express my feelings with much more colorful language).

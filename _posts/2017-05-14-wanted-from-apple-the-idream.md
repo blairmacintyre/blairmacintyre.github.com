@@ -1,15 +1,16 @@
 ---
-title: "Wanted From Apple: The iDream, Daydream meets Tango" 
-date: "2017-05-14 08:53:42 -0400" 
-author: blair
-layout: post
+title: 'Wanted From Apple: The iDream, Daydream meets Tango'
+date: 2017-05-14 08:53:42 -04:00
 permalink: "/2017/05/14/wanted-from-apple-the-idream/"
 categories:
 - commercial
 - musings
 tags:
 - apple, tango, daydream, mobile
+author: blair
+layout: post
 ---
+
 Amid the rumors of Apple working on an AR gadget, I've been thinking about what I'd like to see.  Now, it seems clear that a full-blown, standalone immersive 3D AR display isn't going to happen anytime soon, but given their assets and what's been happening in the AR/VR tech world, here's one possibility I find interesting.
 
 First, consider what's going on elsewhere.  Google's Tango and Microsoft's Hololens do full-blown SLAM (Simultaneous Localization and Tracking), able to build real-time meshes of the world and use them for tracking.  Facebook (and Microsoft) have shown some interesting implementations of mono-SLAM (SLAM with a single camera) in recent annoncements (at F8 and the recent Windows 10 S events).  And, Google's Daydream and Samsung's GearVR show the benefit of embedding addition sensors in a "box you put your phone in to get a VR display", creating much more responsive and powerful experiences than generic "cardboard" display holders.

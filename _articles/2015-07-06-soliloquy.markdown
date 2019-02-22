@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Soliloquy Of The Solipsist
-date: 2015-07-06 07:59:00
+date: 2015-07-06 03:59:00 -04:00
+layout: post
 ---
+
 I?    
 I walk alone;    
 The midnight street    

@@ -1,10 +1,10 @@
 ---
-id: 6003
 title: teaching
-date: 2008-09-11T16:28:04+00:00
+date: 2008-09-11 12:28:04 -04:00
+permalink: "/teaching/"
+id: 6003
 author: blair
 layout: full-width
-permalink: /teaching/
 ---
 
 In the Spring of 2017, I will teach a new class on 3D User Interfaces.

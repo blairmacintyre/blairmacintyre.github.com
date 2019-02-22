@@ -1,14 +1,15 @@
 ---
-title: "Welcome To Mozilla!" 
-date: "2016-11-07T082544-0500" 
-author: blair
-layout: post
+title: Welcome To Mozilla!
+date: 2016-11-07 00:00:00 -05:00
 permalink: "/2016/11/07/welcome-to-mozilla/"
 categories:
 - personal
 tags:
 - mozilla
+author: blair
+layout: post
 ---
+
 Today I am excited to start a new job, while on leave from Georgia Tech, as a Principal Research Scientist at Mozilla{% marginfigure "moz" assets/images/mozilla.png "Blair MacIntyre<br>Principal Research Scientist" %}. I'll be working for Sean White in the Emerging Technologies Group, looking at adding AR capabilities to the web. 
 
 {% newthought "For those" %} of you know know me, or follow my work, this is a natural progression for me.  I've been leading the [Argon](http://argon.gatech.edu) project at Georgia Tech since 2009, looking at what it issues related to using the Web as an infrastructure for AR. We have just released the the 4th version of the Argon browser (Argon4 for iOS) and open-sourced the AR web framework _argon.js_, all of which can be found at [argonjs.io](https://argonjs.io).  This version is reasonable solid, mature and usable, and the GT team is actively working on enhancing it and finally porting it to new platforms (like Android).

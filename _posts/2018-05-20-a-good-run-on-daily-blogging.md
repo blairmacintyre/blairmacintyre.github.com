@@ -1,15 +1,16 @@
 ---
 title: 'A good run on daily blogging '
-date: '2018-05-20T09:13:23-04:00'
+date: 2018-05-20 09:13:23 -04:00
+permalink: 2018/05/20/daily-blogging
+categories:
+- personal
+tags:
+- blogging
+- meta
 author: blair
 layout: post-full-width
-categories:
-  - personal
-tags:
-  - blogging
-  - meta
-permalink: 2018/05/20/daily-blogging
 ---
+
 Back on April 24, I challenged myself to [blog at least once per day](/2018/04/24/just-post-it).  I kept to it for 3 weeks, but in the end the time investment got to be too much. A few of my friends and colleagues asked how it's possible to do this;  they'd tried and failed (like I had in the past) to blog regularly.  Some said they couldn't find the time, others said they couldn't find something to write about every day.
 
 I personally don't find either to be the core problem.  Blog posts can be short, taking less than a half hour to write, edit and post. And they don't all have to be work related, or tech related, or earth-shatteringly insightful.  

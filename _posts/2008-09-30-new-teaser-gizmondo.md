@@ -1,16 +1,16 @@
 ---
-id: 37
-title: 'New teaser on the comeback of the Gizmondo &#8230;'
-date: 2008-09-30T18:14:47+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=37
-permalink: /2008/09/30/new-teaser-gizmondo/
+title: New teaser on the comeback of the Gizmondo &#8230;
+date: 2008-09-30 14:14:47 -04:00
+permalink: "/2008/09/30/new-teaser-gizmondo/"
 categories:
 - commercial
 - games
 tags:
 - gizmondo
+id: 37
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=37
 ---
 
 Engadget has a new article with details on the schedule for when we might see a new [Gizmondo](http://www.engadget.com/tag/gizmondo).  

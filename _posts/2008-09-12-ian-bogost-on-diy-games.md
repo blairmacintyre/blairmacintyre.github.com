@@ -1,16 +1,16 @@
 ---
-id: 17
-title: 'Ian Bogost on DIY games &#8230;'
-date: 2008-09-12T06:34:51+00:00
-author: blair
-layout: post
-permalink: /2008/09/12/ian-bogost-on-diy-games/
+title: Ian Bogost on DIY games &#8230;
+date: 2008-09-12 02:34:51 -04:00
+permalink: "/2008/09/12/ian-bogost-on-diy-games/"
 categories:
 - games
 tags:
 - bogost
 - games
 - social media
+id: 17
+author: blair
+layout: post
 ---
 
 As usual, Ian has some very insightful, cut through the hype, things to say about the [gaming and social media](http://www.gamasutra.com/view/feature/3784/persuasive_games_video_game_.php?print=1).  While he isn't talking about AR, his comments about the nature of personal media and game-creator tools will be even more poignant as handheld AR games and social spaces "get out there."  Once people can start "attaching their content" to the world, for anyone to see and experience, their will be a stronger push to move from static/linear content (e.g., photos, notes, videos) to dynamic media (e.g., animations that react to the viewers actions or to nearby activity in the world).

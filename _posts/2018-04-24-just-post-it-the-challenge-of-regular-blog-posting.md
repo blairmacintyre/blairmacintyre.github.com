@@ -1,15 +1,16 @@
 ---
 title: Just post it... the challenge of regular blog posting
-date: '2018-04-24T15:09:42-04:00'
+date: 2018-04-24 15:09:42 -04:00
+permalink: 2018/04/24/just-post-it
+categories:
+- personal
+- musings
+tags:
+- blogging
 author: blair
 layout: post-full-width
-categories:
-  - personal
-  - musings
-tags:
-  - blogging
-permalink: 2018/04/24/just-post-it
 ---
+
 During a break at the [CHI workshop on Novel Interaction Techniques for Collaboration in VR](https://virtualreality-chi2018.media.mit.edu/), I was was chatting with [Ken Perlin](http://www.kenperlin.com/) about blogging. (Ken and I were both speaking;  my slides are web-based and available on [github](https://github.com/blairmacintyre/chi-arvr-workshop-2018/), by the way. Point our WebXR Viewer for iOS at the [github pages site for this repo](https://blairmacintyre.github.io/chi-arvr-workshop-2018/#/) and you'll even get some live, albeit simple, AR demos later in the talk.)
 
 I've known Ken for years, and have always been amazed at the fact that he's [blogged every day for more than 10 years.](http://blog.kenperlin.com/)  Every single day.  So I asked him how he does it.  His answer: _**you just have to do it**_.  It just takes practice, and commitment, but it's not that hard.  

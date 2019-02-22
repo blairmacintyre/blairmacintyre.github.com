@@ -1,17 +1,17 @@
 ---
-id: 432
 title: 'Let&#8217;s Discuss:  Getting more Tech at CHI!'
-date: 2012-08-09T20:31:26+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=208
-permalink: /2012/08/09/lets-discuss-getting-more-tech-at-chi/
+date: 2012-08-09 16:31:26 -04:00
+permalink: "/2012/08/09/lets-discuss-getting-more-tech-at-chi/"
 categories:
 - personal
 tags:
 - chi
 - demos
 - interactions
+id: 432
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=208
 ---
 
 So, in response to a short article by the ACM CHI Program chair titled ["A Cry for More Tech at CHI!."](http://dl.acm.org/citation.cfm?id=2090154&CFID=70499449&CFTOKEN=98520342), I wrote a blog post (titled "[What? You want us to be your Dancing Bears?](http://ael.gatech.edu/blair/2012/03/14/what-you-want-us-to-be-your-dancing-bears/)") saying why I thought this request was off the mark.

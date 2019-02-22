@@ -1,11 +1,7 @@
 ---
-id: 651
 title: Would love to see a Random AR interface
-date: 2014-04-04T09:18:19+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=651
-permalink: /2014/04/04/would-love-to-see-a-random-ar-interface/
+date: 2014-04-04 05:18:19 -04:00
+permalink: "/2014/04/04/would-love-to-see-a-random-ar-interface/"
 categories:
 - argon
 - musings
@@ -13,6 +9,10 @@ tags:
 - discovery
 - random
 - search
+id: 651
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=651
 ---
 
 David Meyer wrote an [interesting piece on GigaOM](http://gigaom.com/2014/04/04/why-random-is-developing-an-irrational-browsing-experience/) about the browsing UI [Random](https://itunes.apple.com/app/random/id583361618?ls=1&mt=8) has created for content exploration on iOS.{% marginfigure "random-ui" assets/uploads/2014/04/screen568x568-1-e1396617794966.jpeg "Random UI screen shot from iTunes app store." %}

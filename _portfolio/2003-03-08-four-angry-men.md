@@ -1,13 +1,14 @@
 ---
-id: 570
 title: Four Angry Men
-date: 2003-03-08T13:40:58+00:00
+date: 2003-03-08 08:40:58 -05:00
+permalink: "/project/four-angry-men/"
+id: 570
 author: blair
 layout: portfolio
-permalink: /project/four-angry-men/
-subtitle: An exploration of using AR to dramatize multiple points-of-view 
-img: /assets/uploads/2013/09/image2-437x350.jpg
+subtitle: An exploration of using AR to dramatize multiple points-of-view
+img: "/assets/uploads/2013/09/image2-437x350.jpg"
 ---
+
 “Four Angry Men” (FAM) evolved over the course of two years from being not only an experiment in creating dramatic AR, but to serving as the impetus for the design and development of the Designer’s Augmented Reality Toolkit (DART). The initial version of the experience included fewer characters and thus was called “Three Angry Men” (TAM)
 
 FAM is a single-narrative, multiple point-of-view augmented reality, in which the viewer/user becomes a participant in an abridged version of “Twelve Angry Men.” In FAM, the user witnesses the drama from the viewpoint of one of four jurors, and her perception of the scene reflects the expectations, beliefs, and prejudices of that juror. The user sits in one chair in a physical space representing the jury room. Through the head-worn display she can see three other virtual jurors (as texture-mapped video) occupying other chairs in the room. The user herself hears the words and the inner thoughts of the fourth juror, whose seat she is occupying. At any time the user can get up, move to another chair, and assume the point of view (POV) of another juror. While the user moves around the actions stops and rewinds slightly when she sits down; allowing the user to easily compare the a section of dramatic action from difference viewpoints. To represent the four viewpoints, four different six-minute versions of the experience were filmed for each of the characters and edited. The actors interpreted their roles differently for each version, allowing the user radically different viewpoints on the same dramatic scene.

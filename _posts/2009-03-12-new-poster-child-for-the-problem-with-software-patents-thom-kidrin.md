@@ -1,11 +1,7 @@
 ---
-id: 77
 title: 'New Poster Child for the Problem with Software Patents:  Thom Kidrin'
-date: 2009-03-12T08:06:38+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=77
-permalink: /2009/03/12/new-poster-child-for-the-problem-with-software-patents-thom-kidrin/
+date: 2009-03-12 04:06:38 -04:00
+permalink: "/2009/03/12/new-poster-child-for-the-problem-with-software-patents-thom-kidrin/"
 categories:
 - commercial
 - personal
@@ -13,6 +9,10 @@ tags:
 - evil
 - patents
 - wankers
+id: 77
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=77
 ---
 
 Writing an article about what's wrong with software patents is old news, but as it touches my research area again, I find my getting infuriated with the ludicrous nature of the system.  This latest round is brought to us by Thom Kidrin, the CEO at Worlds.com, [who insists that he is](http://www.businessinsider.com/worldscom-ceo-were-absolutely-going-to-sue-second-life-and-world-of-warcraft-2009-3)

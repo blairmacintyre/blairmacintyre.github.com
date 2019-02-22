@@ -1,11 +1,12 @@
 ---
-id: 201
 title: work
-date: 2013-09-14T13:51:49+00:00
+date: 2013-09-14 09:51:49 -04:00
+permalink: "/work/"
+id: 201
 author: blair
 layout: full-width
-permalink: /work/
 ---
+
 My professional life has revolved around academia, research and consulting.  I am currently a professor at [Georgia Tech](http://www.gatech.edu), in the [School of Interactive Computing](http://www.ic.gatech.edu).  My [publications](/publications/) and [research portfolio](/portfolio) can be found elsewhere on this site, including [direct links](/acmpubs/) to all of my ACM publications in the ACM Digital Library.  A list of classes I am teaching, and have taught in the past, are available (here)[/teaching].
 
 My address at Georgia Tech is:

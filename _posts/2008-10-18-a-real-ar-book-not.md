@@ -1,17 +1,17 @@
 ---
-id: 43
-title: 'A &#8220;real?&#8221; AR book &#8230; perhaps &#8230;'
-date: 2008-10-18T12:10:39+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=43
-permalink: /2008/10/18/a-real-ar-book-not/
+title: A &#8220;real?&#8221; AR book &#8230; perhaps &#8230;
+date: 2008-10-18 08:10:39 -04:00
+permalink: "/2008/10/18/a-real-ar-book-not/"
 categories:
 - commercial
 - magicbook
 tags:
 - german
 - metaio
+id: 43
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=43
 ---
 
 Picked up a pointer to an [AR Book](http://mark-logan.blogspot.com/2008/10/augmented-reality-pop-up-books.html) being shown at a German book fair.  While this blogger, and the blogger he points at, note that this is a "real" book (meaning, I assume, it will be for sale) rather than a demo, the video leaves the viewer wondering "so what?" ...

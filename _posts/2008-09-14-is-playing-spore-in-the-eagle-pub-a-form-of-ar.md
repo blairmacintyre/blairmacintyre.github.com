@@ -1,12 +1,7 @@
 ---
-id: 20
 title: Is playing Spore in The Eagle Pub a form of AR?
-date: 2008-09-14T13:20:07+00:00
-author: blair
-layout: post
-permalink: /2008/09/14/is-playing-spore-in-the-eagle-pub-a-form-of-ar/
-dsq_thread_id:
-  - 4525158646
+date: 2008-09-14 09:20:07 -04:00
+permalink: "/2008/09/14/is-playing-spore-in-the-eagle-pub-a-form-of-ar/"
 categories:
 - games
 - ismar
@@ -15,6 +10,11 @@ tags:
 - games
 - pubs
 - spore
+id: 20
+author: blair
+layout: post
+dsq_thread_id:
+- 4525158646
 ---
 
 Well, I guess I'll answer that question with "no."   But, on the night before ISMAR starts here in Cambridge, England, I was sitting around with some fellow AR folk, having a pint and some fish and chips in The Eagle, and I let the unwashed iPhone-less masses indulge in Spore on my iPhone.

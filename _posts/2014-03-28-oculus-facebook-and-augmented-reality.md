@@ -1,12 +1,7 @@
 ---
-id: 612
 title: Oculus, Facebook and Augmented Reality
-date: 2014-03-28T15:37:35+00:00
-author: blair
-excerpt: "Depending on who you are, the news that Facebook bought Oculus for $2 Billion was exciting, the end of the world or somewhere in between (or, if you aren't a VR geek, it was about as exciting as Google buying Nest or Facebook buying Instagram or Whatsapp for similarly large piles of cash and stock). "
-layout: post
-guid: http://www.blairmacintyre.me/?p=612
-permalink: /2014/03/28/oculus-facebook-and-augmented-reality/
+date: 2014-03-28 11:37:35 -04:00
+permalink: "/2014/03/28/oculus-facebook-and-augmented-reality/"
 categories:
 - commercial
 tags:
@@ -15,6 +10,14 @@ tags:
 - oculus
 - valve
 - vr
+id: 612
+author: blair
+excerpt: 'Depending on who you are, the news that Facebook bought Oculus for $2 Billion
+  was exciting, the end of the world or somewhere in between (or, if you aren''t a
+  VR geek, it was about as exciting as Google buying Nest or Facebook buying Instagram
+  or Whatsapp for similarly large piles of cash and stock). '
+layout: post
+guid: http://www.blairmacintyre.me/?p=612
 ---
 
 I haven't blogged in a while, and have been meaning to get back to it this semester.  And this seems like a good time, since it was an interesting week in the world of virtual environments.

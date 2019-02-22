@@ -1,16 +1,17 @@
 ---
 title: 'AR/VR depth illusions, this time with ARKit '
-date: '2018-04-26T17:11:42-04:00'
+date: 2018-04-26 17:11:42 -04:00
+permalink: 2018/04/26/ar-depth-illusions
+categories:
+- research
+tags:
+- arkit
+- depth
+- illusions
 author: blair
 layout: post
-categories:
-  - research
-tags:
-  - arkit
-  - depth
-  - illusions
-permalink: 2018/04/26/ar-depth-illusions
 ---
+
 I just ran across an article and demo from earlier this month, that [uses the iPhone X's TrueDepth Camera to Conjure 3D Illusions](https://mobile-ar.reality.news/news/apple-ar-app-uses-iphone-xs-truedepth-camera-conjure-3d-illusions-0183229/) as shown in this video
 
 {% youtube xjH8Q4xsKpo %}

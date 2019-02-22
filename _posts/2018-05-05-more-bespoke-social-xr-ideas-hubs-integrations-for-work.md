@@ -1,16 +1,17 @@
 ---
 title: 'More Bespoke Social XR Ideas:  Hubs Integrations for Work'
-date: '2018-05-05T09:41:46-04:00'
+date: 2018-05-05 09:41:46 -04:00
+permalink: 2018/05/05/bespoke-xr-work-hubs
+categories:
+- webxr
+tags:
+- social
+- slack
+- integration
 author: blair
 layout: post
-categories:
-  - webxr
-tags:
-  - social
-  - slack
-  - integration
-permalink: 2018/05/05/bespoke-xr-work-hubs
 ---
+
 {% marginnote "social" "Hubs is obviously important because it keeps the door open for Social XR systems and experiences that aren't beholden to specific platforms, and don't require you to abandon privacy or control like you might if you could only use platforms from certain big companies whose business is about monetizing you." %}I wrote a couple of weeks ago that the exciting thing for me about the [Mozilla Hubs](https://hubs.mozilla.com) release is the potential for customizable, on-the-fly social XR: [_bespoke_ social XR worlds](/2018/04/26/bespoke-social-xr). The openness of the web and the potential to control your platform, privacy and content are super-important, but if that's all web-based social XR has to offer, many people may not care:  recent history is filled with examples of people choosing free, convenient and pervasive systems over open, privacy-preserving ones, even when they know these closed platforms are problematic in many ways (Heck, I talk about the problems with Facebook all the time, but still have an account.)
 
 What will get a lot of people using open, web-based, social XR is not the architecture, but compelling applications. I offered educational applications as an example in my previous post, but that's just the tip of the iceberg, and in some ways a niche domain. Think about more pervasive, business oriented systems like github, trello, and slack.  Aside from providing useful services in and of themselves, a key to their rapid success is how they integrate with other web-based systems.  Github commits and issues can be tied to all kinds of systems;  slack has tight integration with dozens of other systems like Google docs and Dropbox.  And so on.

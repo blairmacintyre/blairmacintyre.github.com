@@ -1,16 +1,16 @@
 ---
-id: 416
 title: Welcome to the AR blog
-date: 2008-09-11T16:28:04+00:00
-author: blair
-excerpt: Well, here it is, the first post on yet another blog.
-layout: post
-permalink: /2008/09/11/hello-world-2/
+date: 2008-09-11 12:28:04 -04:00
+permalink: "/2008/09/11/hello-world-2/"
 categories:
 - personal
 tags:
 - blair
 - overview
+id: 416
+author: blair
+excerpt: Well, here it is, the first post on yet another blog.
+layout: post
 ---
 
 Well, here it is, the first post on yet another blog.  

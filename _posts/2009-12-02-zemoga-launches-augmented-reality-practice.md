@@ -1,17 +1,17 @@
 ---
-id: 132
-title: 'Zemoga launches &#8220;Augmented Reality Practice&#8221;?'
-date: 2009-12-02T07:12:21+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=132
-permalink: /2009/12/02/zemoga-launches-augmented-reality-practice/
+title: Zemoga launches &#8220;Augmented Reality Practice&#8221;?
+date: 2009-12-02 02:12:21 -05:00
+permalink: "/2009/12/02/zemoga-launches-augmented-reality-practice/"
 categories:
 - commercial
 tags:
 - business
 - practice
 - zemoga
+id: 132
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=132
 ---
 
 I'm not quite sure what [this means](http://www.your-story.org/digital-innovation-firm-zemoga-launches-augmented-reality-practice-61779/), but it is probably a good thing:

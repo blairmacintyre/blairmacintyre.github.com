@@ -1,17 +1,17 @@
 ---
-id: 136
 title: MineCraft + 3D Printer == Ultimate 3D Sandbox for Kids
-date: 2013-04-02T21:54:15+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.com/?p=136
-permalink: /2013/04/02/the-ultimate-3d-sandbox-for-kids/
+date: 2013-04-02 17:54:15 -04:00
+permalink: "/2013/04/02/the-ultimate-3d-sandbox-for-kids/"
 categories:
 - personal
 tags:
 - makerbot
 - minecraft
 - printcraft
+id: 136
+author: blair
+layout: post
+guid: http://www.blairmacintyre.com/?p=136
 ---
 
 I love Minecraft.  And if your kids are like my kids, they love Minecraft, too.  We've had a server running in our house for some time, but things got exciting for me when I discovered [www.printcraft.org](http://www.printcraft.org) late last year.  You see, Santa (in his infinite wisdom) had just brought us a Makerbot [Dual-head Replicator](http://store.makerbot.com/replicator.html), but I was at a loss on how to easily get my kids (aged 7 and 10) creating their own 3D objects, not just skimming [thingiverse.com](http://thingiverse.com) for "cool" things to print.

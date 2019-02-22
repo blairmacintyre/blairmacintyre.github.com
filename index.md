@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Blair MacIntyre
-nav_exclude: 1
 permalink: "/"
+layout: home
+nav_exclude: 1
 ---
+
 <figure class='fullwidth'><img src='{{site.baseurl}}/assets/uploads/2012/02/blair-wall-widecrop.jpg'/></figure>
 
 # Blair MacIntyre

@@ -1,11 +1,8 @@
 ---
-id: 666
-title: 'Cute idea, but getting &#8216;See-Through&#8217; hood to &#8216;work&#8217; is the hard part'
-date: 2014-04-10T07:17:59+00:00
-author: blair
-layout: post
-guid: http://www.blairmacintyre.me/?p=666
-permalink: /2014/04/10/cute-idea-but-getting-see-through-hood-to-work-is-the-hard-part/
+title: Cute idea, but getting &#8216;See-Through&#8217; hood to &#8216;work&#8217;
+  is the hard part
+date: 2014-04-10 03:17:59 -04:00
+permalink: "/2014/04/10/cute-idea-but-getting-see-through-hood-to-work-is-the-hard-part/"
 categories:
 - commercial
 tags:
@@ -13,7 +10,12 @@ tags:
 - car
 - Land Rover
 - see-through hood
+id: 666
+author: blair
+layout: post
+guid: http://www.blairmacintyre.me/?p=666
 ---
+
 {% capture ca-cite %}{% reference hill2011virtual  %}{% endcapture %}
 I saw a nice concept over on Mashable in this article, [Land Rover's 'See-Through' Hood Shows the Road Under Your Wheels](http://mashable.com/2014/04/09/land-rovers-see-through-hood-shows-the-road-under-your-wheels/).  Here's the video (which is the key part):
 

@@ -1,8 +1,6 @@
 ---
-title: "A Great Demo, But Not WebAR (yet)" 
-date: "2017-05-20 07:18:45 -0400" 
-author: blair
-layout: post
+title: A Great Demo, But Not WebAR (yet)
+date: 2017-05-20 07:18:45 -04:00
 permalink: "/2017/05/20/its-not-webar-yet/"
 categories:
 - commercial
@@ -10,7 +8,10 @@ tags:
 - googleio
 - webar
 - tango
+author: blair
+layout: post
 ---
+
 As part of [GoogleIO](https://events.google.com/io/) this past week, Google released some [sample code](https://github.com/googlevr/chromium-webar) on github for a little demo that exposes Tango's sensing into Chromium.
 
 At the top of the README it says: 

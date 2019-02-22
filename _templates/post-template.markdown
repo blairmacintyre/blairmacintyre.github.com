@@ -1,11 +1,9 @@
 ---
-title: 
-date: 
 author: blair
 layout: post
-permalink:
 categories:
 - 
 tags:
 - 
 ---
+

@@ -1,13 +1,13 @@
 ---
+title: A nice summary of the state of AR &#8230;
+date: 2010-01-05 14:06:34 -05:00
+permalink: "/2010/01/05/jarrells-state-of-the-art/"
+categories:
+- musings
 id: 421
-title: 'A nice summary of the state of AR &#8230;'
-date: 2010-01-05T19:06:34+00:00
 author: blair
 layout: post
 guid: http://www.augmentedenvironments.org/blair/?p=136
-permalink: /2010/01/05/jarrells-state-of-the-art/
-categories:
-- musings
 ---
 
 For those of you interested in AR, [Jarrell Pair's recent post](http://laboratory4.com/2010/01/the-reality-of-augmented-reality/) on the state of AR is a pretty good summary.

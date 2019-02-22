@@ -1,14 +1,15 @@
 ---
-title: "Argon4 Open Sourced, App available on Android and iOS" 
-date: "2017-07-26 11:42:37 -0400" 
-author: blair
-layout: post
+title: Argon4 Open Sourced, App available on Android and iOS
+date: 2017-07-26 11:42:37 -04:00
 permalink: "/2017/07/26/argon4-on-android-and-ios/"
 categories:
 - argon
 tags:
 - argon4, open source, mozilla
+author: blair
+layout: post
 ---
+
 {% maincolumn 'assets/images/argon4-source.gif' "Download and compile, lets make Argon4 great!" %}
 
 This post is long overdue, since we finished this work back in June, but better late then never!

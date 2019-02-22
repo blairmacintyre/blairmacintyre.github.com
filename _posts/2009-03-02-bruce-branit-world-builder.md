@@ -1,16 +1,16 @@
 ---
-id: 72
-title: 'Bruce Branit&#8217;s World Builder video'
-date: 2009-03-02T19:00:38+00:00
-author: blair
-layout: post
-permalink: /2009/03/02/bruce-branit-world-builder/
+title: Bruce Branit&#8217;s World Builder video
+date: 2009-03-02 14:00:38 -05:00
+permalink: "/2009/03/02/bruce-branit-world-builder/"
 categories:
 - art
 tags:
 - art
 - authoring
 - virtual worlds
+id: 72
+author: blair
+layout: post
 ---
 
 This is more like VR than AR, but worth looking at none-the-less.  

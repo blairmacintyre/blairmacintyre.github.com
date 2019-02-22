@@ -1,18 +1,19 @@
 ---
 title: AR Property Rights?
-date: '2018-06-25T12:30:54-04:00'
+date: 2018-06-25 12:30:54 -04:00
+permalink: 2018/06/25/ar-property-rights
+categories:
+- privacy
+tags:
+- webxr
+- privacy
+- property
+- ownership
+- ar
 author: blair
 layout: post
-categories:
-  - privacy
-tags:
-  - webxr
-  - privacy
-  - property
-  - ownership
-  - ar
-permalink: 2018/06/25/ar-property-rights
 ---
+
 Fiona McEvoy summarized some interesting viewpoints and issues related to permission, copyright, and AR augmentations in the real world, in a Slate article titled "[What Are Your Augmented Reality Property Rights?](https://amp.slate.com/technology/2018/06/can-you-prevent-augmented-reality-ads-from-appearing-on-your-house.html)".{% marginnote "vacy" "A friend forwarded this to me a few weeks back, but I was on vacation and am only now returning to it."%}
 
 These questions get raised a lot by people on all sides of the issue.  Some people take extreme positions ("it's all virtual and free speech dictates you have no control over what I see" to "virtually augmenting something is exactly the same as painting or building the same content in the physical world, so property rules and rights apply"), while others try to find a middle ground that respects free speech while also charting a path toward control of how we are perceived in the world.

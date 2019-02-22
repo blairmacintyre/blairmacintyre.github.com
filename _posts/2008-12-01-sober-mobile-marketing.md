@@ -1,15 +1,16 @@
 ---
-id: 51
-title: 'Some (overly?) sober advice on mobile marketing &#8230; do we care about the Tulsa test?'
-date: 2008-12-01T07:03:40+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=51
-permalink: /2008/12/01/sober-mobile-marketing/
+title: Some (overly?) sober advice on mobile marketing &#8230; do we care about the
+  Tulsa test?
+date: 2008-12-01 02:03:40 -05:00
+permalink: "/2008/12/01/sober-mobile-marketing/"
 categories:
 - commercial
 tags:
 - advertising
+id: 51
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=51
 ---
 
 I found this [blog post](http://www.clickz.com/3631831) interesting, when viewing high tech gadgetry from the viewpoint of mass appeal. I don't necessarily agree with all of it, but those of us embedded in the world of high tech sometimes forget that most people don't have the newest gadgets or will take a long time to get them, so it's good to be reminded of this.  

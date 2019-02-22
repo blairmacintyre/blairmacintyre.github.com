@@ -1,14 +1,15 @@
 ---
 title: 'Finally Saw Hamilton:  The Curse of the Cast Recording!'
-date: '2018-05-15T20:22:00-04:00'
+date: 2018-05-15 20:22:00 -04:00
+permalink: 2018/05/15/hamilton
+categories:
+- musings
+tags:
+- theatre
 author: blair
 layout: post
-categories:
-  - musings
-tags:
-  - theatre
-permalink: 2018/05/15/hamilton
 ---
+
 I'm in Chicago for work, and a group of us went to see Hamilton last night.
 
 {% maincolumn 'assets/uploads/img_2120.jpg' "Hamilton is doing a long run at the CIBC Theatre in Chicago." %}

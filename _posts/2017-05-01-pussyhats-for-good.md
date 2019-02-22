@@ -1,8 +1,6 @@
 ---
-title: "Lego Pussyhats for Good" 
-date: "2017-05-01T082540-0500" 
-author: blair
-layout: post
+title: Lego Pussyhats for Good
+date: 2017-05-01 00:00:00 -04:00
 permalink: "/2017/05/01/lego-pussyhats-for-good/"
 categories:
 - personal
@@ -10,6 +8,8 @@ tags:
 - lego
 - pussyhat
 - 3dprinting
+author: blair
+layout: post
 ---
 
 A little crafting can go a long way, it turns out. Here's a story of how we raised some money for [Planned Parenthood](https://www.plannedparenthoodaction.org) by 3D printing Pussy Hats for Lego Minifigs. 

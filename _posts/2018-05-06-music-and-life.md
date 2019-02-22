@@ -1,16 +1,17 @@
 ---
 title: Music and Life
-date: '2018-05-06T15:59:40-04:00'
+date: 2018-05-06 15:59:40 -04:00
+permalink: 2018/05/06/music
+categories:
+- personal
+tags:
+- music
+- todrick
+- bts
 author: blair
 layout: post-full-width
-categories:
-  - personal
-tags:
-  - music
-  - todrick
-  - bts
-permalink: 2018/05/06/music
 ---
+
 These last few weeks seem to have been punctuated with music-related events that have made me more conscious of the power of music and had me listening a lot more closely. I've been listening to a lot more variety of music, too:  my Apple Music "Radio" channels including Black Eyed Peas, Avicii, Pink!, Bruce Springstein, The Dowco Triump Street Band (bagpipes), among other things.  
 
 On April 20th, [Avicii](https://en.wikipedia.org/wiki/Avicii) died at the age of 28.  I wasn't a huge fan, I barely knew of him, but I loved the song [Wake Me Up](https://en.wikipedia.org/wiki/Wake_Me_Up_(Avicii_song)) and have found myself listening to more of his music this past few weeks.  

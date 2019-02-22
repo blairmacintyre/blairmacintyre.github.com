@@ -1,13 +1,13 @@
 ---
-title: "Finally Finished Moving My Site to Jekyll" 
-date: "2016-11-05T153000-0400" 
-author: blair
-layout: post
+title: Finally Finished Moving My Site to Jekyll
+date: 2016-11-05 00:00:00 -04:00
 permalink: "/2016/11/05/site-fixed/"
 categories:
 - personal
 tags:
 - blog, technology
+author: blair
+layout: post
 ---
 
 Earlier this year, I decided to move my personal website and blog out of Wordpress on onto Jekyll.  There were many reasons for this;  partly I was tired of dealine with Wordpress (yet again, and update to Wordpress and the plugins I was using caused me to have to spend time just getting things working again), but mostly I wanted more control over the blog so that I could start integrating more interesting content into it (this still hasn't happened, but it's "in progress").    I'm planning to add some AR content to the site, soon.

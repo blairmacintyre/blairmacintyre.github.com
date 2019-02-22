@@ -1,18 +1,19 @@
 ---
-title: 'Google''s Global Localization using VPS, the AR Cloud, and Privacy'
-date: '2019-02-13T11:25:49-05:00'
+title: Google's Global Localization using VPS, the AR Cloud, and Privacy
+date: 2019-02-13 11:25:49 -05:00
+permalink: 2019/02/13/global-localization
+categories:
+- commercial
+- privacy
+tags:
+- google
+- vps
+- maps
 author: blair
 layout: post
-categories:
-  - commercial
-  - privacy
-tags:
-  - google
-  - vps
-  - maps
-permalink: 2019/02/13/global-localization
 comments: false
 ---
+
 Interesting post Interesting post today on the Google AI Blog on [Using Global Localization to Improve Navigation](https://ai.googleblog.com/2019/02/using-global-localization-to-improve.html). Google is attempting to solve one of the thorniest problems with outdoor navigation, namely the unreliability and inaccuracy of the GPS and orientation sensors on mobile devices.  As they say,   
 
 > One of the consistent challenges when navigating with Google Maps is figuring out the right direction to go: sure, the app tells you to go north - but many times you're left wondering, "Where exactly am I, and which way is north?" Over the years, we've attempted to improve the accuracy of the blue dot with tools like GPS and compass, but found that both have physical limitations that make solving this challenge difficult, especially in urban environments. 

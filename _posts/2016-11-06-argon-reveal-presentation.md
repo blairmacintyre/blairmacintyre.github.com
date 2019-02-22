@@ -1,8 +1,6 @@
 ---
-title: "AR presentation with argon.js + aframe.js + reveal.js" 
-date: "2016-11-06T130000-0400" 
-author: blair
-layout: post
+title: AR presentation with argon.js + aframe.js + reveal.js
+date: 2016-11-06 00:00:00 -04:00
 permalink: "/2016/11/06/argon-aframe-reveal/"
 categories:
 - research
@@ -11,7 +9,10 @@ tags:
 - argon
 - aframe
 - presentation
+author: blair
+layout: post
 ---
+
 I recently gave a talk (with my colleage Maribeth) at Moxie's [FutureXLive](https://moxieusa.com/futurexlive) event.
 
 The talk was about _Democratizing AR_, the process of making AR accessible to many more people as a medium of for creating and sharing experiences, applications, and ideas. The main point of the presentation was that integrating AR technologies with the Web is the way to do this: democratization is not just about having "easy, simple tools" for creating content, but also having control over how and when the content is made available.  The requirment to build, polish, port, ship and maintain apps puts technologies like AR out of the hands of many people, in contrast to the simplicity of putting ideas on a web site.  Consider how much easier it was for me to write this blog post that ship an app!

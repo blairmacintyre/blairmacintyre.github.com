@@ -1,14 +1,14 @@
 ---
-id: 59
 title: Interview about a new AR company
-date: 2009-01-19T22:01:08+00:00
-author: blair
-layout: post
-guid: http://www.augmentedenvironments.org/blair/?p=59
-permalink: /2009/01/19/interview-about-a-new-ar-company/
+date: 2009-01-19 17:01:08 -05:00
+permalink: "/2009/01/19/interview-about-a-new-ar-company/"
 categories:
 - commercial
 - personal
+id: 59
+author: blair
+layout: post
+guid: http://www.augmentedenvironments.org/blair/?p=59
 ---
 
 Just read this [blog post](http://www.ugotrade.com/2009/01/17/is-it-“omg-finally”-for-augmented-reality-interview-with-robert-rice/), containing an interview with a guy named Robert Rice.  While much of it is a bit over the top self-promotion, pushing his "new vision" (read: things he's going to be trying to sell this year or next), it's refreshing to at least read commentary by someone who gets that AR isn't really about "putting graphics in the world", but about the what, who, why and how.  Or, as he puts it:

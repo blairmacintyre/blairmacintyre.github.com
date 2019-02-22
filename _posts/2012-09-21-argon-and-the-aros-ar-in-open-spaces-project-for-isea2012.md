@@ -1,11 +1,7 @@
 ---
-id: 434
 title: Argon and the AROS (AR in Open Spaces) project for ISEA2012
-date: 2012-09-21T09:57:42+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=223
-permalink: /2012/09/21/argon-and-the-aros-ar-in-open-spaces-project-for-isea2012/
+date: 2012-09-21 05:57:42 -04:00
+permalink: "/2012/09/21/argon-and-the-aros-ar-in-open-spaces-project-for-isea2012/"
 categories:
 - argon
 - art
@@ -13,6 +9,10 @@ tags:
 - argon
 - csdt
 - isea
+id: 434
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=223
 ---
 
 I've been following their work all summer, and an really excited that they are finally presenting it at [ISEA 2012](http://www.isea2012.org/) (International Symposium on Electronic Art) this week!

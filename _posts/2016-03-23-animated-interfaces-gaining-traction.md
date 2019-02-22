@@ -1,8 +1,6 @@
 ---
-title: "Animated Interfaces Gaining Traction" 
-date: "2016-03-23T131846-0400" 
-author: blair
-layout: post
+title: Animated Interfaces Gaining Traction
+date: 2016-03-23 00:00:00 -04:00
 permalink: "/2016/03/23/animated-interfaces-gaining-traction/"
 categories:
 - research
@@ -10,7 +8,10 @@ categories:
 tags:
 - adaptive
 - animation
+author: blair
+layout: post
 ---
+
 {% capture ca-cite %}{% reference Chang:1993:ACU:168642.168647 --file others %}{% endcapture %}
 {% capture ms-cite %}{% reference Maloney:1995:DLM:215585.215636 --file others %}{% endcapture %}
 I've been a fan of animated interfaces for years, going back to the amazing work that Sun's _Self_ team did on the _Self_ user interface.  The _Morphic_{% sidenotevar "maloney-smith" ms-cite %}user interface used in _Self_ was interesting in a lot of ways, especially how it bent over backwards to make the interface feel alive and like you were truly directly manipulating the objects you were creating and working with, both as you programmed and as you used it. I particularly like how the team adapted traditional animation techniques for the UI, building off the years of experience traditional animators had in making cartoon animations feel "real"{% sidenotevar "chang-ungar" ca-cite %}.

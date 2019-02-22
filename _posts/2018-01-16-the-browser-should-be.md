@@ -1,15 +1,16 @@
 ---
 title: WebXR Browsers Should Put the User in Control
-date: 2018-01-16T20:57:32.000Z
+date: 2018-01-16 15:57:32 -05:00
+categories:
+- webxr
+- argon
+- musings
+tags:
+- enterxr
 author: blair
 layout: post
-categories:
-  - webxr
-  - argon
-  - musings
-tags:
-  - enterxr
 ---
+
 Today, when you visit a web page that contains WebVR content, the page itself presents an interface to let the user transition into VR.  For example, a page on [sketchfab.com](https://sketchfab.com) contains a small image of a VR display in the toolbar overlaid on the 3D scene (the third icon in from the right): 
 
 {% maincolumn 'assets/uploads/sketchfab-1.png' "A typical page on sketchfab.com, showing a 3D scene with various controls overlaid along the bottom edge." %}

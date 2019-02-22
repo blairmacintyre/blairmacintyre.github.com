@@ -1,10 +1,7 @@
 ---
-id: 418
 title: Finally, an AR game coming to the DSi?
-date: 2009-05-26T13:41:22+00:00
-author: blair
-layout: post
-permalink: /2009/05/26/ghostwir-coming-to-the-dsi/
+date: 2009-05-26 09:41:22 -04:00
+permalink: "/2009/05/26/ghostwir-coming-to-the-dsi/"
 categories:
 - commercial
 tags:
@@ -13,6 +10,9 @@ tags:
 - ghosts
 - ghostwire
 - nintendo
+id: 418
+author: blair
+layout: post
 ---
 
 It looks like someone may actually make an AR game for the DSi;  the [GhostWire](http://www.ghostwiregame.com/2009/05/press-release-different-game-takes.html) game that someone created on the Nokia phone is now going to be ported to the DSi.

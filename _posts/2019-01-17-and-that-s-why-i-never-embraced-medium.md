@@ -1,16 +1,17 @@
 ---
 title: And That's Why I never Embraced Medium
-date: '2019-01-17T16:29:18-05:00'
+date: 2019-01-17 16:29:18 -05:00
+permalink: 2019/01/17/never-embraced-medium
+categories:
+- personal
+tags:
+- blogging
+- publishing
 author: blair
 layout: post
-categories:
-  - personal
-tags:
-  - blogging
-  - publishing
-permalink: 2019/01/17/never-embraced-medium
 comments: false
 ---
+
 When [Medium](https://medium.com) came on the scene, I created an account and fiddled with it, but I was never really comfortable with the downside of jumping on that platform.  I worried what their eventual end-goal would be, how they would make money, and what would become of my content ... would I, for example, ever be able to pull comments and discussions out of the platform if I wanted to leave?
 
 Over the past year or two, I mirrored some of my blog there, and even wrote a couple of posts (for my job at Mozilla) on the platform. For a while, I even paid for a subscription to support this new experimental platform.

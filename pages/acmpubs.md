@@ -1,8 +1,8 @@
 ---
 title: ACM Publications
+permalink: "/acmpubs/"
 author: blair
 layout: full-width
-permalink: /acmpubs/
 nav_exclude: 1
 ---
 

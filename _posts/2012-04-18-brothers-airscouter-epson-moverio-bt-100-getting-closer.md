@@ -1,14 +1,14 @@
 ---
-id: 429
-title: 'Brother&#8217;s Airscouter, Epson Moverio BT-100, getting closer &#8230;'
-date: 2012-04-18T10:03:47+00:00
-author: blair
-layout: post
-guid: http://ael.gatech.edu/blair/?p=194
-permalink: /2012/04/18/brothers-airscouter-epson-moverio-bt-100-getting-closer/
+title: Brother&#8217;s Airscouter, Epson Moverio BT-100, getting closer &#8230;
+date: 2012-04-18 06:03:47 -04:00
+permalink: "/2012/04/18/brothers-airscouter-epson-moverio-bt-100-getting-closer/"
 categories:
 - commercial
 - displays
+id: 429
+author: blair
+layout: post
+guid: http://ael.gatech.edu/blair/?p=194
 ---
 
 In light of all the talk of Google's project glass, there are a bunch of folks suggesting that the other displays on the market can already do what Project Glass is trying to do.  And, I will agree, some of these displays are getting closer.
