@@ -16,7 +16,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-    permalink: "/assets/uploads/:path"
+    permalink: "/assets/:path"
 defaults:
 - scope:
     path: ''
