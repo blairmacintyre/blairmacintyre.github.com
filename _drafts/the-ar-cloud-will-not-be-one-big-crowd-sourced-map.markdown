@@ -13,7 +13,7 @@ tags:
 
 My friend [Trevor](https://trevor.smith.name/) started twitter thread on architectural alternatives to "One Big Map" for the so-called "AR Cloud", it's an interesting read:
 
-{% https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
+{% twitter https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
 
 There's a lot going on in this thread.  As with all discussions of the AR cloud, there's a segment of folks who can't get past "the AR cloud requires we scoop up data and build big maps."  I think the point of Trevor poking at this is to counter (or at least stir up discussion) of this.  
 
