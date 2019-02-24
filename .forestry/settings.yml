@@ -4,6 +4,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _drafts
+  label: Drafts
+  create: all
+  match: "**/*"
+- type: directory
   path: _articles
   label: Articles
   create: all
@@ -19,7 +24,7 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: assets/uploads
+upload_dir: _uploads
 public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: false
