@@ -1,6 +1,6 @@
 ---
 title: The AR Cloud will not be One Big Crowd-Sourced Map
-date: 2019-02-22 16:39:00 +0000
+date: 2019-02-22 11:39:00 -05:00
 categories:
 - musings
 - commercial
@@ -10,8 +10,8 @@ tags:
 - permissions
 - privacy
 comments: false
-
 ---
+
 [Trevor Smith](https://trevor.smith.name/) started twitter thread pondering architectural alternatives to the idea of "One Big Map" for the so-called _AR Cloud_, it's an interesting read (although getting all the replies might require some digging{% marginnote "str" "I miss storify.com as a way to collect and publish a twitter story." %}):
 
 {% twitter https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
