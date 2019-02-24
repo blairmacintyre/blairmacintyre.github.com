@@ -1,6 +1,6 @@
 ---
 title: The AR Cloud will not be One Big Crowd-Sourced Map
-date: 2019-02-22 11:39:00 -05:00
+date: 2019-02-22 16:39:00 +0000
 categories:
 - musings
 - commercial
@@ -10,8 +10,8 @@ tags:
 - permissions
 - privacy
 comments: false
----
 
+---
 [Trevor Smith](https://trevor.smith.name/) started twitter thread pondering architectural alternatives to the idea of "One Big Map" for the so-called _AR Cloud_, it's an interesting read (although getting all the replies might require some digging{% marginnote "str" "I miss storify.com as a way to collect and publish a twitter story." %}):
 
 {% twitter https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
@@ -67,7 +67,7 @@ Consider Google's Global Localization ([I talked about it in a recent post](/201
 
 Relying on such an curated approach has some very nice properties. The base data (geolocated images) is visible and human understandable. It's relatively obvious what data is used, and existing processes (and policies and social norms) are in place to deal with conflicts over content in the images.
 
-In some ways, the crowd-sourcing approach implies throwing up our hands on privacy, arguing that no small company can compete, so we need to crowdsource our own private versions of these global geolocated anchors in what is essentially an uncontrolled, carefree and haphazard manner.  The results are then stored in private, opaque, non-decomposable, formats.
+In some ways, the crowd-sourcing approach implies throwing up our hands on privacy, arguing that no small company can compete, so we need to crowdsource our own private versions of these global geolocated anchors in what is essentially an uncontrolled and haphazard manner.  The results are then stored in private, opaque, non-decomposable, formats.
 
 {% newthought "Perhaps"%} we should instead step back and ask how we could follow the traditions of the open web to accomplish something similar to Google's VPS.
 
