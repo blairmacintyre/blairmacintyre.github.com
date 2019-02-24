@@ -1,6 +1,6 @@
 ---
 title: The AR Cloud will not be One Big Crowd-Sourced Map
-date: 2019-02-22 11:39:00 -05:00
+date: 2019-02-22 16:39:00 +0000
 categories:
 - musings
 - commercial
@@ -10,8 +10,8 @@ tags:
 - permissions
 - privacy
 comments: false
----
 
+---
 [Trevor Smith](https://trevor.smith.name/) started twitter thread pondering architectural alternatives to the idea of "One Big Map" for the so-called _AR Cloud_, it's an interesting read (although getting all the replies might require some digging{% marginnote "str" "I miss storify.com as a way to collect and publish a twitter story." %}):
 
 {% twitter https://twitter.com/TrevorFSmith/status/1096870939504111616 %}
@@ -75,6 +75,6 @@ One direction might be to build on [OpenStreetMap](https://www.openstreetmap.org
 
 There might be other approaches that could be taken, too, that support global localization combined with local precision, without charging forward with approaches that have obvious privacy problems, just because they are possible right now.
 
-{% newthought "As with" %} many technologies, it is up to us to decide what kind of future we want. Do we want a future where we control our data, and preserve notions of privacy and liberty?  Or do we want to contribute to a future as imagined in any number of dystopic novels, where a live, continuously updated 3D model of the world exist, one that is easily abused for surveillance by governments and companies?  Do we want a future with no physical privacy, where global "mirror worlds" expose all aspects of our lives to anyone who cares to look?
+{% newthought "As with" %} many technologies, it is up to us to decide what kind of future we want. Do we want a future where we control our data, and preserve notions of privacy and liberty?  Or do we want to contribute to a future as imagined in any number of dystopic novels, where a live, continuously updated 3D model of the world exists, one that is easily abused for surveillance by governments and companies?  Do we want a future with no physical privacy, where global "mirror worlds" expose all aspects of our lives to anyone who cares to look?
 
-These questions are not hypothetical. Today's news is rife with stories about governments and companies (ab)using technology for their own gain, at the expense of the public.  And once this genie is out of the bottle, it will be impossible to put it back in.
+These questions are not hypothetical. Today's news is rife with stories about governments and companies (ab)using technology for their own gain, at the expense of the public.  And once this particular genie is out of the bottle, it may be impossible to put it back in.
